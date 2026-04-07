@@ -1,0 +1,16 @@
+31. Healthcare Statistician / Biostatistician
+Job Summary
+Applies statistical methods to healthcare data for research, clinical trials, and policy-making.
+Key Responsibilities
+• Design and analyze clinical trials
+• Apply statistical techniques to healthcare datasets
+• Interpret and report statistical findings
+• Ensure data validity and reliability
+• Collaborate with researchers and public health experts
+Requirements
+• Master’s/PhD in Statistics, Biostatistics, or related field
+• Experience in healthcare or clinical research
+Skills
+• Statistical tools (SAS, R, SPSS)
+• Research methodology
+• Data interpretation

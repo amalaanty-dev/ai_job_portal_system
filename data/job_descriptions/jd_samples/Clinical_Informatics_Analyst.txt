@@ -1,0 +1,17 @@
+39. Clinical Informatics Analyst
+Job Summary
+Focuses on improving clinical workflows and patient care by analyzing and optimizing
+clinical information systems.
+Key Responsibilities
+• Analyze clinical workflows and system usage
+• Optimize clinical systems (EHR, lab systems, etc.)
+• Support clinicians with data-driven insights
+• Develop clinical reports and dashboards
+• Train healthcare staff on system usage
+Requirements
+• Degree in Health Informatics, Nursing, or related field
+• Experience in clinical environments
+Skills
+• Clinical workflow analysis
+• Data visualization
+• Communication & training

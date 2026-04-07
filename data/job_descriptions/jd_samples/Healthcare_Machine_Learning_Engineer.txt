@@ -1,0 +1,17 @@
+28. Healthcare Machine Learning Engineer
+Job Summary
+Designs, builds, and deploys machine learning models and systems for healthcare
+applications.
+Key Responsibilities
+• Develop and deploy ML models into production
+• Build scalable data pipelines
+• Optimize model performance and accuracy
+• Integrate ML solutions with healthcare systems
+• Monitor and maintain deployed models
+Requirements
+• Degree in Computer Science, AI, or related field
+• Experience in ML engineering and deployment
+Skills
+• Python, TensorFlow, PyTorch
+• MLOps & cloud platforms (AWS, Azure, GCP)
+• Data engineering

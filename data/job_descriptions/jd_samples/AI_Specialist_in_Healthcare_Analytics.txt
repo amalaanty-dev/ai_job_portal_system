@@ -1,0 +1,17 @@
+29. AI Specialist in Healthcare Analytics
+Job Summary
+Leverages artificial intelligence technologies to solve complex healthcare problems and
+enhance decision-making.
+Key Responsibilities
+• Develop AI-driven solutions (NLP for clinical notes, imaging analysis)
+• Implement deep learning models
+• Collaborate with clinical and technical teams
+• Ensure ethical AI usage and compliance
+• Research and adopt emerging AI technologies
+Requirements
+• Master’s/PhD in AI, Data Science, or related field
+• Experience in healthcare AI applications
+Skills
+• Deep learning, NLP, computer vision
+• AI frameworks
+• Problem-solving

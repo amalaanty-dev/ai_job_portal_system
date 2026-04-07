@@ -1,0 +1,17 @@
+10. Senior Clinical Data Analyst
+Job Summary
+Leads clinical data analysis efforts to support research, treatment evaluation, and clinical
+trials.
+Key Responsibilities
+• Analyze complex clinical datasets and trial data
+• Design data models for clinical research
+• Ensure compliance with clinical standards (FDA, GCP)
+• Mentor junior analysts
+• Collaborate with physicians and research teams
+Requirements
+• Degree in Life Sciences, Pharmacy, or Data Analytics
+• 3–5 years of clinical data experience
+Skills
+• Clinical research knowledge
+• Statistical analysis (SAS/R)
+• Data validation & compliance

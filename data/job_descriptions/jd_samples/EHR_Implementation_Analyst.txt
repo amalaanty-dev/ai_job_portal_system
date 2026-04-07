@@ -1,0 +1,17 @@
+41. EHR Implementation Analyst
+Job Summary
+Responsible for implementing, configuring, and supporting Electronic Health Record systems
+within healthcare organizations.
+Key Responsibilities
+• Assist in EHR system implementation and configuration
+• Gather requirements from clinical and administrative teams
+• Test and validate system functionality
+• Train end-users on EHR systems
+• Provide post-implementation support
+Requirements
+• Degree in Health Informatics, IT, or Healthcare Management
+• Experience with EHR systems (Epic, Cerner, etc.)
+Skills
+• System implementation
+• User training
+• Problem-solving

@@ -1,0 +1,18 @@
+8. EHR Data Analyst (Electronic Health
+Records)
+Job Summary
+Focuses on analyzing data from Electronic Health Record (EHR) systems to improve
+healthcare delivery.
+Key Responsibilities
+• Extract and analyze EHR data
+• Ensure data accuracy and system efficiency
+• Support EHR implementation and optimization
+• Generate reports from EHR systems
+• Collaborate with IT and clinical teams
+Requirements
+• Degree in Health Informatics, IT, or related field
+• Familiarity with EHR/EMR systems
+Skills
+• Health informatics
+• Data extraction and analysis
+• System knowledge

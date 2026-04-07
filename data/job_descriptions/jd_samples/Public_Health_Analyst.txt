@@ -1,0 +1,17 @@
+49. Public Health Analyst
+Job Summary
+Analyzes population health data to improve community health outcomes and support public
+health initiatives.
+Key Responsibilities
+• Collect and analyze public health datasets (disease trends, demographics)
+• Monitor health indicators and identify risk factors
+• Support public health programs and interventions
+• Prepare reports for government and health agencies
+• Collaborate with epidemiologists and policymakers
+Requirements
+• Degree in Public Health, Epidemiology, or Statistics
+• 2–5 years of experience in health data analysis
+Skills
+• Statistical analysis (R, SPSS, Python)
+• Data visualization
+• Public health knowledge

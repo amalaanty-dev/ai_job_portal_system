@@ -1,0 +1,17 @@
+48. Cost & Utilization Analyst (Healthcare)
+Job Summary
+Analyzes healthcare resource utilization and cost patterns to improve efficiency and reduce
+unnecessary expenses.
+Key Responsibilities
+• Analyze patient utilization data (hospital stays, procedures)
+• Identify cost drivers and inefficiencies
+• Support utilization management programs
+• Develop cost optimization strategies
+• Prepare reports for decision-makers
+Requirements
+• Degree in Healthcare, Economics, or Data Analytics
+• Experience in healthcare analytics or utilization review
+Skills
+• Cost analysis
+• Data modeling
+• Healthcare operations knowledge

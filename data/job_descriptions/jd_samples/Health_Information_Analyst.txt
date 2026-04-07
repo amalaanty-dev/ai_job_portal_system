@@ -1,0 +1,17 @@
+5. Health Information Analyst
+Job Summary
+Manages and analyzes health information systems and patient data to ensure quality and
+compliance.
+Key Responsibilities
+• Maintain and manage patient health records
+• Ensure data integrity and security
+• Analyze health information for reporting
+• Support healthcare IT systems
+• Ensure compliance with healthcare laws (HIPAA, etc.)
+Requirements
+• Degree in Health Information Management or related field
+• Knowledge of EHR/EMR systems
+Skills
+• Data governance
+• Record management
+• Attention to detail

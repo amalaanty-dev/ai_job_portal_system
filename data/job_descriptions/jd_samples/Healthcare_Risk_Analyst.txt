@@ -1,0 +1,17 @@
+58. Healthcare Risk Analyst
+Job Summary
+Identifies and analyzes risks in healthcare systems related to operations, compliance, and
+patient safety.
+Key Responsibilities
+• Assess operational and clinical risks
+• Analyze incident and safety data
+• Develop risk mitigation strategies
+• Ensure compliance with healthcare regulations
+• Prepare risk assessment reports
+Requirements
+• Degree in Healthcare, Risk Management, or Analytics
+• Experience in healthcare risk or compliance
+Skills
+• Risk analysis
+• Data interpretation
+• Regulatory knowledge

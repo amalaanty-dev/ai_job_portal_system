@@ -1,0 +1,17 @@
+1. Healthcare Data Analyst (Junior)
+Job Summary
+A Healthcare Data Analyst (Junior) supports data collection, cleaning, analysis, and reporting
+to improve healthcare decision-making and patient outcomes.
+Key Responsibilities
+• Collect and clean healthcare datasets (patient records, billing data, etc.)
+• Perform basic data analysis using Excel, SQL, or Python
+• Create reports and dashboards for internal stakeholders
+• Assist in identifying trends and patterns in healthcare data
+• Ensure data accuracy and compliance with healthcare regulations
+Requirements
+• Bachelor’s degree in Healthcare, Data Science, Statistics, or related field
+• Basic knowledge of Excel, SQL, and data visualization tools
+Skills
+• Analytical thinking
+• Attention to detail
+• Basic statistical knowledge

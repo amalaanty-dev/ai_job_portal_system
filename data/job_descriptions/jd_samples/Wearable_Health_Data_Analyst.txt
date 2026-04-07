@@ -1,0 +1,17 @@
+60. Wearable Health Data Analyst
+Job Summary
+Analyzes data from wearable devices (fitness trackers, smartwatches, medical wearables) to
+monitor health and wellness trends.
+Key Responsibilities
+• Collect and analyze wearable device data (heart rate, activity, sleep)
+• Identify health patterns and anomalies
+• Support preventive healthcare initiatives
+• Collaborate with digital health and research teams
+• Develop reports and dashboards
+Requirements
+• Degree in Data Science, Health Informatics, or related field
+• Experience with IoT or wearable data preferred
+Skills
+• Data analytics
+• IoT data understanding
+• Visualization tools

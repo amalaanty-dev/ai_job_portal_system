@@ -1,0 +1,16 @@
+34. Biostatistician
+Job Summary
+Applies statistical methods to analyze clinical trial data and support medical research.
+Key Responsibilities
+• Design statistical analysis plans (SAP)
+• Analyze clinical trial and healthcare datasets
+• Interpret statistical results and generate reports
+• Collaborate with researchers on study design
+• Ensure statistical validity and compliance
+Requirements
+• Master’s/PhD in Biostatistics or Statistics
+• Experience in clinical research preferred
+Skills
+• SAS, R, SPSS
+• Statistical modeling
+• Research methodology

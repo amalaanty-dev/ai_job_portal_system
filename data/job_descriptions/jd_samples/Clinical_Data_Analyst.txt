@@ -1,0 +1,17 @@
+2. Clinical Data Analyst
+Job Summary
+Analyzes clinical data from hospitals, labs, or clinical trials to support medical research and
+patient care improvements.
+Key Responsibilities
+• Analyze patient and clinical trial data
+• Validate and clean clinical datasets
+• Support research teams with data insights
+• Generate reports on treatment outcomes
+• Ensure compliance with clinical data standards
+Requirements
+• Degree in Life Sciences, Pharmacy, or Healthcare Analytics
+• Understanding of clinical workflows and medical terminology
+Skills
+• Clinical data interpretation
+• Knowledge of research methodologies
+• Data validation techniques

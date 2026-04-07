@@ -1,0 +1,17 @@
+4. Medical Data Analyst
+Job Summary
+Works with medical datasets to support healthcare providers in improving diagnosis,
+treatment, and operational efficiency.
+Key Responsibilities
+• Analyze medical records and treatment data
+• Identify patterns in diseases and treatments
+• Support clinical decision-making
+• Ensure data privacy and accuracy
+• Collaborate with healthcare professionals
+Requirements
+• Degree in Healthcare, Biology, or Data Analytics
+• Basic understanding of medical terminology
+Skills
+• Data analysis
+• Healthcare domain knowledge
+• Problem-solving

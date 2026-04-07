@@ -1,0 +1,17 @@
+26. Healthcare Data Scientist
+Job Summary
+Applies data science techniques to healthcare data to generate insights, build predictive
+models, and improve patient outcomes and operational efficiency.
+Key Responsibilities
+• Develop predictive and prescriptive models (disease risk, readmission, etc.)
+• Analyze structured and unstructured healthcare data (EHR, imaging, claims)
+• Build and validate machine learning models
+• Communicate insights to clinical and business stakeholders
+• Collaborate with IT, clinicians, and analysts
+Requirements
+• Master’s/PhD in Data Science, Computer Science, or related field
+• 3–6 years of experience in data science
+Skills
+• Python, R, SQL
+• Machine learning algorithms
+• Data visualization & storytelling

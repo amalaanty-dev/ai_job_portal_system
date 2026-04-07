@@ -1,0 +1,17 @@
+55. Telehealth Data Analyst
+Job Summary
+Focuses on analyzing telemedicine and virtual care data to enhance remote healthcare
+services.
+Key Responsibilities
+• Analyze telehealth usage, patient interactions, and outcomes
+• Monitor virtual consultation performance metrics
+• Identify trends in remote care delivery
+• Optimize telehealth workflows and systems
+• Provide insights for service improvement
+Requirements
+• Degree in Healthcare, IT, or Analytics
+• Experience with telehealth platforms preferred
+Skills
+• Data analysis
+• Remote healthcare knowledge
+• Dashboard creation

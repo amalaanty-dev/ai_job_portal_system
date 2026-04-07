@@ -1,0 +1,17 @@
+18. Claims Data Analyst (Insurance)
+Job Summary
+Analyzes insurance claims data to detect trends, reduce fraud, and improve claims
+processing.
+Key Responsibilities
+• Analyze healthcare insurance claims data
+• Identify fraudulent or suspicious claims
+• Monitor claims processing efficiency
+• Generate reports for insurance teams
+• Ensure compliance with insurance policies
+Requirements
+• Degree in Finance, Insurance, or Healthcare Analytics
+• Experience in claims processing or insurance analytics
+Skills
+• Claims analysis
+• Fraud detection
+• Data interpretation

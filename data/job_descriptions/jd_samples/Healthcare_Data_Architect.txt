@@ -1,0 +1,17 @@
+42. Healthcare Data Architect
+Job Summary
+Designs and manages the overall data architecture for healthcare systems to ensure
+scalability, security, and efficiency.
+Key Responsibilities
+• Design data models, warehouses, and architecture
+• Define data standards and governance policies
+• Ensure secure and scalable data infrastructure
+• Collaborate with IT and analytics teams
+• Optimize data storage and retrieval systems
+Requirements
+• Degree in Computer Science, IT, or Data Engineering
+• 5+ years of experience in data architecture
+Skills
+• Data modeling
+• Cloud platforms (AWS, Azure, GCP)
+• Database management

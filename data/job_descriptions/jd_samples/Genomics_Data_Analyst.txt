@@ -1,0 +1,17 @@
+61. Genomics Data Analyst
+Job Summary
+Analyzes genetic and genomic data to support personalized medicine, research, and
+diagnostics.
+Key Responsibilities
+• Analyze genomic datasets (DNA, RNA sequencing)
+• Support research in genetics and precision medicine
+• Interpret genetic variations and patterns
+• Collaborate with researchers and clinicians
+• Develop reports and insights
+Requirements
+• Degree in Bioinformatics, Genomics, or Life Sciences
+• Experience in genomic data analysis
+Skills
+• Bioinformatics tools (BLAST, Bioconductor)
+• Statistical analysis
+• Domain knowledge in genetics

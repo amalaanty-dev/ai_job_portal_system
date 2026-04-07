@@ -1,0 +1,17 @@
+62. Freelance Healthcare Data Analyst
+Job Summary
+Works independently on short-term or project-based healthcare data analysis assignments for
+hospitals, startups, or consulting firms.
+Key Responsibilities
+• Collect, clean, and analyze healthcare datasets
+• Create reports, dashboards, and insights for clients
+• Work on diverse projects (clinical, financial, operational data)
+• Communicate findings to non-technical stakeholders
+• Manage multiple client projects and deadlines
+Requirements
+• Degree in Data Analytics, Healthcare, or related field
+• Proven portfolio of analytics projects
+Skills
+• SQL, Excel, Python/R
+• Data visualization (Power BI/Tableau)
+• Client communication & time management

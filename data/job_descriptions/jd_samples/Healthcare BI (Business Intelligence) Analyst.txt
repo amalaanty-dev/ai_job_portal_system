@@ -1,0 +1,17 @@
+17. Healthcare BI (Business Intelligence)
+Analyst
+Job Summary
+Designs and manages BI solutions to provide actionable insights in healthcare organizations.
+Key Responsibilities
+• Develop and maintain BI dashboards and reports
+• Design data models and data warehouses
+• Integrate data from multiple healthcare systems
+• Support data-driven decision-making
+• Ensure data quality and consistency
+Requirements
+• Degree in IT, Data Science, or related field
+• Experience with BI tools (Power BI, Tableau, SQL)
+Skills
+• Data modeling
+• BI tools expertise
+• SQL & ETL processes

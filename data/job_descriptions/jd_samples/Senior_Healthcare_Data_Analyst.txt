@@ -1,0 +1,17 @@
+19. Senior Healthcare Data Analyst
+Job Summary
+Leads complex data analysis projects, delivering actionable insights to improve clinical
+outcomes, operations, and financial performance.
+Key Responsibilities
+• Perform advanced data analysis on large healthcare datasets
+• Design predictive models and analytical frameworks
+• Lead end-to-end analytics projects
+• Mentor junior analysts and review their work
+• Communicate insights to senior stakeholders
+Requirements
+• Bachelor’s/Master’s in Data Science, Healthcare Analytics, or related field
+• 5+ years of experience in healthcare data analysis
+Skills
+• Advanced SQL, Python/R
+• Statistical modeling
+• Leadership & mentoring

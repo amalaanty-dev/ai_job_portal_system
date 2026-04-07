@@ -1,0 +1,17 @@
+32. Clinical Research Data Analyst
+Job Summary
+Supports clinical research by collecting, analyzing, and interpreting data from clinical studies
+and trials.
+Key Responsibilities
+• Collect, clean, and validate clinical research data
+• Analyze datasets from clinical trials and observational studies
+• Generate reports for research teams and sponsors
+• Ensure compliance with regulatory standards (GCP, FDA)
+• Collaborate with researchers, clinicians, and statisticians
+Requirements
+• Degree in Life Sciences, Pharmacy, or Data Analytics
+• 2–5 years of experience in clinical research or analytics
+Skills
+• Clinical data management systems (CDMS)
+• SQL, Excel, SAS/R
+• Attention to detail and regulatory compliance

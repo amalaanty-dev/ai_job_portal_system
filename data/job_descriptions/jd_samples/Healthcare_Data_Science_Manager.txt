@@ -1,0 +1,17 @@
+22. Healthcare Data Science Manager
+Job Summary
+Leads data science teams focused on advanced analytics, machine learning, and AI in
+healthcare.
+Key Responsibilities
+• Manage data scientists and ML engineers
+• Develop predictive and AI-driven healthcare models
+• Oversee deployment of analytics solutions
+• Ensure ethical use of healthcare data
+• Align AI initiatives with organizational strategy
+Requirements
+• Master’s/PhD in Data Science, AI, or related field
+• 6–10 years of experience in analytics/data science
+Skills
+• Machine learning & AI
+• Team leadership
+• Advanced analytics

@@ -1,0 +1,17 @@
+46. Insurance Claims Analyst
+Job Summary
+Evaluates healthcare insurance claims to ensure proper processing, detect discrepancies, and
+reduce financial risks.
+Key Responsibilities
+• Review and analyze insurance claims data
+• Identify claim denials and processing issues
+• Detect fraudulent or suspicious claims
+• Prepare claims analysis reports
+• Collaborate with insurance and billing teams
+Requirements
+• Degree in Insurance, Finance, or Healthcare Analytics
+• Experience in claims processing or insurance domain
+Skills
+• Claims analysis
+• Fraud detection
+• Data interpretation

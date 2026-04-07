@@ -1,0 +1,17 @@
+3. Healthcare Reporting Analyst
+Job Summary
+Focuses on generating reports and dashboards for hospitals, insurance companies, or
+healthcare organizations.
+Key Responsibilities
+• Develop routine and ad-hoc reports
+• Create dashboards using Power BI/Tableau
+• Analyze KPIs like patient flow, revenue, and outcomes
+• Automate reporting processes
+• Communicate insights to management
+Requirements
+• Degree in Data Analytics, IT, or Healthcare Management
+• Experience with reporting tools
+Skills
+• Data visualization
+• Report automation
+• Communication skills

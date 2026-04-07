@@ -1,0 +1,17 @@
+54. Digital Health Analyst
+Job Summary
+Analyzes data from digital health platforms (mobile apps, remote monitoring systems, health
+tech tools) to improve healthcare delivery and patient engagement.
+Key Responsibilities
+• Analyze user and patient data from digital health platforms
+• Monitor app performance, engagement, and outcomes
+• Generate insights to improve digital health solutions
+• Collaborate with product and tech teams
+• Support digital transformation initiatives
+Requirements
+• Degree in Health Informatics, Data Analytics, or IT
+• Experience with digital health tools or platforms
+Skills
+• Data analytics & visualization
+• Product analytics
+• Understanding of digital health ecosystems

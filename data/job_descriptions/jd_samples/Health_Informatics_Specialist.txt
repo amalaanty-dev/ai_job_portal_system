@@ -1,0 +1,17 @@
+38. Health Informatics Specialist
+Job Summary
+Bridges healthcare, data, and technology by managing and optimizing health information
+systems to improve patient care and operational efficiency.
+Key Responsibilities
+• Manage and optimize Electronic Health Records (EHR/EMR) systems
+• Analyze healthcare data to improve workflows and outcomes
+• Ensure data accuracy, privacy, and compliance
+• Collaborate with clinicians, IT teams, and administrators
+• Support digital health initiatives and system upgrades
+Requirements
+• Degree in Health Informatics, Healthcare IT, or related field
+• 2–5 years of experience in healthcare systems
+Skills
+• EHR/EMR systems knowledge
+• Data analysis & reporting
+• Healthcare regulations (HIPAA, HL7, etc.)

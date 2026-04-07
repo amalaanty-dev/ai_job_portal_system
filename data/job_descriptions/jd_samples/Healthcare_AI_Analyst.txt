@@ -1,0 +1,17 @@
+56. Healthcare AI Analyst
+Job Summary
+Supports the development and evaluation of AI-driven healthcare solutions and analytics
+models.
+Key Responsibilities
+• Analyze AI model outputs and performance
+• Work with data scientists to improve AI algorithms
+• Evaluate healthcare AI use cases
+• Ensure compliance with ethical AI standards
+• Translate AI insights into actionable decisions
+Requirements
+• Degree in Data Science, AI, or Healthcare Analytics
+• Experience with machine learning concepts
+Skills
+• AI/ML fundamentals
+• Data interpretation
+• Critical thinking

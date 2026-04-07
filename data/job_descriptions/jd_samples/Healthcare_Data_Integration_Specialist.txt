@@ -1,0 +1,16 @@
+40. Healthcare Data Integration Specialist
+Job Summary
+Ensures seamless integration of data across multiple healthcare systems and platforms.
+Key Responsibilities
+• Integrate data from EHR, lab systems, billing, and other sources
+• Develop and manage data pipelines (ETL processes)
+• Ensure interoperability between systems
+• Monitor data flow and resolve integration issues
+• Work with APIs and healthcare data standards
+Requirements
+• Degree in IT, Data Engineering, or related field
+• Experience with data integration tools
+Skills
+• ETL tools (Informatica, Talend)
+• HL7, FHIR standards
+• SQL & data engineering

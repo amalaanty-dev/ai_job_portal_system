@@ -1,0 +1,16 @@
+33. Clinical Trials Data Manager
+Job Summary
+Manages the lifecycle of clinical trial data, ensuring quality, integrity, and compliance.
+Key Responsibilities
+• Design and manage clinical trial databases
+• Oversee data collection, entry, and validation processes
+• Ensure data accuracy and audit readiness
+• Coordinate with clinical teams and CROs
+• Maintain documentation for regulatory submissions
+Requirements
+• Degree in Life Sciences, Clinical Research, or related field
+• Experience in clinical data management
+Skills
+• CDMS tools (Medidata, Oracle Clinical)
+• Data governance
+• Project coordination

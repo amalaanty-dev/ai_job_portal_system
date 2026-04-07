@@ -1,0 +1,17 @@
+65. Healthcare Dashboard Developer
+Job Summary
+Specializes in designing and developing interactive dashboards for healthcare data
+visualization.
+Key Responsibilities
+• Design and develop dashboards (Power BI, Tableau)
+• Integrate data from multiple healthcare sources
+• Ensure dashboards are user-friendly and insightful
+• Optimize dashboard performance
+• Work with stakeholders to define reporting needs
+Requirements
+• Degree in Data Analytics, IT, or related field
+• Experience in BI tools
+Skills
+• Data visualization
+• SQL & data modeling
+• UI/UX understanding

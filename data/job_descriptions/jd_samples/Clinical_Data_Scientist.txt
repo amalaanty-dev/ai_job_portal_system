@@ -1,0 +1,17 @@
+27. Clinical Data Scientist
+Job Summary
+Specializes in applying data science to clinical trials, patient data, and medical research to
+support evidence-based healthcare.
+Key Responsibilities
+• Analyze clinical trial and patient data
+• Develop statistical and predictive models for treatment outcomes
+• Ensure compliance with clinical standards (GCP, FDA guidelines)
+• Work with researchers and healthcare professionals
+• Interpret complex clinical datasets
+Requirements
+• Degree in Life Sciences, Biostatistics, or Data Science
+• Experience in clinical research or healthcare analytics
+Skills
+• Clinical data analysis
+• Statistical modeling (SAS/R)
+• Domain knowledge in medicine

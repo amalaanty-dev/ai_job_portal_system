@@ -1,0 +1,17 @@
+37. Real-World Evidence (RWE) Analyst
+Job Summary
+Analyzes real-world healthcare data (EHR, claims, registries) to generate insights beyond
+clinical trials.
+Key Responsibilities
+• Analyze real-world datasets (EHR, insurance claims, registries)
+• Generate evidence on treatment effectiveness and safety
+• Support regulatory and market access decisions
+• Collaborate with pharma, research, and healthcare teams
+• Develop RWE reports and publications
+Requirements
+• Degree in Life Sciences, Epidemiology, or Data Analytics
+• Experience in healthcare data analysis
+Skills
+• Data analysis (SQL, Python, R)
+• Understanding of real-world data sources
+• Research and reporting

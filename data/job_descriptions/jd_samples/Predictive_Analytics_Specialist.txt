@@ -1,0 +1,18 @@
+30. Predictive Analytics Specialist
+(Healthcare)
+Job Summary
+Focuses on forecasting healthcare trends and outcomes using advanced statistical and
+machine learning techniques.
+Key Responsibilities
+• Build predictive models (patient risk, demand forecasting)
+• Analyze historical data to forecast trends
+• Support preventive healthcare strategies
+• Develop predictive dashboards
+• Collaborate with stakeholders for implementation
+Requirements
+• Degree in Statistics, Data Science, or related field
+• Experience in predictive analytics
+Skills
+• Predictive modeling
+• Statistical analysis
+• Data visualization

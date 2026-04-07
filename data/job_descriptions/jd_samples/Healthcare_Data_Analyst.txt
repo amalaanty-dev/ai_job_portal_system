@@ -1,0 +1,17 @@
+9. Healthcare Data Analyst
+Job Summary
+Analyzes complex healthcare datasets to support clinical, operational, and financial decision-
+making.
+Key Responsibilities
+• Collect, clean, and analyze large healthcare datasets
+• Develop dashboards and reports (Power BI/Tableau)
+• Identify trends in patient care, costs, and outcomes
+• Collaborate with clinical and administrative teams
+• Ensure data accuracy and regulatory compliance
+Requirements
+• Bachelor’s degree in Healthcare, Data Analytics, or related field
+• 2–4 years of experience in healthcare analytics
+Skills
+• SQL, Python/R
+• Data visualization
+• Healthcare domain knowledge
