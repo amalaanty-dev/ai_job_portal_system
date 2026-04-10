@@ -1,0 +1,9 @@
+
+Resume Section Detection Accuracy Report
+---------------------------------------
+
+Total Section Checks: 40
+Correct Predictions: 40
+
+Overall Accuracy: 100.00 %
+

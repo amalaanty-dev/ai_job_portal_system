@@ -4,11 +4,20 @@ import os
 import re
 import json
 
+# Project folders
+INPUT_FOLDER = "data/resumes/raw_resumes/"
+OUTPUT_FOLDER = "data/resumes/parsed_resumes/json/"
+
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+
 def extract_pdf_text(file_path):
     text = ""
     with pdfplumber.open(file_path) as pdf:
         for page in pdf.pages:
-            text += page.extract_text() + "\n"
+            page_text = page.extract_text()
+            if page_text:
+                text += page_text + "\n"
     return text
 
 
@@ -22,13 +31,8 @@ def extract_docx_text(file_path):
 
 def clean_text(text):
 
-    # remove special characters
     text = re.sub(r'[^\w\s]', ' ', text)
-
-    # remove extra spaces
     text = re.sub(r'\s+', ' ', text)
-
-    # lowercase normalization
     text = text.lower()
 
     return text
@@ -43,31 +47,38 @@ def extract_resume(file_path):
         raw_text = extract_docx_text(file_path)
 
     else:
-        raise ValueError("Unsupported file format")
+        return None
 
     cleaned_text = clean_text(raw_text)
 
     return cleaned_text
 
 
-def process_resume_folder(input_folder, output_file):
+def process_resumes():
 
-    resumes_data = []
+    for file in os.listdir(INPUT_FOLDER):
 
-    for file in os.listdir(input_folder):
-
-        file_path = os.path.join(input_folder, file)
+        file_path = os.path.join(INPUT_FOLDER, file)
 
         if file.endswith(".pdf") or file.endswith(".docx"):
 
             text = extract_resume(file_path)
 
-            resumes_data.append({
-                "file_name": file,
+            resume_data = {
+                "resume_name": file,
                 "clean_text": text
-            })
+            }
 
-    with open(output_file, "w") as f:
-        json.dump(resumes_data, f, indent=4)
+            output_file = os.path.join(
+                OUTPUT_FOLDER,
+                file.replace(".pdf", ".json").replace(".docx", ".json")
+            )
 
-    return resumes_data
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(resume_data, f, indent=4)
+
+            print(f"Parsed: {file}")
+
+
+if __name__ == "__main__":
+    process_resumes()

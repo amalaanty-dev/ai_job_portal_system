@@ -1,0 +1,7 @@
+{
+    "skills": true,
+    "experience": true,
+    "education": true,
+    "projects": true,
+    "certifications": false
+}
