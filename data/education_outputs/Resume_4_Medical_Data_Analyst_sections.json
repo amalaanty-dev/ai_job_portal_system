@@ -1,0 +1,27 @@
+{
+    "education_data": {
+        "academic_profile": {
+            "highest_degree": "BS",
+            "total_degrees": 1,
+            "certification_count": 1,
+            "latest_graduation_year": 2020,
+            "education_strength": 73.0
+        },
+        "education_details": [
+            {
+                "degree": "BS",
+                "field": "Biological Sciences",
+                "institution": "Georgia State University",
+                "graduation_year": "2020"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certificate in Healthcare Data Analytics",
+                "issuer": "Healthcare Data Analytics Coursera",
+                "year": "2021"
+            }
+        ]
+    },
+    "education_relevance_score": 54.1
+}

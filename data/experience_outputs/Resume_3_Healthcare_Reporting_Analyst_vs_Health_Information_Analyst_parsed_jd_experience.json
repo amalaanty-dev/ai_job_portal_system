@@ -1,0 +1,28 @@
+{
+    "experience_summary": {
+        "total_experience_months": 79
+    },
+    "roles": [
+        {
+            "company": "Baylor Scott & White Health \u00b7",
+            "job_title": "Healthcare Reporting Analyst TECHNOLOGIES",
+            "start_date": "2021-04-01",
+            "end_date": "2026-04-19",
+            "duration_months": 61
+        },
+        {
+            "company": "HealthSpring Insurance \u00b7",
+            "job_title": "Communication",
+            "start_date": "2019-08-01",
+            "end_date": "2021-03-01",
+            "duration_months": 20
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 57.2
+    }
+}

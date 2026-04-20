@@ -1,0 +1,34 @@
+{
+    "experience_summary": {
+        "total_experience_months": 58
+    },
+    "roles": [
+        {
+            "company": "Houston Methodist Hospital \u00b7",
+            "job_title": "Healthcare Data Entry Analyst TOOLS &",
+            "start_date": "2022-03-01",
+            "end_date": "2026-04-19",
+            "duration_months": 50
+        },
+        {
+            "company": "Aetna Insurance - Health Division \u00b7",
+            "job_title": "Data Entry Operator LANGUAGES",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-01",
+            "duration_months": 8
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": [
+            {
+                "role_a": "Healthcare Data Entry Analyst TOOLS &",
+                "role_b": "Data Entry Operator LANGUAGES",
+                "overlap_months": 1
+            }
+        ]
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 80.87
+    }
+}

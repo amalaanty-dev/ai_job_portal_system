@@ -1,0 +1,40 @@
+{
+    "candidate": "Resume_5_Health_Information_Analyst",
+    "skills": [
+        {
+            "skill": "sql",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "ehr",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "hl7",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "attention to detail",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "fhir",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "emr",
+            "category": "other",
+            "confidence": 0.75
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "experience_summary": {
+        "total_experience_months": 84
+    },
+    "roles": [
+        {
+            "company": "MedStar Health \u00b7",
+            "job_title": "TOOLS &",
+            "start_date": "2020-09-01",
+            "end_date": "2026-04-16",
+            "duration_months": 72
+        },
+        {
+            "company": "George Washington University Hospital \u00b7",
+            "job_title": "Health Records Technician LANGUAGES",
+            "start_date": "2019-01-01",
+            "end_date": "2020-08-16",
+            "duration_months": 12
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 71.73
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "experience_summary": {
+        "total_experience_months": 60
+    },
+    "roles": [
+        {
+            "company": "Emory Healthcare \u00b7",
+            "job_title": "TOOLS &",
+            "start_date": "2022-01-01",
+            "end_date": "2026-04-16",
+            "duration_months": 48
+        },
+        {
+            "company": "Healthcare \u00b7",
+            "job_title": "Piedmont",
+            "start_date": "2020-06-01",
+            "end_date": "2021-12-16",
+            "duration_months": 12
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [
+            {
+                "gap_start": "2021-12-16",
+                "gap_end": "2022-01-01",
+                "gap_months": 12
+            }
+        ],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 42.18
+    }
+}

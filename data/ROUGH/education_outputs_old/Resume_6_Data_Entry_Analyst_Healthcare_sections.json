@@ -1,0 +1,27 @@
+{
+    "education_data": {
+        "academic_profile": {
+            "highest_degree": "BA",
+            "total_degrees": 1,
+            "certification_count": 1,
+            "latest_graduation_year": 2021,
+            "education_strength": 56.0
+        },
+        "education_details": [
+            {
+                "degree": "BA",
+                "field": "Business Administration",
+                "institution": "University of Houston",
+                "graduation_year": "2021"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certificate in Medical Billing & Coding",
+                "issuer": "UNKNOWN",
+                "year": "UNKNOWN"
+            }
+        ]
+    },
+    "education_relevance_score": 26.0
+}

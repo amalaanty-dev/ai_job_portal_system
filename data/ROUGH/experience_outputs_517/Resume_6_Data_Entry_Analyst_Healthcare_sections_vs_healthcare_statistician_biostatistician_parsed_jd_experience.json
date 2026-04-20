@@ -1,0 +1,28 @@
+{
+    "experience_summary": {
+        "total_experience_months": 60
+    },
+    "roles": [
+        {
+            "company": "analyst tools houston methodist hospital",
+            "job_title": "confidentiality healthcare data entry",
+            "start_date": "2022-03-01",
+            "end_date": "2026-04-14",
+            "duration_months": 48
+        },
+        {
+            "company": "languages aetna insurance health division",
+            "job_title": "gers icd 10 cpt codes data entry operator",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-14",
+            "duration_months": 12
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 16.67
+    }
+}

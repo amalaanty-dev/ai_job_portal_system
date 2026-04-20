@@ -1,0 +1,50 @@
+{
+    "candidate": "Resume_4_Medical_Data_Analyst",
+    "skills": [
+        {
+            "skill": "scikit-learn",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "python",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "sql",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "problem solving",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "kpi analysis",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "lean",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "predictive modeling",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "data extraction",
+            "category": "other",
+            "confidence": 0.75
+        }
+    ]
+}

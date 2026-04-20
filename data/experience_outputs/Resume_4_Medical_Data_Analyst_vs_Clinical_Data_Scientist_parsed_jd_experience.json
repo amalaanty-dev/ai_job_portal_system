@@ -1,0 +1,21 @@
+{
+    "experience_summary": {
+        "total_experience_months": 18
+    },
+    "roles": [
+        {
+            "company": "Healthcare \u00b7",
+            "job_title": "Piedmont",
+            "start_date": "2020-06-01",
+            "end_date": "2021-12-01",
+            "duration_months": 19
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 14.34
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "experience_summary": {
+        "total_experience_months": 60
+    },
+    "roles": [
+        {
+            "company": "technologies brigham and women s hospital",
+            "job_title": "tools clinical data analyst",
+            "start_date": "2022-03-01",
+            "end_date": "2026-04-15",
+            "duration_months": 48
+        },
+        {
+            "company": "languages massachusetts general hospital",
+            "job_title": "a medidata rave research data coordinator",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-15",
+            "duration_months": 12
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 100.0
+    }
+}

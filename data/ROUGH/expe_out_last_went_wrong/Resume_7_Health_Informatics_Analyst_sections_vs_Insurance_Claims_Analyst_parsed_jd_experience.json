@@ -1,0 +1,21 @@
+{
+    "experience_summary": {
+        "total_experience_months": 27
+    },
+    "roles": [
+        {
+            "company": "Health System \u00b7",
+            "job_title": "Legacy",
+            "start_date": "2019-05-01",
+            "end_date": "2021-07-01",
+            "duration_months": 27
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 16.67
+    }
+}

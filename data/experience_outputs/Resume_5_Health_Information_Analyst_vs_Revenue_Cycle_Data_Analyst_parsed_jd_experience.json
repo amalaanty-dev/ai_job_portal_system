@@ -1,0 +1,21 @@
+{
+    "experience_summary": {
+        "total_experience_months": 19
+    },
+    "roles": [
+        {
+            "company": "George Washington University Hospital \u00b7",
+            "job_title": "Health Records Technician LANGUAGES",
+            "start_date": "2019-01-01",
+            "end_date": "2020-08-01",
+            "duration_months": 20
+        }
+    ],
+    "timeline_analysis": {
+        "gaps": [],
+        "overlaps": []
+    },
+    "relevance_analysis": {
+        "overall_relevance_score": 40.08
+    }
+}
