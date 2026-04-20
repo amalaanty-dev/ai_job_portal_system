@@ -3,9 +3,9 @@
         "academic_profile": {
             "highest_degree": "MS",
             "total_degrees": 2,
-            "certification_count": 2,
+            "certification_count": 0,
             "latest_graduation_year": 2021,
-            "education_strength": 72.3
+            "education_strength": 64.3
         },
         "education_details": [
             {
@@ -21,18 +21,7 @@
                 "graduation_year": "2019"
             }
         ],
-        "certifications": [
-            {
-                "name": "Certified Clinical Data Manager (CCDM) \u2013 SCDM (2023)",
-                "issuer": "UNKNOWN",
-                "year": "2023"
-            },
-            {
-                "name": "ICH-GCP Training Certificate (2022)",
-                "issuer": "CDISC",
-                "year": "2022"
-            }
-        ]
+        "certifications": []
     },
-    "education_relevance_score": 68.24
+    "education_relevance_score": 56.24
 }

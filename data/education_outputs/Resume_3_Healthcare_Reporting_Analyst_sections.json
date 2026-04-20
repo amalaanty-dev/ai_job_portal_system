@@ -3,9 +3,9 @@
         "academic_profile": {
             "highest_degree": "BS",
             "total_degrees": 1,
-            "certification_count": 0,
+            "certification_count": 2,
             "latest_graduation_year": 2019,
-            "education_strength": 55.0
+            "education_strength": 57.0
         },
         "education_details": [
             {
@@ -15,7 +15,18 @@
                 "graduation_year": "2019"
             }
         ],
-        "certifications": []
+        "certifications": [
+            {
+                "name": "Microsoft Certified: Power BI Data Analyst Associate (2022)",
+                "issuer": "Microsoft",
+                "year": "2022"
+            },
+            {
+                "name": "Tableau Desktop Specialist (2021)",
+                "issuer": "UNKNOWN",
+                "year": "2021"
+            }
+        ]
     },
-    "education_relevance_score": 49.6
+    "education_relevance_score": 52.6
 }

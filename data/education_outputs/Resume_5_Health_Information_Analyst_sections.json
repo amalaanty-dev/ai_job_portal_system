@@ -3,9 +3,9 @@
         "academic_profile": {
             "highest_degree": "BS",
             "total_degrees": 1,
-            "certification_count": 0,
+            "certification_count": 3,
             "latest_graduation_year": 2019,
-            "education_strength": 55.0
+            "education_strength": 55.67
         },
         "education_details": [
             {
@@ -15,7 +15,23 @@
                 "graduation_year": "2019"
             }
         ],
-        "certifications": []
+        "certifications": [
+            {
+                "name": "Registered Health Information Administrator (RHIA) \u2013 AHIMA (2021)",
+                "issuer": "AHIMA",
+                "year": "2021"
+            },
+            {
+                "name": "HIPAA Privacy & Security Officer Certification (2020)",
+                "issuer": "UNKNOWN",
+                "year": "2020"
+            },
+            {
+                "name": "Epic HIM Certified (2020)",
+                "issuer": "UNKNOWN",
+                "year": "2020"
+            }
+        ]
     },
-    "education_relevance_score": 49.6
+    "education_relevance_score": 50.6
 }

@@ -1,0 +1,27 @@
+{
+    "education_data": {
+        "academic_profile": {
+            "highest_degree": "MBA",
+            "total_degrees": 2,
+            "certification_count": 0,
+            "latest_graduation_year": 2018,
+            "education_strength": 63.0
+        },
+        "education_details": [
+            {
+                "degree": "MBA",
+                "field": "Finance & Marketing",
+                "institution": "Rajagiri College of Social Sciences",
+                "graduation_year": "2016-2018"
+            },
+            {
+                "degree": "BBA",
+                "field": "Business Administration",
+                "institution": "Rajagiri College of Management and Applied Sciences",
+                "graduation_year": "2013-2016"
+            }
+        ],
+        "certifications": []
+    },
+    "education_relevance_score": 36.3
+}

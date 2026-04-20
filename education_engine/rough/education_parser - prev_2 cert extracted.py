@@ -564,206 +564,44 @@ def is_valid_entry(degree, institution, year):
 # ═══════════════════════════════════════════════════════════════
 # 13.  MAIN PARSER
 # ═══════════════════════════════════════════════════════════════
-def _is_metadata_line(line):
-    """
-    Return True ONLY if the line is pure issuer/year metadata for the
-    preceding cert — NOT a cert title in its own right.
-
-    Rules:
-      1. Must contain a separator (·, /, |) or a 4-digit year.
-      2. Must NOT contain cert-title trigger words (certified, certificate,
-         registered, technician, etc.) — lines with these words are cert
-         titles even if they also embed an issuer/year (e.g.
-         "Registered Health Information Technician (RHIT) – AHIMA (2022)").
-      3. After stripping years, separators and known provider names, at most
-         3 meaningful tokens should remain.  More than 3 suggests the line
-         is a descriptive cert title that happens to include a year/issuer.
-    """
-    _CERT_TITLE_WORDS = {
-        "certified", "certificate", "certification", "training", "license",
-        "registered", "associate", "professional", "specialist", "analyst",
-        "engineer", "developer", "administrator", "technician", "practitioner",
-    }
-    _KNOWN_PROVIDERS_LOWER = {
-        "coursera", "ibm", "google", "microsoft", "aws", "amazon", "ahima",
-        "nha", "medtrainer", "johns", "hopkins", "udemy", "edx", "nptel",
-        "linkedin", "cisco", "oracle", "salesforce", "hubspot", "comptia",
-    }
-
-    lower = line.lower()
-
-    # Rule 1: must have a separator or year
-    if not re.search(r"[\u00b7·/|]|\b(?:19|20)\d{2}\b", line):
-        return False
-
-    # Rule 2: cert-title trigger words → this is a cert title, not metadata
-    for word in _CERT_TITLE_WORDS:
-        if re.search(r"\b" + word + r"\b", lower):
-            return False
-
-    # Rule 3: strip years, separators and known provider names; count what\'s left
-    stripped = re.sub(r"\b(?:19|20)\d{2}\b", "", line)
-    stripped = re.sub(r"[\u00b7·/|\u2013\u2014\-()\.\,]", " ", stripped)
-    tokens   = [t for t in stripped.split() if len(t) > 2]
-    non_provider = [t for t in tokens if t.lower() not in _KNOWN_PROVIDERS_LOWER]
-    if len(non_provider) > 3:
-        return False   # too many non-provider words → cert title, not metadata
-
-    return True
-
-
-def _parse_cert_line(cert_line, meta_line=""):
-    """
-    Build a single certification dict from a cert title line and an optional
-    metadata (issuer/year) line.
-
-    Issuer resolution priority:
-      1. extract_institution() on meta_line (catches university names)
-      2. scan meta_line for known provider keywords
-      3. scan cert_line itself for known provider keywords
-      4. fall back to "UNKNOWN"
-
-    This avoids the bleed bug where extract_institution() on the COMBINED
-    cert+meta text returns cert-title words as part of the issuer name.
-    """
-    _KNOWN_PROVIDERS = [
-        "Coursera", "IBM", "Google", "Microsoft", "AWS", "Amazon",
-        "AHIMA", "NHA", "MedTrainer", "Johns Hopkins", "Udemy", "edX",
-        "NPTEL", "LinkedIn", "Cisco", "Oracle", "Salesforce", "HubSpot",
-        "CompTIA", "PMI", "Scrum Alliance", "HRCI", "SHRM",
-    ]
-
-    full_text = (cert_line + " " + meta_line).strip()
-
-    # ── Issuer ────────────────────────────────────────────────
-    issuer = "UNKNOWN"
-
-    if meta_line:
-        # Step 1: try extract_institution on metadata line only
-        issuer = extract_institution(meta_line)
-
-        # Step 2: if that failed, scan metadata line for known provider
-        if issuer == "UNKNOWN":
-            meta_lower = meta_line.lower()
-            for provider in _KNOWN_PROVIDERS:
-                if provider.lower() in meta_lower:
-                    issuer = provider
-                    break
-
-    # Step 3: if still unknown, scan the cert title itself
-    if issuer == "UNKNOWN":
-        cert_lower = cert_line.lower()
-        for provider in _KNOWN_PROVIDERS:
-            if provider.lower() in cert_lower:
-                issuer = provider
-                break
-
-    # ── Year ──────────────────────────────────────────────────
-    year = extract_year(full_text)
-
-    # ── Category ──────────────────────────────────────────────
-    category = categorize_cert(full_text)
-
-    return {
-        "name":     cert_line.strip(" •·–-"),
-        "issuer":   issuer,
-        "year":     year,
-        "category": category,
-    }
-
-
-def _parse_cert_section(raw_lines):
-    """
-    Parse a dedicated certifications section (the "certifications" key from the
-    sectioned resume JSON).
-
-    KEY INSIGHT: every line in this section is either:
-      (a) a cert title  — the main certification name
-      (b) metadata      — issuer / platform / year for the cert on the previous line
-
-    We use POSITIONAL pairing, not keyword detection:
-      • A line is treated as METADATA if it looks like issuer/year info
-        (_is_metadata_line returns True).
-      • Otherwise it is a new cert title.
-
-    This solves 3 bugs that occurred when cert-section lines were fed into the
-    education-section parser:
-      BUG 1 – "Python for Data Science – IBM (2021)" missed because it has none
-               of the CERT_KEYWORDS (no "certified", "certificate", etc.).
-               Fix: in the cert section, ANY non-metadata line is a cert title.
-      BUG 2 – "Coursera / Johns Hopkins · 2021" (issuer line) was consumed as a
-               separate cert because "coursera" is in CERT_KEYWORDS.
-               Fix: positional pairing consumes it as metadata for the previous cert.
-      BUG 3 – RHIT cert absorbed "Python for Data Science – IBM (2021)" as its
-               metadata because it matched the loose `nxt_is_meta` heuristic.
-               Fix: each cert title consumes AT MOST ONE following metadata line;
-               a line that is itself a cert title cannot be consumed as metadata.
-    """
-    certifications = []
-
-    # Clean noise
-    cleaned = [str(ln).strip() for ln in raw_lines if isinstance(ln, str)]
-    cleaned = [ln for ln in cleaned if ln and not _is_noise(ln)]
-
-    i = 0
-    while i < len(cleaned):
-        line = cleaned[i]
-
-        # Skip pure metadata lines that appear without a preceding cert title
-        # (e.g. a stray year/issuer line at the top of the section)
-        if _is_metadata_line(line) and not certifications:
-            i += 1
-            continue
-
-        # Consume one optional metadata line immediately following this cert title
-        meta_line = ""
-        if i + 1 < len(cleaned):
-            nxt = cleaned[i + 1]
-            if _is_metadata_line(nxt):
-                meta_line = nxt
-                i += 1      # advance past the metadata line
-
-        certifications.append(_parse_cert_line(line, meta_line))
-        i += 1
-
-    return certifications
-
-
 def extract_education(resume_json):
     """
-    Input : resume_json dict produced by the PDF sectioner, containing:
-              "education"      – list of raw strings (degree lines + institution lines)
-              "certifications" – list of raw strings (cert title lines + issuer/year lines)
+    Input : resume_json with an "education" key (list of strings) AND
+            optionally a "certifications" key (list of raw strings from
+            the PDF sectioner).
     Output: {"education": [...], "certifications": [...]}
 
-    The "certifications" key is parsed by a dedicated positional-pairing parser
-    (_parse_cert_section) that treats every non-metadata line as a cert title.
-    This is correct because the PDF sectioner guarantees that all lines in the
-    "certifications" key belong to the certifications section of the resume.
-
-    Cert lines that appear INSIDE the "education" key (mixed in with degree lines)
-    are still handled by the existing is_certification() keyword-based logic.
+    BUG FIX: previously only "education" key was scanned.
+    Raw cert lines in the separate "certifications" key were silently ignored.
+    Fix: append the raw "certifications" list to the scan pool AFTER the
+    education lines so they are parsed by the same cert-block logic.
     """
     raw_edu   = resume_json.get("education",     [])
     raw_certs = resume_json.get("certifications", [])
 
-    # Guard: must be lists
-    if not isinstance(raw_edu,   list): raw_edu   = []
-    if not isinstance(raw_certs, list): raw_certs = []
+    # Guard: both must be lists of strings (not already-parsed dicts)
+    if not isinstance(raw_edu, list):
+        raw_edu = []
 
-    # ── Parse the dedicated certifications section first ────────────────────
-    # Only process if the list contains raw strings (not already-parsed dicts).
-    cert_section_lines = [c for c in raw_certs if isinstance(c, str)]
-    certifications     = _parse_cert_section(cert_section_lines)
+    # Only append raw cert lines if they are plain strings (not parsed dicts).
+    # If the sectioner already produced structured dicts, skip — they cannot
+    # be re-parsed as text lines.
+    raw_cert_lines = []
+    if isinstance(raw_certs, list):
+        raw_cert_lines = [c for c in raw_certs if isinstance(c, str)]
 
-    # ── Parse the education section ──────────────────────────────────────────
-    if not raw_edu:
-        return {"education": [], "certifications": certifications}
+    # Merge: education lines first, then raw cert section lines
+    combined_section = list(raw_edu) + raw_cert_lines
 
-    cleaned = [str(ln).strip() for ln in raw_edu]
+    if not combined_section:
+        return {"education": [], "certifications": []}
+
+    # Step 1 – strip noise
+    cleaned = [str(ln).strip() for ln in combined_section]
     cleaned = [ln for ln in cleaned if ln and not _is_noise(ln)]
 
     education_list = []
+    certifications = []
     seen_degrees   = set()
 
     i = 0
@@ -820,21 +658,70 @@ def extract_education(resume_json):
             i += 1 + len(lookahead)
             continue
 
-        # ── Cert lines mixed inside the education section ────────────────────
-        # (e.g. "AWS Certified..." appearing after degree lines in "education" key)
+        # ── Certification block (Multi-line Lookahead Implemented) ──────────────────────────────
         if is_certification(line):
-            # Peek at next line for optional metadata
+            # Peek at next line ONLY if it is pure issuer/year metadata.
+            # A metadata line may contain platform names (coursera, ibm, google)
+            # but must NOT contain cert-title words (certified, certificate, etc.)
+            _CERT_TITLE_WORDS = {
+                "certified", "certificate", "certification", "training", "license"
+            }
             cert_lookahead = ""
-            _CERT_TITLE_WORDS = {"certified", "certificate", "certification", "training", "license"}
             if i + 1 < len(cleaned):
-                nxt       = cleaned[i + 1]
+                nxt = cleaned[i + 1]
                 nxt_lower = nxt.lower()
-                if (_is_metadata_line(nxt)
-                        and not any(w in nxt_lower for w in _CERT_TITLE_WORDS)
-                        and detect_degree(nxt) == "UNKNOWN"):
+                nxt_is_meta      = bool(re.search(r"[\u00b7·/|]|\b(?:19|20)\d{2}\b", nxt))
+                nxt_has_title    = any(w in nxt_lower for w in _CERT_TITLE_WORDS)
+                nxt_is_degree    = detect_degree(nxt) != "UNKNOWN"
+                # Merge if: looks like metadata AND has no cert-title words AND not a degree
+                if nxt_is_meta and not nxt_has_title and not nxt_is_degree:
                     cert_lookahead = nxt
 
-            certifications.append(_parse_cert_line(line, cert_lookahead))
+            full_cert_text = (line + " " + cert_lookahead).strip()
+
+            # BUG FIX (issuer bleed):
+            # Using full_cert_text for extract_institution bleeds the cert
+            # title words into the issuer field:
+            #   e.g. "Certificate in Healthcare Data Analytics Coursera"
+            #        → issuer = "Healthcare Data Analytics Coursera" ❌
+            # Strategy:
+            #   1. If we have a dedicated lookahead line (issuer/year metadata),
+            #      extract institution from that line; if that fails, scan the
+            #      lookahead for a known provider keyword.
+            #   2. If no lookahead, scan only the cert name for known providers;
+            #      avoid letting extract_institution treat cert-title words as
+            #      a proper-noun institution name. Fall back to "UNKNOWN".
+            _KNOWN_PROVIDERS = [
+                "Coursera", "IBM", "Google", "Microsoft", "AWS", "Amazon",
+                "AHIMA", "NHA", "MedTrainer", "Johns Hopkins", "Udemy", "edX",
+                "NPTEL", "LinkedIn", "Cisco", "Oracle", "Salesforce", "HubSpot",
+                "CompTIA", "PMI", "Scrum Alliance", "HRCI", "SHRM",
+            ]
+            if cert_lookahead:
+                # First try extract_institution (handles university / college names)
+                issuer = extract_institution(cert_lookahead)
+                # If it returns UNKNOWN, scan the lookahead for a known provider
+                if issuer == "UNKNOWN":
+                    la_lower = cert_lookahead.lower()
+                    for provider in _KNOWN_PROVIDERS:
+                        if provider.lower() in la_lower:
+                            issuer = provider
+                            break
+            else:
+                # No lookahead — scan only the cert name for known providers
+                issuer = "UNKNOWN"
+                cert_name_lower = line.lower()
+                for provider in _KNOWN_PROVIDERS:
+                    if provider.lower() in cert_name_lower:
+                        issuer = provider
+                        break
+
+            certifications.append({
+                "name":     line.strip(" •·"),
+                "issuer":   issuer,
+                "year":     extract_year(full_cert_text),
+                "category": categorize_cert(full_cert_text),
+            })
             i += (2 if cert_lookahead else 1)
             continue
 

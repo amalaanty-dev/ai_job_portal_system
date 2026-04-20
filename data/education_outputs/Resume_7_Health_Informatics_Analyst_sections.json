@@ -3,9 +3,9 @@
         "academic_profile": {
             "highest_degree": "MS",
             "total_degrees": 2,
-            "certification_count": 0,
+            "certification_count": 3,
             "latest_graduation_year": 2021,
-            "education_strength": 64.3
+            "education_strength": 65.23
         },
         "education_details": [
             {
@@ -21,7 +21,23 @@
                 "graduation_year": "2019"
             }
         ],
-        "certifications": []
+        "certifications": [
+            {
+                "name": "AMIA Health Informatics Certification (AHIC) \u2013 2023",
+                "issuer": "UNKNOWN",
+                "year": "2023"
+            },
+            {
+                "name": "Epic Certified Application Analyst (2022)",
+                "issuer": "UNKNOWN",
+                "year": "2022"
+            },
+            {
+                "name": "HL7 FHIR Proficiency \u2013 HL7 International (2022)",
+                "issuer": "UNKNOWN",
+                "year": "2022"
+            }
+        ]
     },
-    "education_relevance_score": 33.74
+    "education_relevance_score": 35.14
 }

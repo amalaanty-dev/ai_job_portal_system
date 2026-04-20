@@ -1,0 +1,21 @@
+{
+    "education_data": {
+        "academic_profile": {
+            "highest_degree": "BS",
+            "total_degrees": 1,
+            "certification_count": 0,
+            "latest_graduation_year": 2023,
+            "education_strength": 59.5
+        },
+        "education_details": [
+            {
+                "degree": "BS",
+                "field": "Health Information Management",
+                "institution": "DePaul University",
+                "graduation_year": "2023"
+            }
+        ],
+        "certifications": []
+    },
+    "education_relevance_score": 49.6
+}

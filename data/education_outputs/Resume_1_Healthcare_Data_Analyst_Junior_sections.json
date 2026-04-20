@@ -3,9 +3,9 @@
         "academic_profile": {
             "highest_degree": "BS",
             "total_degrees": 1,
-            "certification_count": 0,
+            "certification_count": 2,
             "latest_graduation_year": 2023,
-            "education_strength": 59.5
+            "education_strength": 61.5
         },
         "education_details": [
             {
@@ -15,7 +15,18 @@
                 "graduation_year": "2023"
             }
         ],
-        "certifications": []
+        "certifications": [
+            {
+                "name": "Google Data Analytics Professional Certificate (2023)",
+                "issuer": "Google",
+                "year": "2023"
+            },
+            {
+                "name": "HIPAA Compliance Training \u2013 AHIMA (2022)",
+                "issuer": "AHIMA",
+                "year": "2022"
+            }
+        ]
     },
-    "education_relevance_score": 49.6
+    "education_relevance_score": 52.6
 }
