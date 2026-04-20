@@ -1,9 +1,199 @@
 {
-    "candidate": "Amala_Resume_DS_DA_2026_",
+    "candidate": "Amala_Resume_DS_DA_2026__sections.json",
     "skills": [
+        {
+            "skill": "regex",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "docker",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "ontology",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "knowledge graphs",
+            "category": "other",
+            "confidence": 0.85
+        },
+        {
+            "skill": "eda",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "feature engineering",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "ner",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "faq modeling",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "dialog management",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "transformers",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "keras",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "kpi analysis",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "financial services",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "google colab",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "python",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "pandas",
+            "category": "tech",
+            "confidence": 0.75
+        },
         {
             "skill": "nlp",
             "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "git",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "jenkins",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "hyperparameter tuning",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "data cleaning",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "sql",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "tableau",
+            "category": "creative",
+            "confidence": 0.75
+        },
+        {
+            "skill": "machine learning",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "scikit-learn",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "sentiment analysis",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "postman",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "intent classification",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "numpy",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "matplotlib",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "chatbot training",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "deep learning",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "xgboost",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "visual studio code",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "model evaluation",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "data engineering",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "data wrangling",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "llm",
+            "category": "other",
             "confidence": 0.95
         },
         {
@@ -12,28 +202,38 @@
             "confidence": 0.75
         },
         {
+            "skill": "streamlit",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
             "skill": "tensorflow",
             "category": "tech",
-            "confidence": 0.85
+            "confidence": 0.95
         },
         {
-            "skill": "sql",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "mongodb",
+            "skill": "jupyter notebook",
             "category": "tech",
             "confidence": 0.75
         },
         {
-            "skill": "aws",
+            "skill": "data validation",
+            "category": "other",
+            "confidence": 0.85
+        },
+        {
+            "skill": "seaborn",
             "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "artificial intelligence",
+            "category": "other",
             "confidence": 0.75
         },
         {
-            "skill": "kpi analysis",
-            "category": "business",
+            "skill": "data analysis",
+            "category": "tech",
             "confidence": 0.75
         },
         {
@@ -44,67 +244,12 @@
         {
             "skill": "statistical analysis",
             "category": "other",
-            "confidence": 0.85
-        },
-        {
-            "skill": "statistics",
-            "category": "other",
             "confidence": 0.75
         },
         {
-            "skill": "data visualization",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "angular",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "machine learning",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "docker",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "excel",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "nodejs",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "deep learning",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "data validation",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "python",
-            "category": "tech",
+            "skill": "banking",
+            "category": "business",
             "confidence": 0.95
-        },
-        {
-            "skill": "git",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "data engineering",
-            "category": "tech",
-            "confidence": 0.75
         }
     ]
 }

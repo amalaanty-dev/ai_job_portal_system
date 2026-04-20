@@ -1,10 +1,60 @@
 {
-    "candidate": "Resume_3_Healthcare_Reporting_Analyst",
+    "candidate": "Resume_3_Healthcare_Reporting_Analyst_sections.json",
     "skills": [
+        {
+            "skill": "reporting workbench",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "hedis",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "python",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "problem solving",
+            "category": "other",
+            "confidence": 0.85
+        },
+        {
+            "skill": "report writing",
+            "category": "business",
+            "confidence": 0.75
+        },
         {
             "skill": "stakeholder management",
             "category": "business",
-            "confidence": 0.75
+            "confidence": 0.85
+        },
+        {
+            "skill": "epic",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "sql server",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "sql",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "leadership",
+            "category": "other",
+            "confidence": 0.95
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.85
         },
         {
             "skill": "etl",
@@ -12,44 +62,14 @@
             "confidence": 0.75
         },
         {
-            "skill": "excel",
-            "category": "tech",
-            "confidence": 0.75
+            "skill": "tableau",
+            "category": "creative",
+            "confidence": 0.95
         },
         {
-            "skill": "leadership",
-            "category": "other",
-            "confidence": 0.85
-        },
-        {
-            "skill": "problem solving",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "python",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "dashboard development",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "git",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "sql",
-            "category": "tech",
-            "confidence": 0.85
-        },
-        {
-            "skill": "healthcare analytics",
-            "category": "other",
-            "confidence": 0.75
+            "skill": "power bi",
+            "category": "creative",
+            "confidence": 0.95
         }
     ]
 }

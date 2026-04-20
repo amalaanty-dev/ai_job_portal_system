@@ -3,5 +3,6 @@
     "experience": true,
     "education": true,
     "projects": false,
-    "certifications": true
+    "certifications": true,
+    "achievements": true
 }

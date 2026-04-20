@@ -1,35 +1,15 @@
 {
-    "candidate": "Resume_1_Healthcare_Data_Analyst_Junior",
+    "candidate": "Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
     "skills": [
         {
-            "skill": "data visualization",
-            "category": "tech",
-            "confidence": 0.75
+            "skill": "analytical thinking",
+            "category": "other",
+            "confidence": 0.85
         },
         {
             "skill": "cost analysis",
             "category": "business",
-            "confidence": 0.75
-        },
-        {
-            "skill": "excel",
-            "category": "tech",
-            "confidence": 0.95
-        },
-        {
-            "skill": "kpi analysis",
-            "category": "business",
-            "confidence": 0.75
-        },
-        {
-            "skill": "statistical analysis",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "ehr",
-            "category": "other",
-            "confidence": 0.75
+            "confidence": 0.85
         },
         {
             "skill": "python",
@@ -37,17 +17,32 @@
             "confidence": 0.95
         },
         {
-            "skill": "statistics",
-            "category": "other",
+            "skill": "hipaa",
+            "category": "business",
+            "confidence": 0.95
+        },
+        {
+            "skill": "report writing",
+            "category": "business",
             "confidence": 0.75
         },
         {
-            "skill": "attention to detail",
-            "category": "other",
+            "skill": "epic",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "pandas",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "compliance",
+            "category": "business",
             "confidence": 0.75
         },
         {
-            "skill": "analytical thinking",
+            "skill": "data validation",
             "category": "other",
             "confidence": 0.75
         },
@@ -57,9 +52,44 @@
             "confidence": 0.95
         },
         {
-            "skill": "data validation",
+            "skill": "ehr",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "data cleaning",
+            "category": "other",
+            "confidence": 0.85
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "statistical analysis",
             "category": "other",
             "confidence": 0.75
+        },
+        {
+            "skill": "data visualization",
+            "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "tableau",
+            "category": "creative",
+            "confidence": 0.85
+        },
+        {
+            "skill": "kpi analysis",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "power bi",
+            "category": "creative",
+            "confidence": 0.85
         }
     ]
 }

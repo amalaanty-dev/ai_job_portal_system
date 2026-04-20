@@ -1,20 +1,65 @@
 {
     "skills": [
-        "medical data analyst with expertise in analyzing medical records and treatment data to cid 127 medical record analysis support clinical decision making and operational efficiency strong domain knowledge of cid 127 icd 10 coding cid 127 clinical decision support disease patterns medical terminology and healthcare workflows committed to data cid 127 predictive modeling privacy accuracy and cross functional collaboration with healthcare professionals cid 127 data privacy",
-        "conditions cid 127 python scikit learn cid 127 identified correlations between treatment protocols and patient readmission rates cid 127 sql cid 127 epic cid 127 collaborated with physicians and nurses to provide data backed clinical cid 127 excel recommendations cid 127 r cid 127 ensured data privacy through strict adherence to hipaa and institutional policies cid 127 cerner cid 127 built predictive models to flag high risk patients using python and scikit learn languages healthcare data associate cid 127 english native piedmont healthcare jun 2020 dec 2021 soft",
-        "cid 127 assisted in extraction and analysis of icd 10 coded diagnosis data for reporting cid 127 problem solving cid 127 validated medical data accuracy across epic and legacy systems cid 127 interdisciplinary cid 127 supported quality improvement initiatives through data trend analysis collaboration cid 127 ethical judgment"
+        "Medical data analyst with expertise in analyzing medical records and treatment data to Medical Record Analysis",
+        "support clinical decision-making and operational efficiency. Strong domain knowledge of ICD-10 Coding",
+        "Clinical Decision Support",
+        "disease patterns, medical terminology, and healthcare workflows. Committed to data",
+        "Predictive Modeling",
+        "privacy, accuracy, and cross-functional collaboration with healthcare professionals.",
+        "Data Privacy"
     ],
     "experience": [
-        "cid 127 healthcare domain medical data analyst knowledge tools emory healthcare jan 2022 present cid 127 analyzed 200 000 medical records to identify treatment patterns for chronic"
+        {
+            "role_header": "Emory Healthcare \u00b7 Jan 2022 \u2013 Present",
+            "duties": [
+                "Analyzed 200,000+ medical records to identify treatment patterns for chronic",
+                "conditions. Python (scikit-learn)",
+                "Identified correlations between treatment protocols and patient readmission rates. SQL",
+                "Epic",
+                "Collaborated with physicians and nurses to provide data-backed clinical",
+                "Excel",
+                "R",
+                "Ensured data privacy through strict adherence to HIPAA and institutional policies.",
+                "Cerner",
+                "Built predictive models to flag high-risk patients using Python and scikit-learn.",
+                "Healthcare Data Associate English (Native)"
+            ]
+        },
+        {
+            "role_header": "Piedmont Healthcare \u00b7 Jun 2020 \u2013 Dec 2021",
+            "duties": [
+                "Assisted in extraction and analysis of ICD-10 coded diagnosis data for reporting. Problem Solving",
+                "Validated medical data accuracy across Epic and legacy systems. Interdisciplinary",
+                "Supported quality improvement initiatives through data trend analysis. Collaboration",
+                "Ethical Judgment"
+            ]
+        }
     ],
     "education": [
-        "b s in biological sciences georgia state university 2020 certificate in healthcare data analytics coursera johns hopkins 2021"
+        "B.S. in Biological Sciences",
+        "Georgia State University \u00b7 2020"
     ],
     "projects": [],
     "certifications": [
-        "cid 127 registered health information technician rhit ahima 2022 cid 127 python for data science ibm 2021"
+        "Certificate in Healthcare Data Analytics",
+        "Coursera / Johns Hopkins \u00b7 2021",
+        "Registered Health Information Technician (RHIT) \u2013 AHIMA (2022)",
+        "Python for Data Science \u2013 IBM (2021)"
+    ],
+    "achievements": [
+        "recommendations."
     ],
     "other": [
-        "james thornton medical data analyst james thornton email com 1 404 555 0482 atlanta ga linkedin com in jamesthornton professional summary core"
+        "James Thornton",
+        "Medical Data Analyst",
+        "james.thornton@email.com | +1 (404) 555-0482 | Atlanta, GA | linkedin.com/in/jamesthornton",
+        "HEADER: PROFESSIONAL SUMMARY",
+        "HEADER: CORE SKILLS",
+        "HEADER: WORK EXPERIENCE",
+        "Healthcare Domain",
+        "Medical Data Analyst Knowledge",
+        "&",
+        "HEADER: EDUCATION",
+        "HEADER: CERTIFICATIONS"
     ]
 }

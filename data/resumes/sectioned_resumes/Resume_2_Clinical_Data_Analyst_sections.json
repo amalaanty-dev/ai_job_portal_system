@@ -1,21 +1,64 @@
 {
     "skills": [
-        "clinical data analyst with 3 years of",
-        "brigham and women s hospital mar 2022 present cid 127 sas cid 127 analyzed clinical trial data for phase ii iii oncology studies involving 800 patients cid 127 r cid 127 validated and cleaned clinical datasets ensuring 99 8 data integrity before lock cid 127 redcap cid 127 oracle clinical cid 127 generated treatment outcome reports used by principal investigators for publications cid 127 excel cid 127 ensured cdisc sdtm compliance across all data submissions to the fda cid 127 medidata rave research data coordinator languages massachusetts general hospital jul 2021 feb 2022 cid 127 english fluent cid 127 supported research teams with data extraction from redcap and epic clinical cid 127 twi native systems soft",
-        "cid 127 reconciled discrepancies in patient lab and imaging data across 12 active studies cid 127 research methodology cid 127 prepared data summaries and slide decks for monthly sponsor review meetings cid 127 critical thinking cid 127 cross functional"
+        "Clinical data analyst with 3 years of experience analyzing patient and clinical trial Clinical Data Analysis",
+        "datasets to advance medical research and improve care outcomes. Skilled in data Data Validation",
+        "Research Support",
+        "validation, clinical reporting, and research support. Strong knowledge of clinical",
+        "CDISC/SDTM",
+        "workflows, medical terminology, and regulatory data standards including ICH-GCP and",
+        "Regulatory Compliance",
+        "CDISC.",
+        "Trial Reporting"
     ],
     "experience": [
-        "analyzing patient and clinical trial cid 127 clinical data analysis datasets to advance medical research and improve care outcomes skilled in data cid 127 data validation cid 127 research support validation clinical reporting and research support strong knowledge of clinical cid 127 cdisc sdtm workflows medical terminology and regulatory data standards including ich gcp and cid 127 regulatory compliance cdisc cid 127 trial reporting",
-        "tools clinical data analyst"
+        {
+            "role_header": "Brigham and Women's Hospital \u00b7 Mar 2022 \u2013 Present SAS",
+            "duties": [
+                "Analyzed clinical trial data for Phase II/III oncology studies involving 800+ patients. R",
+                "Validated and cleaned clinical datasets ensuring 99.8% data integrity before lock. REDCap",
+                "Oracle Clinical",
+                "Generated treatment outcome reports used by principal investigators for publications.",
+                "Excel",
+                "Ensured CDISC SDTM compliance across all data submissions to the FDA.",
+                "Medidata Rave",
+                "Research Data Coordinator"
+            ]
+        },
+        {
+            "role_header": "Massachusetts General Hospital \u00b7 Jul 2021 \u2013 Feb 2022 English (Fluent)",
+            "duties": [
+                "Supported research teams with data extraction from REDCap and Epic clinical Twi (Native)",
+                "systems.",
+                "Reconciled discrepancies in patient lab and imaging data across 12 active studies. Research Methodology",
+                "Prepared data summaries and slide decks for monthly sponsor review meetings. Critical Thinking",
+                "Cross-functional"
+            ]
+        }
     ],
     "education": [
-        "collaboration m s in biomedical informatics boston university 2021 b s in biochemistry university of ghana 2019"
+        "Collaboration",
+        "M.S. in Biomedical Informatics",
+        "Boston University \u00b7 2021",
+        "B.S. in Biochemistry",
+        "University of Ghana \u00b7 2019"
     ],
     "projects": [],
     "certifications": [
-        "cid 127 certified clinical data manager ccdm scdm 2023 cid 127 ich gcp training certificate 2022 cid 127 cdisc sdtm fundamentals 2022"
+        "Certified Clinical Data Manager (CCDM) \u2013 SCDM (2023)",
+        "ICH-GCP Training Certificate (2022)",
+        "CDISC SDTM Fundamentals (2022)"
     ],
+    "achievements": [],
     "other": [
-        "daniel osei clinical data analyst daniel osei email com 1 617 555 0293 boston ma linkedin com in danielosei professional summary core"
+        "Daniel Osei",
+        "Clinical Data Analyst",
+        "daniel.osei@email.com | +1 (617) 555-0293 | Boston, MA | linkedin.com/in/danielosei",
+        "HEADER: PROFESSIONAL SUMMARY",
+        "HEADER: CORE SKILLS",
+        "HEADER: WORK EXPERIENCE",
+        "&",
+        "Clinical Data Analyst",
+        "HEADER: EDUCATION",
+        "HEADER: CERTIFICATIONS"
     ]
 }

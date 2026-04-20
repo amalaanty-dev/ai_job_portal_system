@@ -1,20 +1,64 @@
 {
     "skills": [
-        "healthcare reporting analyst specializing in developing impactful dashboards cid 127 dashboard development automating routine reports and communicating data driven insights to hospital cid 127 report automation cid 127 kpi monitoring leadership and operations teams proven track record of reducing manual reporting time cid 127 data storytelling by 60 through power bi automation and streamlining kpi tracking across large health cid 127 healthcare analytics systems cid 127 etl pipelines",
-        "baylor scott white health apr 2021 present cid 127 power bi cid 127 developed 25 power bi dashboards tracking patient flow revenue cycle and cid 127 tableau outcomes cid 127 sql server cid 127 python cid 127 automated weekly and monthly operational reports reducing manual effort by 60 cid 127 excel cid 127 analyzed kpis including bed occupancy los readmissions and payer mix for cid 127 epic reporting workbench c suite languages cid 127 collaborated with it and clinical teams to ensure accurate data pipelines from epic cid 127 english fluent cid 127 presented monthly performance insights to department heads and executive cid 127 spanish native leadership soft",
-        "reporting analyst cid 127 communication healthspring insurance aug 2019 mar 2021 cid 127 stakeholder management cid 127 created ad hoc and scheduled reports for claims utilization and member services cid 127 problem solving cid 127 built tableau dashboards monitoring provider performance and network efficiency cid 127 automated report distribution using python and sql stored procedures"
+        "Healthcare reporting analyst specializing in developing impactful dashboards, Dashboard Development",
+        "automating routine reports, and communicating data-driven insights to hospital Report Automation",
+        "KPI Monitoring",
+        "leadership and operations teams. Proven track record of reducing manual reporting time",
+        "Data Storytelling",
+        "by 60% through Power BI automation and streamlining KPI tracking across large health",
+        "Healthcare Analytics",
+        "systems.",
+        "ETL Pipelines"
     ],
     "experience": [
-        "tools healthcare reporting analyst"
+        {
+            "role_header": "Baylor Scott & White Health \u00b7 Apr 2021 \u2013 Present Power BI",
+            "duties": [
+                "Developed 25+ Power BI dashboards tracking patient flow, revenue cycle, and Tableau",
+                "outcomes. SQL Server",
+                "Python",
+                "Automated weekly and monthly operational reports, reducing manual effort by 60%.",
+                "Excel",
+                "Analyzed KPIs including bed occupancy, LOS, readmissions, and payer mix for",
+                "Epic Reporting Workbench",
+                "C-suite.",
+                "Collaborated with IT and clinical teams to ensure accurate data pipelines from Epic.",
+                "English (Fluent)",
+                "Presented monthly performance insights to department heads and executive",
+                "Spanish (Native)",
+                "leadership.",
+                "Reporting Analyst Communication"
+            ]
+        },
+        {
+            "role_header": "HealthSpring Insurance \u00b7 Aug 2019 \u2013 Mar 2021 Stakeholder Management",
+            "duties": [
+                "Created ad-hoc and scheduled reports for claims, utilization, and member services. Problem Solving",
+                "Built Tableau dashboards monitoring provider performance and network efficiency.",
+                "Automated report distribution using Python and SQL stored procedures."
+            ]
+        }
     ],
     "education": [
-        "b s in health information technology university of texas at dallas 2019"
+        "B.S. in Health Information Technology",
+        "University of Texas at Dallas \u00b7 2019"
     ],
     "projects": [],
     "certifications": [
-        "cid 127 microsoft certified power bi data analyst associate 2022 cid 127 tableau desktop specialist 2021"
+        "Microsoft Certified: Power BI Data Analyst Associate (2022)",
+        "Tableau Desktop Specialist (2021)"
     ],
+    "achievements": [],
     "other": [
-        "sofia martinez healthcare reporting analyst sofia martinez email com 1 214 555 0371 dallas tx linkedin com in sofiamartinez professional summary core"
+        "Sofia Martinez",
+        "Healthcare Reporting Analyst",
+        "sofia.martinez@email.com | +1 (214) 555-0371 | Dallas, TX | linkedin.com/in/sofiamartinez",
+        "HEADER: PROFESSIONAL SUMMARY",
+        "HEADER: CORE SKILLS",
+        "HEADER: WORK EXPERIENCE",
+        "&",
+        "Healthcare Reporting Analyst",
+        "HEADER: EDUCATION",
+        "HEADER: CERTIFICATIONS"
     ]
 }

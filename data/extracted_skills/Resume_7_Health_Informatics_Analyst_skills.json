@@ -1,9 +1,49 @@
 {
-    "candidate": "Resume_7_Health_Informatics_Analyst",
+    "candidate": "Resume_7_Health_Informatics_Analyst_sections.json",
     "skills": [
+        {
+            "skill": "bioinformatics",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "hedis",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "quality reporting",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "population health analytics",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "ehr",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
+            "skill": "leadership",
+            "category": "other",
+            "confidence": 0.85
+        },
         {
             "skill": "data analysis",
             "category": "tech",
+            "confidence": 0.75
+        },
+        {
+            "skill": "hl7",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "kpi analysis",
+            "category": "business",
             "confidence": 0.75
         },
         {
@@ -12,64 +52,14 @@
             "confidence": 0.75
         },
         {
-            "skill": "clinical data analysis",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "fhir",
-            "category": "other",
-            "confidence": 0.95
-        },
-        {
-            "skill": "health informatics",
-            "category": "other",
-            "confidence": 0.95
-        },
-        {
-            "skill": "leadership",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "azure",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "kpi analysis",
-            "category": "business",
-            "confidence": 0.75
-        },
-        {
-            "skill": "ehr",
-            "category": "other",
-            "confidence": 0.95
-        },
-        {
-            "skill": "bioinformatics",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "python",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "hl7",
-            "category": "other",
-            "confidence": 0.95
-        },
-        {
-            "skill": "git",
-            "category": "tech",
-            "confidence": 0.75
-        },
-        {
-            "skill": "sql",
+            "skill": "epic",
             "category": "tech",
             "confidence": 0.85
+        },
+        {
+            "skill": "clinical workflow design",
+            "category": "business",
+            "confidence": 0.75
         }
     ]
 }

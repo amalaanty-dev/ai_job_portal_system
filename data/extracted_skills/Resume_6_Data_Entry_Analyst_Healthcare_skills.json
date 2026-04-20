@@ -1,25 +1,65 @@
 {
-    "candidate": "Resume_6_Data_Entry_Analyst_Healthcare",
+    "candidate": "Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
     "skills": [
+        {
+            "skill": "medical billing",
+            "category": "business",
+            "confidence": 0.75
+        },
+        {
+            "skill": "kareo",
+            "category": "tech",
+            "confidence": 0.85
+        },
         {
             "skill": "attention to detail",
             "category": "other",
-            "confidence": 0.75
+            "confidence": 0.85
         },
         {
-            "skill": "excel",
+            "skill": "medisoft",
             "category": "tech",
-            "confidence": 0.75
+            "confidence": 0.85
         },
         {
-            "skill": "ehr",
-            "category": "other",
-            "confidence": 0.75
+            "skill": "compliance",
+            "category": "business",
+            "confidence": 0.95
         },
         {
             "skill": "data validation",
             "category": "other",
             "confidence": 0.75
+        },
+        {
+            "skill": "ehr",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "icd-10",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "excel",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "hipaa",
+            "category": "business",
+            "confidence": 0.85
+        },
+        {
+            "skill": "epic",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "cpt codes",
+            "category": "tech",
+            "confidence": 0.85
         }
     ]
 }

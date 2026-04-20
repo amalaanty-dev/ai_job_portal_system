@@ -1,4 +1,23 @@
 {
     "resume_name": "Resume_4_Medical_Data_Analyst.pdf",
-    "clean_text": "james thornton medical data analyst james thornton email com 1 404 555 0482 atlanta ga linkedin com in jamesthornton professional summary core skills medical data analyst with expertise in analyzing medical records and treatment data to cid 127 medical record analysis support clinical decision making and operational efficiency strong domain knowledge of cid 127 icd 10 coding cid 127 clinical decision support disease patterns medical terminology and healthcare workflows committed to data cid 127 predictive modeling privacy accuracy and cross functional collaboration with healthcare professionals cid 127 data privacy work experience cid 127 healthcare domain medical data analyst knowledge tools emory healthcare jan 2022 present cid 127 analyzed 200 000 medical records to identify treatment patterns for chronic technologies conditions cid 127 python scikit learn cid 127 identified correlations between treatment protocols and patient readmission rates cid 127 sql cid 127 epic cid 127 collaborated with physicians and nurses to provide data backed clinical cid 127 excel recommendations cid 127 r cid 127 ensured data privacy through strict adherence to hipaa and institutional policies cid 127 cerner cid 127 built predictive models to flag high risk patients using python and scikit learn languages healthcare data associate cid 127 english native piedmont healthcare jun 2020 dec 2021 soft skills cid 127 assisted in extraction and analysis of icd 10 coded diagnosis data for reporting cid 127 problem solving cid 127 validated medical data accuracy across epic and legacy systems cid 127 interdisciplinary cid 127 supported quality improvement initiatives through data trend analysis collaboration cid 127 ethical judgment education b s in biological sciences georgia state university 2020 certificate in healthcare data analytics coursera johns hopkins 2021 certifications cid 127 registered health information technician rhit ahima 2022 cid 127 python for data science ibm 2021 "
+    "name": "James Thornton",
+    "roles": [
+        {
+            "job_title": "TOOLS &",
+            "company": "Emory Healthcare \u00b7",
+            "start_date": "2022-01-01",
+            "end_date": "2026-04-19",
+            "duration_months": 52
+        },
+        {
+            "job_title": "Piedmont",
+            "company": "Healthcare \u00b7",
+            "start_date": "2020-06-01",
+            "end_date": "2021-12-01",
+            "duration_months": 19
+        }
+    ],
+    "experience": 5.9,
+    "education": [],
+    "clean_text": "James Thornton\nMedical Data Analyst\njames.thornton@email.com | +1 (404) 555-0482 | Atlanta, GA | linkedin.com/in/jamesthornton\nPROFESSIONAL SUMMARY CORE SKILLS\nMedical data analyst with expertise in analyzing medical records and treatment data to (cid:127) Medical Record Analysis\nsupport clinical decision-making and operational efficiency. Strong domain knowledge of (cid:127) ICD-10 Coding\n(cid:127) Clinical Decision Support\ndisease patterns, medical terminology, and healthcare workflows. Committed to data\n(cid:127) Predictive Modeling\nprivacy, accuracy, and cross-functional collaboration with healthcare professionals.\n(cid:127) Data Privacy\nWORK EXPERIENCE (cid:127) Healthcare Domain\nMedical Data Analyst Knowledge\nTOOLS &\nEmory Healthcare \u00b7 Jan 2022 \u2013 Present\n(cid:127) Analyzed 200,000+ medical records to identify treatment patterns for chronic TECHNOLOGIES\nconditions. (cid:127) Python (scikit-learn)\n(cid:127) Identified correlations between treatment protocols and patient readmission rates. (cid:127) SQL\n(cid:127) Epic\n(cid:127) Collaborated with physicians and nurses to provide data-backed clinical\n(cid:127) Excel\nrecommendations.\n(cid:127) R\n(cid:127) Ensured data privacy through strict adherence to HIPAA and institutional policies.\n(cid:127) Cerner\n(cid:127) Built predictive models to flag high-risk patients using Python and scikit-learn.\nLANGUAGES\nHealthcare Data Associate (cid:127) English (Native)\nPiedmont Healthcare \u00b7 Jun 2020 \u2013 Dec 2021 SOFT SKILLS\n(cid:127) Assisted in extraction and analysis of ICD-10 coded diagnosis data for reporting. (cid:127) Problem Solving\n(cid:127) Validated medical data accuracy across Epic and legacy systems. (cid:127) Interdisciplinary\n(cid:127) Supported quality improvement initiatives through data trend analysis. Collaboration\n(cid:127) Ethical Judgment\nEDUCATION\nB.S. in Biological Sciences\nGeorgia State University \u00b7 2020\nCertificate in Healthcare Data Analytics\nCoursera / Johns Hopkins \u00b7 2021\nCERTIFICATIONS\n(cid:127) Registered Health Information Technician (RHIT) \u2013 AHIMA (2022)\n(cid:127) Python for Data Science \u2013 IBM (2021)"
 }

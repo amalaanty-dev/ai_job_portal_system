@@ -1,21 +1,60 @@
 {
     "skills": [
-        "health information analyst with 4 years of",
-        "cid 127 conducted monthly data integrity audits achieving 99 5 record accuracy cid 127 epic ehr compliance cid 127 cerner cid 127 medconnect cid 127 generated hipaa compliant health information reports for regulatory submissions cid 127 microsoft excel cid 127 supported implementation of new ehr modules training 40 clinical staff cid 127 sql cid 127 responded to medical record requests ensuring regulatory turnaround deadlines cid 127 hl7 fhir health records technician languages george washington university hospital jan 2019 aug 2020 cid 127 english fluent cid 127 maintained and organized physical and digital patient records per him standards cid 127 urdu native cid 127 assisted in transitioning paper based records to epic ehr system cid 127 arabic conversational cid 127 processed release of information roi requests under hipaa guidelines soft",
-        "cid 127 attention to detail"
+        "Health information analyst with 4 years of experience managing patient health records, Health Information",
+        "ensuring data governance, and maintaining compliance with HIPAA and other healthcare Management",
+        "Data Governance",
+        "regulations. Skilled in EHR/EMR system administration, data integrity audits, and health",
+        "Record Management",
+        "information reporting for hospital quality and compliance departments.",
+        "HIPAA Compliance"
     ],
     "experience": [
-        "managing patient health records cid 127 health information ensuring data governance and maintaining compliance with hipaa and other healthcare management cid 127 data governance regulations skilled in ehr emr system administration data integrity audits and health cid 127 record management information reporting for hospital quality and compliance departments cid 127 hipaa compliance",
-        "cid 127 ehr administration health information analyst cid 127 audit reporting tools medstar health sep 2020 present cid 127 managed patient health records across epic and legacy systems for 12 facilities"
+        {
+            "role_header": "MedStar Health \u00b7 Sep 2020 \u2013 Present",
+            "duties": [
+                "Managed patient health records across Epic and legacy systems for 12 facilities.",
+                "Conducted monthly data integrity audits, achieving 99.5% record accuracy Epic EHR",
+                "compliance. Cerner",
+                "MedConnect",
+                "Generated HIPAA-compliant health information reports for regulatory submissions.",
+                "Microsoft Excel",
+                "Supported implementation of new EHR modules, training 40+ clinical staff.",
+                "SQL",
+                "Responded to medical record requests ensuring regulatory turnaround deadlines.",
+                "HL7/FHIR",
+                "Health Records Technician",
+                "George Washington University Hospital \u00b7 Jan 2019 \u2013 Aug 2020 English (Fluent)",
+                "Maintained and organized physical and digital patient records per HIM standards. Urdu (Native)",
+                "Assisted in transitioning paper-based records to Epic EHR system. Arabic (Conversational)",
+                "Processed release of information (ROI) requests under HIPAA guidelines.",
+                "Attention to Detail"
+            ]
+        }
     ],
     "education": [
-        "cid 127 regulatory compliance b s in health information management cid 127 confidentiality george washington university 2019"
+        "Regulatory Compliance",
+        "B.S. in Health Information Management",
+        "Confidentiality",
+        "George Washington University \u00b7 2019"
     ],
     "projects": [],
     "certifications": [
-        "cid 127 registered health information administrator rhia ahima 2021 cid 127 hipaa privacy security officer certification 2020 cid 127 epic him certified 2020"
+        "Registered Health Information Administrator (RHIA) \u2013 AHIMA (2021)",
+        "HIPAA Privacy & Security Officer Certification (2020)",
+        "Epic HIM Certified (2020)"
     ],
+    "achievements": [],
     "other": [
-        "aisha rahman health information analyst aisha rahman email com 1 202 555 0563 washington dc linkedin com in aisharahman professional summary core"
+        "Aisha Rahman",
+        "Health Information Analyst",
+        "aisha.rahman@email.com | +1 (202) 555-0563 | Washington, DC | linkedin.com/in/aisharahman",
+        "HEADER: PROFESSIONAL SUMMARY",
+        "HEADER: CORE SKILLS",
+        "HEADER: WORK EXPERIENCE",
+        "EHR Administration",
+        "Health Information Analyst Audit & Reporting",
+        "&",
+        "HEADER: EDUCATION",
+        "HEADER: CERTIFICATIONS"
     ]
 }

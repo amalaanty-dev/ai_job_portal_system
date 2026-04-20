@@ -1,8 +1,48 @@
 {
-    "candidate": "Resume_2_Clinical_Data_Analyst",
+    "candidate": "Resume_2_Clinical_Data_Analyst_sections.json",
     "skills": [
         {
+            "skill": "analytical thinking",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "ontology",
+            "category": "other",
+            "confidence": 0.75
+        },
+        {
+            "skill": "oracle clinical",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "redcap",
+            "category": "tech",
+            "confidence": 0.95
+        },
+        {
             "skill": "data extraction",
+            "category": "other",
+            "confidence": 0.85
+        },
+        {
+            "skill": "sas",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "medidata rave",
+            "category": "tech",
+            "confidence": 0.85
+        },
+        {
+            "skill": "compliance",
+            "category": "business",
+            "confidence": 0.95
+        },
+        {
+            "skill": "data validation",
             "category": "other",
             "confidence": 0.75
         },
@@ -12,19 +52,14 @@
             "confidence": 0.75
         },
         {
-            "skill": "bioinformatics",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "clinical data analysis",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
             "skill": "excel",
             "category": "tech",
-            "confidence": 0.75
+            "confidence": 0.85
+        },
+        {
+            "skill": "research methodology",
+            "category": "business",
+            "confidence": 0.85
         },
         {
             "skill": "kpi analysis",
@@ -32,12 +67,7 @@
             "confidence": 0.75
         },
         {
-            "skill": "data validation",
-            "category": "other",
-            "confidence": 0.75
-        },
-        {
-            "skill": "gcp",
+            "skill": "epic",
             "category": "tech",
             "confidence": 0.85
         }

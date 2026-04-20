@@ -1,24 +1,137 @@
 {
     "skills": [
-        "programming db python sql regex ml ai supervised learning unsupervised learning classification regression pca xgboost feature engineering hyperparameter tuning model evaluation metrics such as confusion matrix classification report accuracy precision recall f1 streamlit deep learning nlp ann cnn rnn intent classification ner dialog management faq modeling llm response validation chatbot training sentiment analysis frameworks libs scikit learn tensorflow keras pandas numpy matplotlib seaborn data analytics eda statistical analysis advanced excel pivot tables data wrangling data cleaning tools platforms git jenkins postman jira sublime text google translate triniti environments jupyter notebook visual studio code google colab domain banking financial services bfsi finacle saksham 360 artificial intelligence chatbots machine learning",
-        "india pvt ltd jul 2021 dec 2024 clients icici bank canara bank standard chartered bank tata capital tonik chatbot training nlp model development analyzed banking faqs account balance emi loan tenure card dues transaction history and built high accuracy nlp training datasets for end to end chatbot deployment identified and corrected intent mismatches in bot responses iteratively retrained models to achieve 100 accuracy on targeted use cases validated and scored llm chatgpt generated responses correct incorrect invalid to enhance model precision for production environments developed utterances for 20 banking use cases credit card cancellation loan balance etc and authored ner dialog and smalltalk configuration files knowledge graph ontology management designed and maintained base knowledge graphs for retail banking india us and corporate banking generic",
-        "consistently achieved monthly home loan disbursement target of rs 1 5 crores at icici bank awarded top performer at icici bank for securing rs 2 crores in fixed deposits during fy 2018 2019 drove insurance and fixed deposit sales exceeding rs 3 crores at axis bank earned repeated client commendations for proactive follow ups and timely execution of critical banking activities i hereby declare that all information furnished above is true and accurate to the best of my knowledge"
+        "Programming & DB Python, SQL, Regex",
+        "ML & AI Supervised Learning, Unsupervised Learning, Classification, Regression, PCA, XGBoost,",
+        "Feature Engineering, Hyperparameter Tuning,Model Evaluation Metrics such as Confusion",
+        "Matrix, Classification Report(Accuracy, Precision, Recall, F1), Streamlit",
+        "Deep Learning & NLP ANN, CNN, RNN, Intent Classification, NER, Dialog Management, FAQ Modeling, LLM",
+        "Response Validation, Chatbot Training, Sentiment Analysis",
+        "Frameworks & Libs Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn",
+        "Data Analytics EDA, Statistical Analysis, Advanced Excel, Pivot Tables, Data Wrangling, Data Cleaning",
+        "& Platforms Git, Jenkins, Postman, Jira, Sublime Text, Google Translate, Triniti",
+        "Environments Jupyter Notebook, Visual Studio Code, Google Colab",
+        "Domain Banking & Financial Services (BFSI), Finacle, Saksham 360,Artificial Intelligence(Chatbots)",
+        "MACHINE LEARNING"
     ],
     "experience": [
-        "in nlp machine learning and conversational ai for large scale bfsi clients proven expertise in building and validating ml models designing knowledge graphs ontology performing statistical analysis automation using jenkins and delivering data driven insights to optimize operational efficiency proficient in python sql scikit learn and data visualization tools strong domain knowledge in banking and financial services with a track record of measurable performance improvements seeking to leverage a strong ml nlp and data analytics foundation in data analyst or data scientist roles core",
-        "data engineer ii gupshup"
+        {
+            "role_header": "Data Engineer II | Gupshup India Pvt. Ltd.|Jul 2021 \u2013 Dec 2024",
+            "duties": [
+                "Clients: ICICI Bank | Canara Bank | Standard Chartered Bank | Tata Capital | Tonik",
+                "Chatbot Training & NLP Model Development",
+                "\uf0b7 Analyzed banking FAQs (account balance, EMI, loan tenure, card dues, transaction history) and built high-accuracy NLP",
+                "training datasets for end-to-end chatbot deployment.",
+                "\uf0b7 Identified and corrected intent mismatches in bot responses; iteratively retrained models to achieve 100% accuracy on",
+                "targeted use cases.",
+                "\uf0b7 Validated and scored LLM/ChatGPT-generated responses (correct/incorrect/invalid) to enhance model precision for",
+                "production environments.",
+                "\uf0b7 Developed utterances for 20+ banking use cases (credit card cancellation, loan balance, etc.) and authored NER, Dialog,",
+                "and Smalltalk configuration files.",
+                "Knowledge Graph & Ontology Management",
+                "\uf0b7 Designed and maintained base Knowledge Graphs for Retail Banking (India/US) and Corporate Banking generic"
+            ]
+        },
+        {
+            "role_header": "Deputy Manager \u2013 Banking Operations | Axis Bank| Oct 2020 \u2013 Nov 2021",
+            "duties": [
+                "\uf0d8 Managed end-to-end banking operations: deposits, payments, NEFT/RTGS transfers, cheque clearing, and end-of-day",
+                "reconciliation.",
+                "\uf0d8 Processed service requests including loan closures, re-KYC updates, debit card issuance, FD receipts, and locker",
+                "operations.",
+                "\uf0d8 Investigated and resolved ATM/debit/credit card fraud escalations; monitored transactions for suspicious activity.",
+                "\uf0d8 Cross-sold fixed deposits, insurance, mutual funds, and loans; drove combined FD and insurance sales exceeding Rs. 3",
+                "crores.",
+                "\uf0d8 Conducted onboarding training for new joiners on Finacle, Saksham 360, and core banking payment procedures."
+            ]
+        },
+        {
+            "role_header": "Deputy Manager \u2013 Home Loans | ICICI Bank| Oct 2019 \u2013 Nov 2020",
+            "duties": [
+                "\uf0d8 Assessed applicants' financial status through bank statements, credit reports, and document verification to determine",
+                "home loan eligibility.",
+                "\uf0d8 Guided customers through loan selection, application, and approval; consistently achieved monthly disbursement targets",
+                "of Rs. 1.5 crores.",
+                "\uf0d8 Managed loan portfolios including part payments, foreclosure, rate conversions, EMI, and loan closure across home,",
+                "personal, and auto loan products."
+            ]
+        }
     ],
     "education": [
-        "mba finance marketing 2016 2018 rajagiri college of social sciences autonomous rcbs 70 bba business administration 2013 2016 rajagiri college of management and applied sciences rcmas 84 key achievements received client appreciation for educating stakeholders on knowledge graph architecture and chatbot testing at gupshup"
+        "MBA \u2013 Finance & Marketing 2016 \u2013 2018",
+        "Rajagiri College of Social Sciences (Autonomous), RCBS | 70%",
+        "BBA \u2013 Business Administration 2013 \u2013 2016",
+        "Rajagiri College of Management and Applied Sciences, RCMAS | 84%"
     ],
     "projects": [
-        "e commerce customer churn prediction supervised learning classification built an xgboost classifier to predict customer churn with 92 09 accuracy using python and scikit learn performed feature engineering missing value treatment and gridsearchcv based hyperparameter tuning evaluated model with accuracy precision recall and f1 score to optimize for business critical false negative reduction deployed as an interactive streamlit web app with real time prediction brain tumor detection using cnn deep learning image classification developed a convolutional neural network cnn to classify mri brain scans as tumor positive or tumor negative using tensorflow and keras applied image preprocessing data augmentation and transfer learning by using cnn architecture mobilenetv2 to improve model generalization and robustness evaluated model performance using accuracy precision recall and f1 score achieved high classification accuracy on the test dataset built an end to end inference pipeline deployable via a streamlit web application for real time predictions titanic survival prediction supervised learning classification developed a binary classification model using xgboost with feature engineering and hyperparameter tuning achieving 80 09 accuracy on test data and deployed as an interactive streamlit web app with real time prediction credit card customer segmentation unsupervised learning clustering segmented customers using kmeans clustering and pca for dimensionality reduction visualized cluster profiles with matplotlib and seaborn to derive actionable insights",
-        "from scratch structured product attribute data across account loan card deposit and investment domains performed faq fulfillment analysis and ontology updates aligned to new intents and faqs conducted admin validation sanity testing and qa handover for all completed knowledge graph",
-        "chat log analysis accuracy improvement executed python scripts to generate chat log validation reports classified utterances by intent faq small talk transaction query gibberish identified gaps recommended new faqs prepared structured v4 format training data and incorporated customer feedback for accuracy improvement loops multilingual data validation curation curated updated and deduplicated faq datasets for icici bank tata capital and standard chartered bank validated multilingual translations using google translate and triniti performed manual word level reviews and compiled data for translation engine fine tuning tracked issues via jira and maintained validation trackers across multiple concurrent client",
-        "automation ci cd pipeline automated chatbot training and regression testing via jenkins generated pivot table reports for each automation cycle resolved automation defects across faq pc ner dialog and smalltalk components designed poc data text image generation and committed finalized training data to git deputy manager banking operations axis bank oct 2020 nov 2021 managed end to end banking operations deposits payments neft rtgs transfers cheque clearing and end of day reconciliation processed service requests including loan closures re kyc updates debit card issuance fd receipts and locker operations investigated and resolved atm debit credit card fraud escalations monitored transactions for suspicious activity cross sold fixed deposits insurance mutual funds and loans drove combined fd and insurance sales exceeding rs 3 crores conducted onboarding training for new joiners on finacle saksham 360 and core banking payment procedures deputy manager home loans icici bank oct 2019 nov 2020 assessed applicants financial status through bank statements credit reports and document verification to determine home loan eligibility guided customers through loan selection application and approval consistently achieved monthly disbursement targets of rs 1 5 crores managed loan portfolios including part payments foreclosure rate conversions emi and loan closure across home personal and auto loan products cross sold credit cards mutual funds personal loans and fixed deposits secured fd bookings of rs 2 crores fy 2018 2019 earning top performer recognition"
+        "E-Commerce Customer Churn Prediction | Supervised Learning | Classification",
+        "\uf0b7 Built an XGBoost classifier to predict customer churn with 92.09% accuracy using Python and scikit-learn.",
+        "\uf0b7 Performed feature engineering, missing value treatment, and GridSearchCV-based hyperparameter tuning.",
+        "\uf0b7 Evaluated model with Accuracy, Precision, Recall, and F1-Score to optimize for business-critical false-negative reduction.",
+        "\uf0b7 Deployed as an interactive Streamlit web app with real-time prediction",
+        "Brain Tumor Detection using CNN | Deep Learning | Image Classification",
+        "\uf0b7 Developed a Convolutional Neural Network (CNN) to classify MRI brain scans as tumor-positive or tumor-negative using",
+        "TensorFlow and Keras.",
+        "\uf0b7 Applied image preprocessing, data augmentation, and transfer learning by using cnn architecture MobileNetV2 to",
+        "improve model generalization and robustness.",
+        "\uf0b7 Evaluated model performance using Accuracy, Precision, Recall, and F1-Score; achieved high classification accuracy on",
+        "the test dataset.",
+        "\uf0b7 Built an end-to-end inference pipeline deployable via a Streamlit web application for real-time predictions.",
+        "Titanic Survival Prediction | Supervised Learning | Classification",
+        "\u2022 Developed a binary classification model using XGBoost with feature engineering and hyperparameter tuning,",
+        "achieving 80.09% accuracy on test data and deployed as an interactive Streamlit web app with real-time prediction",
+        "Credit Card Customer Segmentation | Unsupervised Learning | Clustering",
+        "\uf0b7 Segmented customers using KMeans Clustering and PCA for dimensionality reduction; visualized cluster profiles with",
+        "Matplotlib and Seaborn to derive actionable insights.",
+        "from scratch.",
+        "\uf0b7 Structured product-attribute data across account, loan, card, deposit, and investment domains; performed FAQ",
+        "fulfillment analysis and ontology updates aligned to new intents and FAQs.",
+        "\uf0b7 Conducted admin validation, sanity testing, and QA handover for all completed knowledge graph",
+        "Chat Log Analysis & Accuracy Improvement",
+        "\uf0b7 Executed Python scripts to generate chat log validation reports; classified utterances by intent (FAQ, small talk,",
+        "transaction, query, gibberish).",
+        "\uf0b7 Identified gaps, recommended new FAQs, prepared structured V4-format training data, and incorporated customer",
+        "feedback for accuracy improvement loops.",
+        "Multilingual Data Validation & Curation",
+        "\uf0b7 Curated, updated, and deduplicated FAQ datasets for ICICI Bank, Tata Capital, and Standard Chartered Bank.",
+        "\uf0b7 Validated multilingual translations using Google Translate and Triniti; performed manual word-level reviews and",
+        "compiled data for translation engine fine-tuning.",
+        "\uf0b7 Tracked issues via Jira and maintained validation trackers across multiple concurrent client",
+        "Automation & CI/CD Pipeline",
+        "\uf0b7 Automated chatbot training and regression testing via Jenkins; generated pivot table reports for each automation cycle.",
+        "\uf0b7 Resolved automation defects across FAQ, PC, NER, Dialog, and Smalltalk components; designed POC data (text/image",
+        "generation) and committed finalized training data to Git."
     ],
     "certifications": [],
+    "achievements": [
+        "\uf0d8 Cross-sold credit cards, mutual funds, personal loans, and fixed deposits; secured FD bookings of Rs. 2 crores (FY 2018-",
+        "2019), earning Top Performer recognition.",
+        "\uf0d8 Received Client Appreciation for educating stakeholders on Knowledge Graph architecture and chatbot testing at",
+        "Gupshup .",
+        "\uf0d8 Consistently achieved monthly home loan disbursement target of Rs. 1.5 crores at ICICI Bank.",
+        "\uf0d8 Awarded Top Performer at ICICI Bank for securing Rs. 2 crores in fixed deposits during FY 2018-2019.",
+        "\uf0d8 Drove insurance and fixed deposit sales exceeding Rs. 3 crores at Axis Bank.",
+        "\uf0d8 Earned repeated client commendations for proactive follow-ups and timely execution of critical banking activities.",
+        "I hereby declare that all information furnished above is true and accurate to the best of my knowledge."
+    ],
     "other": [
-        "amala p anty data analyst data scientist nlp conversational ai specialist bangalore karnataka india 91 9037394914 amalaanty gmail com professional summary results driven data scientist and data analyst with 3 5 years of"
+        "AMALA P ANTY",
+        "Data Analyst | Data Scientist | NLP & Conversational AI Specialist",
+        "Bangalore, Karnataka, India \u2022 +91 9037394914 \u2022 amalaanty@gmail.com",
+        "HEADER: PROFESSIONAL SUMMARY",
+        "Results-driven Data Scientist and Data Analyst with 3.5+ years of experience in NLP, machine learning, and conversational AI",
+        "for large-scale BFSI clients. Proven expertise in building and validating ML models, designing knowledge graphs (ontology)",
+        ",performing statistical analysis, Automation using Jenkins and delivering data-driven insights to optimize operational",
+        "efficiency. Proficient in Python, SQL, Scikit-learn, and data visualization . Strong domain knowledge in banking and",
+        "financial services with a track record of measurable performance improvements. Seeking to leverage a strong ML, NLP, and",
+        "data analytics foundation in Data Analyst or Data Scientist roles.",
+        "CORE",
+        "HEADER: TECHNICAL SKILLS",
+        "HEADER: PROJECTS",
+        "HEADER: PROFESSIONAL EXPERIENCE",
+        "HEADER: projects",
+        "HEADER: projects",
+        "HEADER: projects",
+        "HEADER: EDUCATION",
+        "HEADER: KEY ACHIEVEMENTS"
     ]
 }

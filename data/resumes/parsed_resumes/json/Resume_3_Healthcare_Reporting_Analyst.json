@@ -1,4 +1,23 @@
 {
     "resume_name": "Resume_3_Healthcare_Reporting_Analyst.pdf",
-    "clean_text": "sofia martinez healthcare reporting analyst sofia martinez email com 1 214 555 0371 dallas tx linkedin com in sofiamartinez professional summary core skills healthcare reporting analyst specializing in developing impactful dashboards cid 127 dashboard development automating routine reports and communicating data driven insights to hospital cid 127 report automation cid 127 kpi monitoring leadership and operations teams proven track record of reducing manual reporting time cid 127 data storytelling by 60 through power bi automation and streamlining kpi tracking across large health cid 127 healthcare analytics systems cid 127 etl pipelines work experience tools healthcare reporting analyst technologies baylor scott white health apr 2021 present cid 127 power bi cid 127 developed 25 power bi dashboards tracking patient flow revenue cycle and cid 127 tableau outcomes cid 127 sql server cid 127 python cid 127 automated weekly and monthly operational reports reducing manual effort by 60 cid 127 excel cid 127 analyzed kpis including bed occupancy los readmissions and payer mix for cid 127 epic reporting workbench c suite languages cid 127 collaborated with it and clinical teams to ensure accurate data pipelines from epic cid 127 english fluent cid 127 presented monthly performance insights to department heads and executive cid 127 spanish native leadership soft skills reporting analyst cid 127 communication healthspring insurance aug 2019 mar 2021 cid 127 stakeholder management cid 127 created ad hoc and scheduled reports for claims utilization and member services cid 127 problem solving cid 127 built tableau dashboards monitoring provider performance and network efficiency cid 127 automated report distribution using python and sql stored procedures education b s in health information technology university of texas at dallas 2019 certifications cid 127 microsoft certified power bi data analyst associate 2022 cid 127 tableau desktop specialist 2021 "
+    "name": "Sofia Martinez",
+    "roles": [
+        {
+            "job_title": "Healthcare Reporting Analyst TECHNOLOGIES",
+            "company": "Baylor Scott & White Health \u00b7",
+            "start_date": "2021-04-01",
+            "end_date": "2026-04-19",
+            "duration_months": 61
+        },
+        {
+            "job_title": "Communication",
+            "company": "HealthSpring Insurance \u00b7",
+            "start_date": "2019-08-01",
+            "end_date": "2021-03-01",
+            "duration_months": 20
+        }
+    ],
+    "experience": 6.8,
+    "education": [],
+    "clean_text": "Sofia Martinez\nHealthcare Reporting Analyst\nsofia.martinez@email.com | +1 (214) 555-0371 | Dallas, TX | linkedin.com/in/sofiamartinez\nPROFESSIONAL SUMMARY CORE SKILLS\nHealthcare reporting analyst specializing in developing impactful dashboards, (cid:127) Dashboard Development\nautomating routine reports, and communicating data-driven insights to hospital (cid:127) Report Automation\n(cid:127) KPI Monitoring\nleadership and operations teams. Proven track record of reducing manual reporting time\n(cid:127) Data Storytelling\nby 60% through Power BI automation and streamlining KPI tracking across large health\n(cid:127) Healthcare Analytics\nsystems.\n(cid:127) ETL Pipelines\nWORK EXPERIENCE TOOLS &\nHealthcare Reporting Analyst TECHNOLOGIES\nBaylor Scott & White Health \u00b7 Apr 2021 \u2013 Present (cid:127) Power BI\n(cid:127) Developed 25+ Power BI dashboards tracking patient flow, revenue cycle, and (cid:127) Tableau\noutcomes. (cid:127) SQL Server\n(cid:127) Python\n(cid:127) Automated weekly and monthly operational reports, reducing manual effort by 60%.\n(cid:127) Excel\n(cid:127) Analyzed KPIs including bed occupancy, LOS, readmissions, and payer mix for\n(cid:127) Epic Reporting Workbench\nC-suite.\nLANGUAGES\n(cid:127) Collaborated with IT and clinical teams to ensure accurate data pipelines from Epic.\n(cid:127) English (Fluent)\n(cid:127) Presented monthly performance insights to department heads and executive\n(cid:127) Spanish (Native)\nleadership.\nSOFT SKILLS\nReporting Analyst (cid:127) Communication\nHealthSpring Insurance \u00b7 Aug 2019 \u2013 Mar 2021 (cid:127) Stakeholder Management\n(cid:127) Created ad-hoc and scheduled reports for claims, utilization, and member services. (cid:127) Problem Solving\n(cid:127) Built Tableau dashboards monitoring provider performance and network efficiency.\n(cid:127) Automated report distribution using Python and SQL stored procedures.\nEDUCATION\nB.S. in Health Information Technology\nUniversity of Texas at Dallas \u00b7 2019\nCERTIFICATIONS\n(cid:127) Microsoft Certified: Power BI Data Analyst Associate (2022)\n(cid:127) Tableau Desktop Specialist (2021)"
 }
