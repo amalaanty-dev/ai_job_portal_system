@@ -1,0 +1,434 @@
+{
+    "resume_id": "Amala_Resume_DS_DA_2026__sections",
+    "resume_name": "AMALA P ANTY",
+    "best_match": {
+        "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+        "jd_title": "Healthcare Machine Learning Engineer",
+        "semantic_score": 40.53,
+        "label": "Good Match"
+    },
+    "all_matches": [
+        {
+            "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+            "jd_title": "Healthcare Machine Learning Engineer",
+            "semantic_score": 40.53,
+            "label": "Good Match"
+        },
+        {
+            "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+            "jd_title": "Predictive Analytics Specialist",
+            "semantic_score": 32.62,
+            "label": "Partial Match"
+        },
+        {
+            "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+            "jd_title": "Healthcare Data Scientist",
+            "semantic_score": 32.13,
+            "label": "Partial Match"
+        },
+        {
+            "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+            "jd_title": "Healthcare Data Science Manager",
+            "semantic_score": 29.96,
+            "label": "Partial Match"
+        },
+        {
+            "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+            "jd_title": "Healthcare Ai Analyst",
+            "semantic_score": 28.29,
+            "label": "Partial Match"
+        },
+        {
+            "jd_id": "healthcare data analyst (junior)_parsed_jd",
+            "jd_title": "Healthcare Data Analyst (Junior)",
+            "semantic_score": 22.59,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+            "jd_title": "Data Analytics Trainer",
+            "semantic_score": 22.45,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Senior Healthcare Data Analyst",
+            "semantic_score": 21.23,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Freelance Healthcare Data Analyst",
+            "semantic_score": 20.17,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Healthcare Data Analyst",
+            "semantic_score": 19.22,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Genomics_Data_Analyst_parsed_jd",
+            "jd_title": "Genomics Data Analyst",
+            "semantic_score": 18.61,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Public_Health_Analyst_parsed_jd",
+            "jd_title": "Public Health Analyst",
+            "semantic_score": 18.34,
+            "label": "Weak Match"
+        },
+        {
+            "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+            "jd_title": "Real World Evidence (Rwe) Analyst",
+            "semantic_score": 14.7,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+            "jd_title": "Epidemiology Data Analyst",
+            "semantic_score": 14.29,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+            "jd_title": "Public Health Data Analyst (Entry-Level)",
+            "semantic_score": 14.2,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+            "jd_title": "Global Health Data Analyst",
+            "semantic_score": 13.4,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+            "jd_title": "Data Entry Analyst (Healthcare)",
+            "semantic_score": 13.29,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "epidemiologist_datafocused_parsed_jd",
+            "jd_title": "Epidemiologist",
+            "semantic_score": 12.43,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+            "jd_title": "Ai Specialist In Healthcare Analytics",
+            "semantic_score": 12.05,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+            "jd_title": "Clinical Research Data Analyst",
+            "semantic_score": 12.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+            "jd_title": "Telehealth Data Analyst",
+            "semantic_score": 11.97,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Senior Clinical Data Analyst",
+            "semantic_score": 11.94,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+            "jd_title": "Healthcare Statistician",
+            "semantic_score": 11.16,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Clinical Data Analyst",
+            "semantic_score": 11.09,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+            "jd_title": "Medical Billing Data Analyst",
+            "semantic_score": 11.03,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+            "jd_title": "Insurance Claims Analyst",
+            "semantic_score": 10.71,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Data_Architect_parsed_jd",
+            "jd_title": "Healthcare Data Architect",
+            "semantic_score": 10.6,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+            "jd_title": "Revenue Cycle Data Analyst",
+            "semantic_score": 10.56,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Population_Health_Analyst_parsed_jd",
+            "jd_title": "Population Health Analyst",
+            "semantic_score": 10.54,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Biostatistician_parsed_jd",
+            "jd_title": "Biostatistician",
+            "semantic_score": 10.48,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+            "jd_title": "Healthcare Program Analyst",
+            "semantic_score": 10.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+            "jd_title": "Lead Data Analyst (Healthcare)",
+            "semantic_score": 9.95,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Clinical_Data_Scientist_parsed_jd",
+            "jd_title": "Clinical Data Scientist",
+            "semantic_score": 9.68,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+            "jd_title": "Healthcare Dashboard Developer",
+            "semantic_score": 9.21,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+            "jd_title": "Healthcare Outcomes Analyst",
+            "semantic_score": 9.21,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Medical_Data_Analyst_parsed_jd",
+            "jd_title": "Medical Data Analyst",
+            "semantic_score": 9.05,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Remote Clinical Data Analyst",
+            "semantic_score": 8.36,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+            "jd_title": "Healthcare Data Integration Specialist",
+            "semantic_score": 8.19,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "fraud_compliance_analyst_parsed_jd",
+            "jd_title": "Fraud & Compliance Analyst",
+            "semantic_score": 8.15,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+            "jd_title": "Claims Data Analyst",
+            "semantic_score": 8.1,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+            "jd_title": "Healthcare Bi (Business Intelligence) Analyst",
+            "semantic_score": 7.95,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+            "jd_title": "Chief Data Officer",
+            "semantic_score": 7.92,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+            "jd_title": "Cost & Utilization Analyst",
+            "semantic_score": 7.84,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+            "jd_title": "Revenue Cycle Data Analyst",
+            "semantic_score": 7.78,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+            "jd_title": "Healthcare Performance Analyst",
+            "semantic_score": 7.75,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+            "jd_title": "Healthcare Financial Analyst",
+            "semantic_score": 7.14,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+            "jd_title": "Quality Improvement Analyst (Healthcare)",
+            "semantic_score": 7.1,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+            "jd_title": "Wearable Health Data Analyst",
+            "semantic_score": 7.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+            "jd_title": "Healthcare Operations Analyst",
+            "semantic_score": 6.87,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+            "jd_title": "Healthcare Risk Analyst",
+            "semantic_score": 6.73,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+            "jd_title": "Healthcare Reporting Analyst",
+            "semantic_score": 6.52,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+            "jd_title": "Clinical Trials Data Manager",
+            "semantic_score": 6.41,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+            "jd_title": "Healthcare Business Analyst",
+            "semantic_score": 5.97,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+            "jd_title": "Healthcare Analytics Consultant",
+            "semantic_score": 5.93,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Patient_Experience_Analyst_parsed_jd",
+            "jd_title": "Patient Experience Analyst",
+            "semantic_score": 5.8,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Digital_Health_Analyst_parsed_jd",
+            "jd_title": "Digital Health Analyst",
+            "semantic_score": 4.83,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+            "jd_title": "Ehr Data Analyst",
+            "semantic_score": 2.52,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+            "jd_title": "Healthcare Analytics Manager",
+            "semantic_score": 2.27,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Health_Informatics_Specialist_parsed_jd",
+            "jd_title": "Health Informatics Specialist",
+            "semantic_score": 2.07,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+            "jd_title": "Clinical Informatics Analyst",
+            "semantic_score": 2.02,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+            "jd_title": "Director Of Healthcare Analytics",
+            "semantic_score": 1.33,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+            "jd_title": "Ehr Implementation Analyst",
+            "semantic_score": 0.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Head_of_Health_Informatics_parsed_jd",
+            "jd_title": "Head Of Health Informatics",
+            "semantic_score": 0.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Health_Information_Analyst_parsed_jd",
+            "jd_title": "Health Information Analyst",
+            "semantic_score": 0.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+            "jd_title": "Health Information Systems Analyst",
+            "semantic_score": 0.0,
+            "label": "Mismatch"
+        },
+        {
+            "jd_id": "Health_Policy_Analyst_parsed_jd",
+            "jd_title": "Health Policy Analyst",
+            "semantic_score": 0.0,
+            "label": "Mismatch"
+        }
+    ],
+    "section_scores": {
+        "skills": 57.87,
+        "experience_summary": 12.7,
+        "projects": 41.97,
+        "education": 0.0,
+        "certifications": 0.0,
+        "full_document": 59.69
+    },
+    "gaps": [
+        {
+            "section": "education",
+            "score": 0.0,
+            "gap_severity": "critical"
+        },
+        {
+            "section": "certifications",
+            "score": 0.0,
+            "gap_severity": "missing"
+        },
+        {
+            "section": "experience_summary",
+            "score": 0.127,
+            "gap_severity": "critical"
+        }
+    ],
+    "job_type_used": "healthcare_analytics"
+}

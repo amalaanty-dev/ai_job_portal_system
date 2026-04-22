@@ -1,0 +1,2814 @@
+{
+    "resume_id": "Amala_Resume_DS_DA_2026__sections",
+    "resume_name": "AMALA P ANTY",
+    "evaluated_at": "20260421_153635",
+    "summary": {
+        "total_jds_evaluated": 66,
+        "best_match_jd": "Healthcare Machine Learning Engineer",
+        "best_match_score": 40.53,
+        "best_match_label": "Good Match",
+        "avg_semantic_score": 11.09,
+        "label_distribution": {
+            "Strong Match": 0,
+            "Good Match": 1,
+            "Partial Match": 4,
+            "Weak Match": 7,
+            "Mismatch": 54
+        }
+    },
+    "all_matches": [
+        {
+            "rank": 1,
+            "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+            "jd_title": "Healthcare Machine Learning Engineer",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 40.53,
+            "match_label": "Good Match",
+            "section_scores": {
+                "skills": 57.87,
+                "experience_summary": 12.7,
+                "projects": 41.97,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 59.69
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.127,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+            "jd_title": "Predictive Analytics Specialist",
+            "job_type": "default",
+            "semantic_score": 32.62,
+            "match_label": "Partial Match",
+            "section_scores": {
+                "skills": 46.37,
+                "experience_summary": 3.61,
+                "projects": 11.61,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 58.09
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0361,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1161,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+            "jd_title": "Healthcare Data Scientist",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 32.13,
+            "match_label": "Partial Match",
+            "section_scores": {
+                "skills": 43.19,
+                "experience_summary": 8.77,
+                "projects": 19.66,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 55.01
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0877,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1966,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+            "jd_title": "Healthcare Data Science Manager",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 29.96,
+            "match_label": "Partial Match",
+            "section_scores": {
+                "skills": 42.94,
+                "experience_summary": 7.26,
+                "projects": 16.21,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 50.38
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0726,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1621,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+            "jd_title": "Healthcare Ai Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 28.29,
+            "match_label": "Partial Match",
+            "section_scores": {
+                "skills": 42.99,
+                "experience_summary": 3.54,
+                "projects": 11.12,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 49.63
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0354,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1112,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "jd_id": "healthcare data analyst (junior)_parsed_jd",
+            "jd_title": "Healthcare Data Analyst (Junior)",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 22.59,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 29.13,
+                "experience_summary": 7.18,
+                "projects": 15.79,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 38.28
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0718,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1579,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+            "jd_title": "Data Analytics Trainer",
+            "job_type": "data_analytics",
+            "semantic_score": 22.45,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 29.09,
+                "experience_summary": 6.23,
+                "projects": 15.82,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 36.05
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0623,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1582,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Senior Healthcare Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 21.23,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 28.38,
+                "experience_summary": 6.84,
+                "projects": 15.66,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 34.73
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0684,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1566,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Freelance Healthcare Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 20.17,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 25.34,
+                "experience_summary": 7.01,
+                "projects": 15.47,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 33.82
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0701,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1547,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.2534,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+            "jd_title": "Healthcare Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 19.22,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 24.04,
+                "experience_summary": 6.96,
+                "projects": 15.11,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 31.97
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0696,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1511,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.2404,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "jd_id": "Genomics_Data_Analyst_parsed_jd",
+            "jd_title": "Genomics Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 18.61,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 23.45,
+                "experience_summary": 11.78,
+                "projects": 17.16,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 25.56
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.1178,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1716,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.2345,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "jd_id": "Public_Health_Analyst_parsed_jd",
+            "jd_title": "Public Health Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 18.34,
+            "match_label": "Weak Match",
+            "section_scores": {
+                "skills": 25.03,
+                "experience_summary": 1.21,
+                "projects": 8.63,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 35.22
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0121,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0863,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.2503,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+            "jd_title": "Real World Evidence (Rwe) Analyst",
+            "job_type": "default",
+            "semantic_score": 14.7,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 19.29,
+                "experience_summary": 0.9,
+                "projects": 12.23,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 25.72
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.009,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1223,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1929,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+            "jd_title": "Epidemiology Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 14.29,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 19.14,
+                "experience_summary": 7.28,
+                "projects": 10.97,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 20.84
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0728,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1097,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1914,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+            "jd_title": "Public Health Data Analyst (Entry-Level)",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 14.2,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 20.27,
+                "experience_summary": 6.72,
+                "projects": 10.47,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 20.21
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0672,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1047,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.2027,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+            "jd_title": "Global Health Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 13.4,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 19.44,
+                "experience_summary": 9.09,
+                "projects": 14.24,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 15.02
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0909,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1424,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1944,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+            "jd_title": "Data Entry Analyst (Healthcare)",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 13.29,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 17.66,
+                "experience_summary": 8.16,
+                "projects": 14.74,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 16.89
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0816,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1474,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1766,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "jd_id": "epidemiologist_datafocused_parsed_jd",
+            "jd_title": "Epidemiologist",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 12.43,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 17.85,
+                "experience_summary": 1.71,
+                "projects": 4.15,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 22.81
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0171,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0415,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1785,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+            "jd_title": "Ai Specialist In Healthcare Analytics",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 12.05,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 17.72,
+                "experience_summary": 2.79,
+                "projects": 3.83,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 20.8
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0279,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0383,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1772,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+            "jd_title": "Clinical Research Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 12.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 17.04,
+                "experience_summary": 6.22,
+                "projects": 8.9,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 16.64
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0622,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.089,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1704,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+            "jd_title": "Telehealth Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 11.97,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.25,
+                "experience_summary": 9.56,
+                "projects": 10.67,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 18.18
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0956,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1067,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1125,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Senior Clinical Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 11.94,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 16.74,
+                "experience_summary": 6.08,
+                "projects": 9.92,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 16.53
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0608,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0992,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1674,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+            "jd_title": "Healthcare Statistician",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 11.16,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 16.42,
+                "experience_summary": 1.3,
+                "projects": 3.27,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 20.46
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.013,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0327,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1642,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "jd_id": "Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Clinical Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 11.09,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 16.09,
+                "experience_summary": 6.74,
+                "projects": 11.4,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 13.24
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0674,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.114,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1609,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+            "jd_title": "Medical Billing Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 11.03,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 15.38,
+                "experience_summary": 7.03,
+                "projects": 10.72,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 13.61
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0703,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1072,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1538,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+            "jd_title": "Insurance Claims Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 10.71,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 9.59,
+                "experience_summary": 14.88,
+                "projects": 6.38,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.05
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0638,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0959,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.1488,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "jd_id": "Healthcare_Data_Architect_parsed_jd",
+            "jd_title": "Healthcare Data Architect",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 10.6,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.82,
+                "experience_summary": 8.45,
+                "projects": 11.36,
+                "education": 2.27,
+                "certifications": 0.0,
+                "full_document": 13.31
+            },
+            "gaps": [
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0227,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0845,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1136,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1182,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+            "jd_title": "Revenue Cycle Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 10.56,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 17.88,
+                "experience_summary": 5.94,
+                "projects": 11.25,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 10.62
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0594,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1125,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1788,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "jd_id": "Population_Health_Analyst_parsed_jd",
+            "jd_title": "Population Health Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 10.54,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 18.0,
+                "experience_summary": 2.81,
+                "projects": 3.55,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 15.59
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0281,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0355,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.18,
+                    "gap_severity": "moderate"
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "jd_id": "Biostatistician_parsed_jd",
+            "jd_title": "Biostatistician",
+            "job_type": "default",
+            "semantic_score": 10.48,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 14.81,
+                "experience_summary": 0.75,
+                "projects": 2.41,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 19.57
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0075,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0241,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1481,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+            "jd_title": "Healthcare Program Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 10.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 16.98,
+                "experience_summary": 2.61,
+                "projects": 6.04,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 14.09
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0261,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0604,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1698,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+            "jd_title": "Lead Data Analyst (Healthcare)",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 9.95,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 13.58,
+                "experience_summary": 6.29,
+                "projects": 9.88,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.52
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0629,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0988,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1358,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "jd_id": "Clinical_Data_Scientist_parsed_jd",
+            "jd_title": "Clinical Data Scientist",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 9.68,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 13.1,
+                "experience_summary": 5.93,
+                "projects": 8.53,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.79
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0593,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0853,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.131,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+            "jd_title": "Healthcare Dashboard Developer",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 9.21,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.84,
+                "experience_summary": 1.73,
+                "projects": 3.17,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 17.68
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0173,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0317,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1184,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+            "jd_title": "Healthcare Outcomes Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 9.21,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 16.98,
+                "experience_summary": 2.61,
+                "projects": 6.04,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 11.47
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0261,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0604,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1698,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "jd_id": "Medical_Data_Analyst_parsed_jd",
+            "jd_title": "Medical Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 9.05,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 10.55,
+                "experience_summary": 7.06,
+                "projects": 10.29,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 11.4
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0706,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1029,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1055,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 37,
+            "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+            "jd_title": "Remote Clinical Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 8.36,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.39,
+                "experience_summary": 6.36,
+                "projects": 9.43,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 9.24
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0636,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0943,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1139,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 38,
+            "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+            "jd_title": "Healthcare Data Integration Specialist",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 8.19,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 9.17,
+                "experience_summary": 5.57,
+                "projects": 8.82,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 11.54
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0557,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0882,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0917,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 39,
+            "jd_id": "fraud_compliance_analyst_parsed_jd",
+            "jd_title": "Fraud & Compliance Analyst",
+            "job_type": "default",
+            "semantic_score": 8.15,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 13.53,
+                "experience_summary": 3.69,
+                "projects": 5.51,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 9.33
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0369,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0551,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1353,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 40,
+            "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+            "jd_title": "Claims Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 8.1,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 10.13,
+                "experience_summary": 5.56,
+                "projects": 8.19,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 10.56
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0556,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0819,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1013,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 41,
+            "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+            "jd_title": "Healthcare Bi (Business Intelligence) Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.95,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 9.8,
+                "experience_summary": 1.51,
+                "projects": 6.19,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 14.58
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0151,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0619,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.098,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 42,
+            "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+            "jd_title": "Chief Data Officer",
+            "job_type": "default",
+            "semantic_score": 7.92,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 3.86,
+                "experience_summary": 10.15,
+                "projects": 12.86,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 9.33
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0386,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.1015,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.1286,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 43,
+            "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+            "jd_title": "Cost & Utilization Analyst",
+            "job_type": "default",
+            "semantic_score": 7.84,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 10.96,
+                "experience_summary": 1.52,
+                "projects": 3.52,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 13.3
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0152,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0352,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1096,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 44,
+            "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+            "jd_title": "Revenue Cycle Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.78,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 10.93,
+                "experience_summary": 4.45,
+                "projects": 9.71,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 9.33
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0445,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0971,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1093,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 45,
+            "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+            "jd_title": "Healthcare Performance Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.75,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 8.72,
+                "experience_summary": 1.34,
+                "projects": 3.1,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 15.95
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0134,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.031,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0872,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 46,
+            "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+            "jd_title": "Healthcare Financial Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.14,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.47,
+                "experience_summary": 1.13,
+                "projects": 1.69,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.11
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0113,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0169,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1147,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 47,
+            "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+            "jd_title": "Quality Improvement Analyst (Healthcare)",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.1,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 9.14,
+                "experience_summary": 1.0,
+                "projects": 7.79,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.29
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.01,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0779,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0914,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 48,
+            "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+            "jd_title": "Wearable Health Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 7.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 7.04,
+                "experience_summary": 7.18,
+                "projects": 9.83,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 7.72
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0704,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0718,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0983,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 49,
+            "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+            "jd_title": "Healthcare Operations Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 6.87,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 7.92,
+                "experience_summary": 1.48,
+                "projects": 2.93,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 13.67
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0148,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0293,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0792,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 50,
+            "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+            "jd_title": "Healthcare Risk Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 6.73,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 11.88,
+                "experience_summary": 1.83,
+                "projects": 4.22,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 8.98
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0183,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0422,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.1188,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 51,
+            "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+            "jd_title": "Healthcare Reporting Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 6.52,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 6.91,
+                "experience_summary": 1.29,
+                "projects": 2.56,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 13.69
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0129,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0256,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0691,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 52,
+            "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+            "jd_title": "Clinical Trials Data Manager",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 6.41,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 7.82,
+                "experience_summary": 5.51,
+                "projects": 7.37,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 7.31
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0551,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0737,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0782,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 53,
+            "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+            "jd_title": "Healthcare Business Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 5.97,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 5.85,
+                "experience_summary": 0.9,
+                "projects": 7.49,
+                "education": 3.11,
+                "certifications": 0.0,
+                "full_document": 10.84
+            },
+            "gaps": [
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.009,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0311,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0585,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0749,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 54,
+            "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+            "jd_title": "Healthcare Analytics Consultant",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 5.93,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 8.51,
+                "experience_summary": 1.03,
+                "projects": 3.58,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 10.21
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0103,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0358,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0851,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 55,
+            "jd_id": "Patient_Experience_Analyst_parsed_jd",
+            "jd_title": "Patient Experience Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 5.8,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 5.27,
+                "experience_summary": 1.44,
+                "projects": 2.15,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 12.74
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0144,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0215,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0527,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 56,
+            "jd_id": "Digital_Health_Analyst_parsed_jd",
+            "jd_title": "Digital Health Analyst",
+            "job_type": "default",
+            "semantic_score": 4.83,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 5.48,
+                "experience_summary": 1.03,
+                "projects": 2.03,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 9.36
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0103,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0203,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0548,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 57,
+            "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+            "jd_title": "Ehr Data Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 2.52,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 2.63,
+                "experience_summary": 2.51,
+                "projects": 3.29,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 2.86
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0251,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0263,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0329,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 58,
+            "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+            "jd_title": "Healthcare Analytics Manager",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 2.27,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 2.95,
+                "experience_summary": 0.85,
+                "projects": 0.0,
+                "education": 2.39,
+                "certifications": 0.0,
+                "full_document": 3.57
+            },
+            "gaps": [
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0085,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0239,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0295,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 59,
+            "jd_id": "Health_Informatics_Specialist_parsed_jd",
+            "jd_title": "Health Informatics Specialist",
+            "job_type": "default",
+            "semantic_score": 2.07,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 3.22,
+                "experience_summary": 0.5,
+                "projects": 1.15,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 3.05
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.005,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0115,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0322,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 60,
+            "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+            "jd_title": "Clinical Informatics Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 2.02,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 1.78,
+                "experience_summary": 0.48,
+                "projects": 0.72,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 4.53
+            },
+            "gaps": [
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0048,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0072,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0178,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 61,
+            "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+            "jd_title": "Director Of Healthcare Analytics",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 1.33,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 2.18,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 2.49
+            },
+            "gaps": [
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                },
+                {
+                    "section": "skills",
+                    "score": 0.0218,
+                    "gap_severity": "critical"
+                }
+            ]
+        },
+        {
+            "rank": 62,
+            "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+            "jd_title": "Ehr Implementation Analyst",
+            "job_type": "healthcare_analytics",
+            "semantic_score": 0.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 0.0,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 0.0
+            },
+            "gaps": [
+                {
+                    "section": "skills",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                }
+            ]
+        },
+        {
+            "rank": 63,
+            "jd_id": "Head_of_Health_Informatics_parsed_jd",
+            "jd_title": "Head Of Health Informatics",
+            "job_type": "default",
+            "semantic_score": 0.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 0.0,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 0.0
+            },
+            "gaps": [
+                {
+                    "section": "skills",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                }
+            ]
+        },
+        {
+            "rank": 64,
+            "jd_id": "Health_Information_Analyst_parsed_jd",
+            "jd_title": "Health Information Analyst",
+            "job_type": "default",
+            "semantic_score": 0.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 0.0,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 0.0
+            },
+            "gaps": [
+                {
+                    "section": "skills",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                }
+            ]
+        },
+        {
+            "rank": 65,
+            "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+            "jd_title": "Health Information Systems Analyst",
+            "job_type": "default",
+            "semantic_score": 0.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 0.0,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 0.0
+            },
+            "gaps": [
+                {
+                    "section": "skills",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                }
+            ]
+        },
+        {
+            "rank": 66,
+            "jd_id": "Health_Policy_Analyst_parsed_jd",
+            "jd_title": "Health Policy Analyst",
+            "job_type": "default",
+            "semantic_score": 0.0,
+            "match_label": "Mismatch",
+            "section_scores": {
+                "skills": 0.0,
+                "experience_summary": 0.0,
+                "projects": 0.0,
+                "education": 0.0,
+                "certifications": 0.0,
+                "full_document": 0.0
+            },
+            "gaps": [
+                {
+                    "section": "skills",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "experience_summary",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "projects",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "education",
+                    "score": 0.0,
+                    "gap_severity": "critical"
+                },
+                {
+                    "section": "certifications",
+                    "score": 0.0,
+                    "gap_severity": "missing"
+                }
+            ]
+        }
+    ]
+}
