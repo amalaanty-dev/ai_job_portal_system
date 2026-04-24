@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+    "job_role": "data analytics trainer"
+  },
+  "final_score": 64.95,
+  "scoring_breakdown": {
+    "skill_match": 87,
+    "experience_relevance": 73,
+    "education_alignment": 68,
+    "semantic_similarity": 12
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "default"
+  },
+  "weighted_contributions": {
+    "skills": 30.45,
+    "experience": 21.9,
+    "education": 10.2,
+    "semantic": 2.4
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Moderate Fit",
+    "score_band": "60-69",
+    "recommendation": "Consider if strong candidates are limited",
+    "priority": "Medium"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:53",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Data_Analytics_Trainer_Healthcare_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+    }
+  }
+}

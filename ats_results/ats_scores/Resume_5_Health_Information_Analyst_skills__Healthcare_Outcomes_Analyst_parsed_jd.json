@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_5_Health_Information_Analyst_skills",
+    "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+    "job_role": "healthcare outcomes analyst"
+  },
+  "final_score": 51.85,
+  "scoring_breakdown": {
+    "skill_match": 84,
+    "experience_relevance": 44,
+    "education_alignment": 51,
+    "semantic_similarity": 8
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "default"
+  },
+  "weighted_contributions": {
+    "skills": 29.4,
+    "experience": 13.2,
+    "education": 7.65,
+    "semantic": 1.6
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Partial Fit",
+    "score_band": "50-59",
+    "recommendation": "Review manually before deciding",
+    "priority": "Low"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:54",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_Healthcare_Outcomes_Analyst_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+    }
+  }
+}

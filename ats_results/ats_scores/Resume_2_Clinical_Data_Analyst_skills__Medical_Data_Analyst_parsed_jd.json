@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "jd_id": "Medical_Data_Analyst_parsed_jd",
+    "job_role": "medical data analyst"
+  },
+  "final_score": 71.55,
+  "scoring_breakdown": {
+    "skill_match": 87,
+    "experience_relevance": 91,
+    "education_alignment": 68,
+    "semantic_similarity": 18
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "mid_level"
+  },
+  "weighted_contributions": {
+    "skills": 30.45,
+    "experience": 27.3,
+    "education": 10.2,
+    "semantic": 3.6
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Good Fit",
+    "score_band": "70-79",
+    "recommendation": "Proceed to next interview round",
+    "priority": "Medium-High"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:53",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Medical_Data_Analyst_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+    }
+  }
+}

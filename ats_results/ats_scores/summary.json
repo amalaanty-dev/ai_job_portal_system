@@ -1,0 +1,4758 @@
+{
+  "generated_at": "2026-04-24T18:30:55",
+  "total_scores": 528,
+  "scores": [
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 79.85,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 1
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 78.85,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 2
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 78.65,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 3
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 78.65,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 4
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 78.3,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 5
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 73.7,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 6
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 71.55,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 7
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 71.45,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 8
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 71.05,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 9
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 70.35,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 10
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 70.25,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 11
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 70.05,
+      "rating": "Good Fit",
+      "recommendation": "Proceed to next interview round",
+      "rank": 12
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 69.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 13
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 69.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 14
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 69.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 15
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 69.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 16
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 69.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 17
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 69.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 18
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 69.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 19
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 68.85,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 20
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 68.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 21
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 68.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 22
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 68.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 23
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 68.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 24
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 67.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 25
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 67.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 26
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 67.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 27
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 67.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 28
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 67.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 29
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 67.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 30
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 67.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 31
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 67.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 32
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 67.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 33
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 66.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 34
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 66.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 35
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 66.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 36
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 66.5,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 37
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 66.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 38
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 66.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 39
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 66.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 40
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 65.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 41
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 65.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 42
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 65.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 43
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 65.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 44
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 64.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 45
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 64.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 46
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 64.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 47
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 64.85,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 48
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 64.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 49
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 64.45,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 50
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 64.45,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 51
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 64.45,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 52
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 64.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 53
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 64.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 54
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 64.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 55
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 64.2,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 56
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 64.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 57
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 64.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 58
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 64.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 59
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 63.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 60
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 63.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 61
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 63.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 62
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 63.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 63
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 63.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 64
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 63.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 65
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 63.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 66
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 63.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 67
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 63.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 68
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 63.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 69
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 63.6,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 70
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 63.6,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 71
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 63.6,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 72
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 63.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 73
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 63.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 74
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 63.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 75
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 63.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 76
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 63.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 77
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 63.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 78
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 63.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 79
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 63.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 80
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 63.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 81
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 63.0,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 82
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 62.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 83
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 62.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 84
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 62.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 85
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 62.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 86
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 62.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 87
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 62.5,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 88
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 62.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 89
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 62.2,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 90
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 62.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 91
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 62.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 92
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 62.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 93
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 62.0,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 94
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 61.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 95
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 61.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 96
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 61.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 97
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 61.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 98
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 61.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 99
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 61.8,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 100
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 61.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 101
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 61.75,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 102
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 61.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 103
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 61.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 104
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 61.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 105
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 61.6,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 106
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 61.6,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 107
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 61.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 108
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 61.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 109
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 61.5,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 110
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 61.5,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 111
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 61.45,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 112
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 61.4,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 113
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 61.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 114
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 61.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 115
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 61.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 116
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 61.2,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 117
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 61.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 118
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 61.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 119
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 61.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 120
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 61.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 121
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 61.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 122
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 60.95,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 123
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 60.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 124
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 60.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 125
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 60.9,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 126
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 60.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 127
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 60.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 128
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 60.7,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 129
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 60.65,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 130
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 60.55,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 131
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 60.35,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 132
+    },
+    {
+      "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 60.3,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 133
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 60.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 134
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 60.25,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 135
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 60.2,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 136
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 60.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 137
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 60.15,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 138
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 60.1,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 139
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 60.05,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 140
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 60.0,
+      "rating": "Moderate Fit",
+      "recommendation": "Consider if strong candidates are limited",
+      "rank": 141
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 59.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 142
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 59.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 143
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 59.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 144
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 59.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 145
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 59.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 146
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 59.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 147
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 59.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 148
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 59.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 149
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 59.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 150
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 59.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 151
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 59.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 152
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 59.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 153
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 59.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 154
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 59.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 155
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 58.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 156
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 58.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 157
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 58.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 158
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 58.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 159
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 58.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 160
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 58.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 161
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 58.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 162
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 58.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 163
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 58.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 164
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 58.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 165
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 58.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 166
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 58.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 167
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 58.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 168
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 58.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 169
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 58.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 170
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 58.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 171
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 58.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 172
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 58.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 173
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 57.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 174
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 57.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 175
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 57.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 176
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 57.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 177
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 57.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 178
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 57.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 179
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 57.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 180
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 57.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 181
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 57.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 182
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 57.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 183
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 57.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 184
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 57.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 185
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 57.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 186
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 57.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 187
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 57.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 188
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 57.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 189
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 57.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 190
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 57.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 191
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 57.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 192
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 57.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 193
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 57.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 194
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 57.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 195
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 57.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 196
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 57.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 197
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 57.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 198
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 57.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 199
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 56.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 200
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 56.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 201
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 56.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 202
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 56.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 203
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 56.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 204
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 56.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 205
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 56.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 206
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 56.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 207
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 56.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 208
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 56.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 209
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 56.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 210
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 56.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 211
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 56.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 212
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 56.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 213
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 56.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 214
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 56.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 215
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 55.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 216
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 55.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 217
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 55.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 218
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 55.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 219
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 55.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 220
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 55.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 221
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 55.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 222
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 55.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 223
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 55.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 224
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 55.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 225
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 55.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 226
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 55.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 227
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 55.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 228
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 55.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 229
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 55.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 230
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 54.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 231
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 54.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 232
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 54.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 233
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 54.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 234
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 54.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 235
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 54.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 236
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 54.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 237
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 54.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 238
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 54.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 239
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 54.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 240
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 54.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 241
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 54.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 242
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 54.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 243
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 54.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 244
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 54.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 245
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 54.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 246
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 54.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 247
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 54.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 248
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 54.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 249
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 54.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 250
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 54.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 251
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 54.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 252
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 54.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 253
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 54.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 254
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 54.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 255
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 54.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 256
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 54.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 257
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 53.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 258
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 53.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 259
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 53.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 260
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 53.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 261
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 53.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 262
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 53.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 263
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 53.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 264
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 53.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 265
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 53.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 266
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 53.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 267
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 53.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 268
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 53.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 269
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 53.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 270
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 53.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 271
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 53.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 272
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 53.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 273
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 53.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 274
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 53.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 275
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 53.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 276
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 53.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 277
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 53.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 278
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 53.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 279
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 53.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 280
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 53.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 281
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 53.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 282
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 53.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 283
+    },
+    {
+      "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 53.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 284
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 53.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 285
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 53.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 286
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 53.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 287
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 53.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 288
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 52.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 289
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 52.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 290
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 52.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 291
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 52.95,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 292
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 52.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 293
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 52.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 294
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 52.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 295
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 52.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 296
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 52.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 297
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 52.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 298
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 52.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 299
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 52.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 300
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 52.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 301
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 52.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 302
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 52.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 303
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 52.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 304
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 52.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 305
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 52.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 306
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 52.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 307
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 52.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 308
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 52.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 309
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 52.35,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 310
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 52.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 311
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 52.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 312
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 52.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 313
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 52.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 314
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 52.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 315
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 52.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 316
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 52.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 317
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 51.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 318
+    },
+    {
+      "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 51.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 319
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 51.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 320
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 51.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 321
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 51.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 322
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 51.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 323
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 51.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 324
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 51.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 325
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 51.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 326
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 51.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 327
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 51.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 328
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 51.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 329
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 51.75,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 330
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 51.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 331
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 51.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 332
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 51.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 333
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 51.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 334
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 51.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 335
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 51.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 336
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 51.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 337
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 51.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 338
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 51.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 339
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 51.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 340
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 51.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 341
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 51.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 342
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 51.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 343
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 51.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 344
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 51.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 345
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 51.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 346
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 51.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 347
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 51.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 348
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 51.0,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 349
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 50.9,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 350
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 50.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 351
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 50.85,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 352
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 50.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 353
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 50.8,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 354
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 50.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 355
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 50.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 356
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 50.7,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 357
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 50.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 358
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 50.65,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 359
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 50.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 360
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 50.6,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 361
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 50.55,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 362
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 50.5,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 363
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 50.45,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 364
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 50.4,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 365
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 50.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 366
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 50.3,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 367
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 50.25,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 368
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 50.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 369
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 50.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 370
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 50.2,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 371
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 50.15,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 372
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 50.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 373
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 50.1,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 374
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 50.05,
+      "rating": "Partial Fit",
+      "recommendation": "Review manually before deciding",
+      "rank": 375
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 49.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 376
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 49.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 377
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 49.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 378
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 49.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 379
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 49.65,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 380
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 49.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 381
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 49.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 382
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 49.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 383
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 49.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 384
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 49.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 385
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 49.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 386
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 49.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 387
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 49.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 388
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 49.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 389
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 48.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 390
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 48.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 391
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 48.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 392
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 48.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 393
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 48.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 394
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 48.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 395
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 48.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 396
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 48.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 397
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 48.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 398
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 48.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 399
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 47.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 400
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 47.75,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 401
+    },
+    {
+      "resume_id": "Resume_5_Health_Information_Analyst_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 47.55,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 402
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 47.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 403
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 47.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 404
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 47.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 405
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 47.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 406
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Clinical_Data_Scientist_parsed_jd",
+      "job_role": "clinical data scientist",
+      "final_score": 47.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 407
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+      "job_role": "healthcare data scientist",
+      "final_score": 47.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 408
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 46.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 409
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 46.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 410
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 46.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 411
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+      "job_role": "ehr data analyst",
+      "final_score": 46.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 412
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 46.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 413
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 46.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 414
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 46.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 415
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 46.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 416
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 46.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 417
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Wearable_Health_Data_Analyst_parsed_jd",
+      "job_role": "wearable health data analyst",
+      "final_score": 46.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 418
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 45.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 419
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 45.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 420
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 45.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 421
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 45.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 422
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 45.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 423
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 45.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 424
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 45.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 425
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 45.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 426
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 45.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 427
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 45.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 428
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 45.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 429
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 45.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 430
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 45.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 431
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 45.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 432
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Machine_Learning_Engineer_parsed_jd",
+      "job_role": "healthcare machine learning engineer",
+      "final_score": 45.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 433
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 45.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 434
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 45.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 435
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 45.0,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 436
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 44.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 437
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 44.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 438
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+      "job_role": "real world evidence (rwe) analyst",
+      "final_score": 44.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 439
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 44.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 440
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 44.75,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 441
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 44.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 442
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Data_Architect_parsed_jd",
+      "job_role": "healthcare data architect",
+      "final_score": 44.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 443
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 44.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 444
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 44.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 445
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Data_Integration_Specialist_parsed_jd",
+      "job_role": "healthcare data integration specialist",
+      "final_score": 44.45,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 446
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 44.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 447
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 44.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 448
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Health_Information_Analyst_parsed_jd",
+      "job_role": "health information analyst",
+      "final_score": 44.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 449
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 44.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 450
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 44.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 451
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 44.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 452
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 44.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 453
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 44.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 454
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 44.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 455
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Data_Entry_Analyst_Healthcare_parsed_jd",
+      "job_role": "data entry analyst (healthcare)",
+      "final_score": 44.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 456
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Dashboard_Developer_parsed_jd",
+      "job_role": "healthcare dashboard developer",
+      "final_score": 43.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 457
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+      "job_role": "clinical informatics analyst",
+      "final_score": 43.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 458
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 43.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 459
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Business_Analyst_parsed_jd",
+      "job_role": "healthcare business analyst",
+      "final_score": 43.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 460
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Health_Informatics_Specialist_parsed_jd",
+      "job_role": "health informatics specialist",
+      "final_score": 43.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 461
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 43.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 462
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 43.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 463
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 43.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 464
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Global_Health_Data_Analyst_parsed_jd",
+      "job_role": "global health data analyst",
+      "final_score": 43.45,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 465
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 43.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 466
+    },
+    {
+      "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 43.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 467
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Digital_Health_Analyst_parsed_jd",
+      "job_role": "digital health analyst",
+      "final_score": 43.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 468
+    },
+    {
+      "resume_id": "Amala_Resume_DS_DA_2026__skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 43.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 469
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 43.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 470
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 42.5,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 471
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Remote_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "remote clinical data analyst",
+      "final_score": 42.45,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 472
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "public_health_data_analyst_entrylevel_parsed_jd",
+      "job_role": "public health data analyst (entry-level)",
+      "final_score": 42.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 473
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 42.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 474
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "healthcare data analyst (junior)_parsed_jd",
+      "job_role": "healthcare data analyst (junior)",
+      "final_score": 41.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 475
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Senior_Clinical_Data_Analyst_parsed_jd",
+      "job_role": "senior clinical data analyst",
+      "final_score": 41.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 476
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 41.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 477
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Lead_Data_Analyst_Healthcare_parsed_jd",
+      "job_role": "lead data analyst (healthcare)",
+      "final_score": 41.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 478
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Health_Policy_Analyst_parsed_jd",
+      "job_role": "health policy analyst",
+      "final_score": 40.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 479
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Population_Health_Analyst_parsed_jd",
+      "job_role": "population health analyst",
+      "final_score": 40.75,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 480
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Health_Information_Systems_Analyst_parsed_jd",
+      "job_role": "health information systems analyst",
+      "final_score": 40.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 481
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Clinical_Data_Analyst_parsed_jd",
+      "job_role": "clinical data analyst",
+      "final_score": 40.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 482
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Public_Health_Analyst_parsed_jd",
+      "job_role": "public health analyst",
+      "final_score": 40.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 483
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "senior healthcare data analyst",
+      "final_score": 40.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 484
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Medical_Billing_Data_Analyst_parsed_jd",
+      "job_role": "medical billing data analyst",
+      "final_score": 40.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 485
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Outcomes_Analyst_parsed_jd",
+      "job_role": "healthcare outcomes analyst",
+      "final_score": 39.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 486
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Telehealth_Data_Analyst_parsed_jd",
+      "job_role": "telehealth data analyst",
+      "final_score": 39.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 487
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare BI (Business Intelligence) Analyst_parsed_jd",
+      "job_role": "healthcare bi (business intelligence) analyst",
+      "final_score": 39.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 488
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+      "job_role": "healthcare statistician",
+      "final_score": 39.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 489
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Program_Analyst_parsed_jd",
+      "job_role": "healthcare program analyst",
+      "final_score": 39.65,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 490
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Head_of_Health_Informatics_parsed_jd",
+      "job_role": "head of health informatics",
+      "final_score": 39.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 491
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Genomics_Data_Analyst_parsed_jd",
+      "job_role": "genomics data analyst",
+      "final_score": 39.55,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 492
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "healthcare data analyst",
+      "final_score": 39.55,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 493
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Reporting_Analyst_parsed_jd",
+      "job_role": "healthcare reporting analyst",
+      "final_score": 39.45,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 494
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 39.4,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 495
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Freelance_Healthcare_Data_Analyst_parsed_jd",
+      "job_role": "freelance healthcare data analyst",
+      "final_score": 39.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 496
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Medical_Data_Analyst_parsed_jd",
+      "job_role": "medical data analyst",
+      "final_score": 39.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 497
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 39.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 498
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "quality improvement analyst (healthcare)_parsed_jd",
+      "job_role": "quality improvement analyst (healthcare)",
+      "final_score": 39.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 499
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 39.2,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 500
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+      "job_role": "clinical research data analyst",
+      "final_score": 39.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 501
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Risk_Analyst_parsed_jd",
+      "job_role": "healthcare risk analyst",
+      "final_score": 39.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 502
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Financial_Analyst_parsed_jd",
+      "job_role": "healthcare financial analyst",
+      "final_score": 39.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 503
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Insurance_Claims_Analyst_parsed_jd",
+      "job_role": "insurance claims analyst",
+      "final_score": 39.05,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 504
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+      "job_role": "epidemiology data analyst",
+      "final_score": 38.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 505
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Consultant_parsed_jd",
+      "job_role": "healthcare analytics consultant",
+      "final_score": 38.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 506
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Operations_Analyst_parsed_jd",
+      "job_role": "healthcare operations analyst",
+      "final_score": 38.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 507
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Patient_Experience_Analyst_parsed_jd",
+      "job_role": "patient experience analyst",
+      "final_score": 38.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 508
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Chief_Data_Officer_Healthcare_parsed_jd",
+      "job_role": "chief data officer",
+      "final_score": 38.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 509
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_AI_Analyst_parsed_jd",
+      "job_role": "healthcare ai analyst",
+      "final_score": 38.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 510
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Performance_Analyst_parsed_jd",
+      "job_role": "healthcare performance analyst",
+      "final_score": 38.85,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 511
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 38.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 512
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Revenue_Cycle_Data_Analyst_parsed_jd",
+      "job_role": "revenue cycle data analyst",
+      "final_score": 38.55,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 513
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Biostatistician_parsed_jd",
+      "job_role": "biostatistician",
+      "final_score": 38.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 514
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+      "job_role": "claims data analyst",
+      "final_score": 38.35,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 515
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Data_Analytics_Trainer_Healthcare_parsed_jd",
+      "job_role": "data analytics trainer",
+      "final_score": 38.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 516
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "fraud_compliance_analyst_parsed_jd",
+      "job_role": "fraud & compliance analyst",
+      "final_score": 38.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 517
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "epidemiologist_datafocused_parsed_jd",
+      "job_role": "epidemiologist",
+      "final_score": 37.95,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 518
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "ai specialist in healthcare analytics_parsed_jd",
+      "job_role": "ai specialist in healthcare analytics",
+      "final_score": 37.65,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 519
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 37.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 520
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Predictive_Analytics_Specialist_parsed_jd",
+      "job_role": "predictive analytics specialist",
+      "final_score": 37.25,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 521
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+      "job_role": "cost & utilization analyst",
+      "final_score": 37.15,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 522
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 36.6,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 523
+    },
+    {
+      "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+      "jd_id": "EHR_Implementation_Analyst_parsed_jd",
+      "job_role": "ehr implementation analyst",
+      "final_score": 34.8,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 524
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+      "job_role": "healthcare analytics manager",
+      "final_score": 34.1,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 525
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+      "job_role": "director of healthcare analytics",
+      "final_score": 33.9,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 526
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Healthcare_Data_Science_Manager_parsed_jd",
+      "job_role": "healthcare data science manager",
+      "final_score": 33.3,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 527
+    },
+    {
+      "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "jd_id": "Clinical_Trials_Data_Manager_parsed_jd",
+      "job_role": "clinical trials data manager",
+      "final_score": 32.7,
+      "rating": "Poor Fit",
+      "recommendation": "Not recommended for this role",
+      "rank": 528
+    }
+  ]
+}

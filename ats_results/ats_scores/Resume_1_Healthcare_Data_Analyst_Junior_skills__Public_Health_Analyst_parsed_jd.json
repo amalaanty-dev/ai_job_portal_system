@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+    "jd_id": "Public_Health_Analyst_parsed_jd",
+    "job_role": "public health analyst"
+  },
+  "final_score": 54.05,
+  "scoring_breakdown": {
+    "skill_match": 90,
+    "experience_relevance": 30,
+    "education_alignment": 53,
+    "semantic_similarity": 28
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "default"
+  },
+  "weighted_contributions": {
+    "skills": 31.5,
+    "experience": 9.0,
+    "education": 7.95,
+    "semantic": 5.6
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Partial Fit",
+    "score_band": "50-59",
+    "recommendation": "Review manually before deciding",
+    "priority": "Low"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:53",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Public_Health_Analyst_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+    }
+  }
+}

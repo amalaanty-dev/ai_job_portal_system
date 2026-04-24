@@ -1,0 +1,408 @@
+{
+  "jd_id": "Population_Health_Analyst_parsed_jd",
+  "job_role": "population health analyst",
+  "total_candidates": 8,
+  "generated_at": "2026-04-24T18:30:55",
+  "ranked_candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 67.65,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 84,
+        "education_alignment": 68,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 25.2,
+        "education": 10.2,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "rank": 26,
+      "jd_rank": 1
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 59.8,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 78,
+        "education_alignment": 34,
+        "semantic_similarity": 13
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 28.7,
+        "experience": 23.4,
+        "education": 5.1,
+        "semantic": 2.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "rank": 144,
+      "jd_rank": 2
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 57.15,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 53,
+        "education_alignment": 53,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 15.9,
+        "education": 7.95,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "rank": 198,
+      "jd_rank": 3
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 53.25,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 34,
+        "education_alignment": 53,
+        "semantic_similarity": 18
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 10.2,
+        "education": 7.95,
+        "semantic": 3.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "rank": 277,
+      "jd_rank": 4
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_5_Health_Information_Analyst_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 52.65,
+      "scoring_breakdown": {
+        "skill_match": 84,
+        "experience_relevance": 44,
+        "education_alignment": 51,
+        "semantic_similarity": 12
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 29.4,
+        "experience": 13.2,
+        "education": 7.65,
+        "semantic": 2.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+        }
+      },
+      "rank": 301,
+      "jd_rank": 5
+    },
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 51.7,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 42,
+        "education_alignment": 36,
+        "semantic_similarity": 11
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 12.6,
+        "education": 5.4,
+        "semantic": 2.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "rank": 332,
+      "jd_rank": 6
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 45.3,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 17,
+        "education_alignment": 46,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 5.1,
+        "education": 6.9,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "rank": 430,
+      "jd_rank": 7
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+        "jd_id": "Population_Health_Analyst_parsed_jd",
+        "job_role": "population health analyst"
+      },
+      "final_score": 40.75,
+      "scoring_breakdown": {
+        "skill_match": 80,
+        "experience_relevance": 11,
+        "education_alignment": 35,
+        "semantic_similarity": 21
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 28.0,
+        "experience": 3.3,
+        "education": 5.25,
+        "semantic": 4.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:55",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_7_Health_Informatics_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_7_Health_Informatics_Analyst_vs_Population_Health_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_7_Health_Informatics_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_7_Health_Informatics_Analyst_sections_semantic.json"
+        }
+      },
+      "rank": 480,
+      "jd_rank": 8
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+rank,resume_id,jd_id,job_role,final_score,skill_match,experience_relevance,education_alignment,semantic_similarity,weight_strategy,rating,recommendation,priority
+1,Resume_2_Clinical_Data_Analyst_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,79.85,87,96,68,52,mid_level,Good Fit,Proceed to next interview round,Medium-High
+2,Resume_2_Clinical_Data_Analyst_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,78.85,87,100,68,41,mid_level,Good Fit,Proceed to next interview round,Medium-High
+3,Resume_2_Clinical_Data_Analyst_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,78.65,87,100,68,40,mid_level,Good Fit,Proceed to next interview round,Medium-High
+4,Resume_2_Clinical_Data_Analyst_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,78.65,87,92,68,52,mid_level,Good Fit,Proceed to next interview round,Medium-High
+5,Resume_2_Clinical_Data_Analyst_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,78.3,87,87,68,53,technical,Good Fit,Proceed to next interview round,Medium-High
+6,Resume_2_Clinical_Data_Analyst_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,73.7,87,84,68,36,senior,Good Fit,Proceed to next interview round,Medium-High
+7,Resume_2_Clinical_Data_Analyst_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,71.55,87,91,68,18,mid_level,Good Fit,Proceed to next interview round,Medium-High
+8,Resume_2_Clinical_Data_Analyst_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,71.45,87,88,68,22,default,Good Fit,Proceed to next interview round,Medium-High
+9,Resume_2_Clinical_Data_Analyst_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,71.05,87,88,68,20,mid_level,Good Fit,Proceed to next interview round,Medium-High
+10,Resume_2_Clinical_Data_Analyst_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,70.35,87,89,68,15,mid_level,Good Fit,Proceed to next interview round,Medium-High
+11,Resume_2_Clinical_Data_Analyst_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),70.25,87,86,68,19,mid_level,Good Fit,Proceed to next interview round,Medium-High
+12,Resume_2_Clinical_Data_Analyst_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),70.05,87,86,68,18,mid_level,Good Fit,Proceed to next interview round,Medium-High
+13,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,69.95,87,89,68,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+14,Resume_2_Clinical_Data_Analyst_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,69.75,87,83,68,21,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+15,Resume_2_Clinical_Data_Analyst_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,69.55,87,81,68,23,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+16,Resume_2_Clinical_Data_Analyst_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,69.35,87,85,68,16,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+17,Resume_2_Clinical_Data_Analyst_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,69.35,87,79,68,25,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+18,Resume_2_Clinical_Data_Analyst_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,69.15,87,83,68,18,default,Moderate Fit,Consider if strong candidates are limited,Medium
+19,Resume_2_Clinical_Data_Analyst_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,69.15,87,83,68,18,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+20,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,68.85,87,82,68,18,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+21,Resume_2_Clinical_Data_Analyst_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,68.65,87,82,68,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+22,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,68.65,90,78,53,29,default,Moderate Fit,Consider if strong candidates are limited,Medium
+23,Resume_2_Clinical_Data_Analyst_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,68.55,87,83,68,15,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+24,Resume_2_Clinical_Data_Analyst_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,68.35,87,81,68,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+25,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,67.9,87,71,68,21,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+26,Resume_2_Clinical_Data_Analyst_skills,Population_Health_Analyst_parsed_jd,population health analyst,67.65,87,84,68,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+27,Resume_2_Clinical_Data_Analyst_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),67.55,87,81,68,26,fresher,Moderate Fit,Consider if strong candidates are limited,Medium
+28,Resume_2_Clinical_Data_Analyst_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,67.55,87,81,68,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+29,Resume_2_Clinical_Data_Analyst_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,67.25,87,74,68,22,default,Moderate Fit,Consider if strong candidates are limited,Medium
+30,Resume_2_Clinical_Data_Analyst_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,67.15,87,75,68,20,default,Moderate Fit,Consider if strong candidates are limited,Medium
+31,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,67.15,87,75,68,20,default,Moderate Fit,Consider if strong candidates are limited,Medium
+32,Resume_2_Clinical_Data_Analyst_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),67.15,87,77,68,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+33,Resume_2_Clinical_Data_Analyst_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,67.05,87,80,68,12,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+34,Resume_2_Clinical_Data_Analyst_skills,Public_Health_Analyst_parsed_jd,public health analyst,66.95,87,81,68,10,default,Moderate Fit,Consider if strong candidates are limited,Medium
+35,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,66.55,87,77,68,14,default,Moderate Fit,Consider if strong candidates are limited,Medium
+36,Resume_2_Clinical_Data_Analyst_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,66.55,87,77,68,14,default,Moderate Fit,Consider if strong candidates are limited,Medium
+37,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,66.5,87,71,68,14,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+38,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,66.25,87,76,68,14,default,Moderate Fit,Consider if strong candidates are limited,Medium
+39,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,66.25,87,72,68,20,default,Moderate Fit,Consider if strong candidates are limited,Medium
+40,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,66.05,87,74,68,16,default,Moderate Fit,Consider if strong candidates are limited,Medium
+41,Resume_2_Clinical_Data_Analyst_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,65.95,87,79,68,8,default,Moderate Fit,Consider if strong candidates are limited,Medium
+42,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,65.95,87,75,68,14,default,Moderate Fit,Consider if strong candidates are limited,Medium
+43,Resume_2_Clinical_Data_Analyst_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,65.15,87,69,68,19,default,Moderate Fit,Consider if strong candidates are limited,Medium
+44,Amala_Resume_DS_DA_2026__skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,65.05,90,51,36,41,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+45,Resume_2_Clinical_Data_Analyst_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,64.95,87,73,68,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+46,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,64.95,87,73,68,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+47,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,64.95,90,65,53,30,default,Moderate Fit,Consider if strong candidates are limited,Medium
+48,Resume_2_Clinical_Data_Analyst_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,64.85,87,76,68,7,default,Moderate Fit,Consider if strong candidates are limited,Medium
+49,Resume_6_Data_Entry_Analyst_Healthcare_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),64.8,82,92,34,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+50,Resume_2_Clinical_Data_Analyst_skills,Health_Information_Analyst_parsed_jd,health information analyst,64.45,87,76,68,5,default,Moderate Fit,Consider if strong candidates are limited,Medium
+51,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,64.45,87,72,68,11,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+52,Resume_2_Clinical_Data_Analyst_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,64.45,87,74,68,8,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+53,Resume_2_Clinical_Data_Analyst_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),64.35,87,73,68,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+54,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,64.35,90,59,53,36,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+55,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,64.3,82,80,34,20,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+56,Resume_6_Data_Entry_Analyst_Healthcare_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),64.2,82,92,34,14,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+57,Resume_2_Clinical_Data_Analyst_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,64.05,87,72,68,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+58,Resume_2_Clinical_Data_Analyst_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,64.05,87,72,68,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+59,Resume_3_Healthcare_Reporting_Analyst_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),64.05,90,66,53,24,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+60,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,63.95,90,69,53,19,default,Moderate Fit,Consider if strong candidates are limited,Medium
+61,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,63.95,82,81,34,17,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+62,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,63.9,90,50,53,28,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+63,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,63.8,82,86,34,21,default,Moderate Fit,Consider if strong candidates are limited,Medium
+64,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,63.75,87,69,68,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+65,Resume_3_Healthcare_Reporting_Analyst_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,63.75,90,59,53,33,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+66,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,63.75,90,69,53,18,default,Moderate Fit,Consider if strong candidates are limited,Medium
+67,Resume_6_Data_Entry_Analyst_Healthcare_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,63.75,82,69,34,31,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+68,Resume_6_Data_Entry_Analyst_Healthcare_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,63.7,82,81,34,28,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+69,Resume_6_Data_Entry_Analyst_Healthcare_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,63.7,82,89,34,16,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+70,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,63.6,90,56,53,19,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+71,Resume_6_Data_Entry_Analyst_Healthcare_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,63.6,82,78,34,32,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+72,Resume_6_Data_Entry_Analyst_Healthcare_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,63.6,82,82,34,26,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+73,Resume_3_Healthcare_Reporting_Analyst_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,63.55,90,63,53,26,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+74,Resume_2_Clinical_Data_Analyst_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,63.35,87,67,68,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+75,Resume_2_Clinical_Data_Analyst_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,63.3,87,72,68,8,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+76,Resume_6_Data_Entry_Analyst_Healthcare_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,63.3,82,75,34,35,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+77,Resume_2_Clinical_Data_Analyst_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,63.25,87,74,68,2,default,Moderate Fit,Consider if strong candidates are limited,Medium
+78,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,63.25,87,58,68,14,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+79,Resume_2_Clinical_Data_Analyst_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,63.15,87,71,68,6,default,Moderate Fit,Consider if strong candidates are limited,Medium
+80,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,63.1,87,72,68,7,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+81,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,63.05,90,66,53,19,default,Moderate Fit,Consider if strong candidates are limited,Medium
+82,Resume_6_Data_Entry_Analyst_Healthcare_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,63.0,82,82,34,23,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+83,Resume_2_Clinical_Data_Analyst_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,62.95,87,67,68,11,default,Moderate Fit,Consider if strong candidates are limited,Medium
+84,Resume_6_Data_Entry_Analyst_Healthcare_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,62.8,82,81,34,12,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+85,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,62.8,82,80,34,14,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+86,Resume_6_Data_Entry_Analyst_Healthcare_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,62.8,82,76,34,31,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+87,Resume_3_Healthcare_Reporting_Analyst_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),62.65,90,66,53,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+88,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,62.5,82,83,34,19,default,Moderate Fit,Consider if strong candidates are limited,Medium
+89,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,62.3,82,83,34,18,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+90,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,62.2,82,84,34,16,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+91,Resume_3_Healthcare_Reporting_Analyst_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,62.15,90,63,53,19,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+92,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,62.15,90,67,53,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+93,Resume_6_Data_Entry_Analyst_Healthcare_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),62.1,82,83,34,17,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+94,Amala_Resume_DS_DA_2026__skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,62.0,90,46,36,32,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+95,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,61.95,87,60,68,5,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+96,Resume_2_Clinical_Data_Analyst_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,61.95,87,55,68,24,default,Moderate Fit,Consider if strong candidates are limited,Medium
+97,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,61.9,90,54,53,13,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+98,Resume_6_Data_Entry_Analyst_Healthcare_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,61.8,82,84,34,14,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+99,Resume_6_Data_Entry_Analyst_Healthcare_skills,Health_Information_Analyst_parsed_jd,health information analyst,61.8,82,80,34,20,default,Moderate Fit,Consider if strong candidates are limited,Medium
+100,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,61.8,82,82,34,17,default,Moderate Fit,Consider if strong candidates are limited,Medium
+101,Resume_2_Clinical_Data_Analyst_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,61.75,87,69,68,2,default,Moderate Fit,Consider if strong candidates are limited,Medium
+102,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,61.75,90,65,53,14,default,Moderate Fit,Consider if strong candidates are limited,Medium
+103,Resume_6_Data_Entry_Analyst_Healthcare_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,61.7,82,81,34,18,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+104,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,61.65,90,68,53,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+105,Resume_5_Health_Information_Analyst_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,61.65,84,52,51,45,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+106,Resume_2_Clinical_Data_Analyst_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,61.6,87,70,68,13,non_tech,Moderate Fit,Consider if strong candidates are limited,Medium
+107,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,61.6,82,80,34,8,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+108,Resume_3_Healthcare_Reporting_Analyst_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,61.55,90,63,53,16,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+109,Resume_5_Health_Information_Analyst_skills,Health_Information_Analyst_parsed_jd,health information analyst,61.55,84,51,51,46,default,Moderate Fit,Consider if strong candidates are limited,Medium
+110,Resume_2_Clinical_Data_Analyst_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,61.5,87,68,68,7,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+111,Resume_6_Data_Entry_Analyst_Healthcare_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),61.5,82,87,34,8,default,Moderate Fit,Consider if strong candidates are limited,Medium
+112,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,61.45,90,68,53,8,default,Moderate Fit,Consider if strong candidates are limited,Medium
+113,Resume_6_Data_Entry_Analyst_Healthcare_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,61.4,82,74,34,27,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+114,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,61.35,90,65,53,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+115,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,61.3,82,83,34,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+116,Resume_2_Clinical_Data_Analyst_skills,Biostatistician_parsed_jd,biostatistician,61.25,87,56,68,19,default,Moderate Fit,Consider if strong candidates are limited,Medium
+117,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,61.2,82,86,34,8,default,Moderate Fit,Consider if strong candidates are limited,Medium
+118,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,61.15,82,73,34,13,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+119,Resume_6_Data_Entry_Analyst_Healthcare_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,61.1,82,77,34,21,default,Moderate Fit,Consider if strong candidates are limited,Medium
+120,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,61.1,82,83,34,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+121,Resume_6_Data_Entry_Analyst_Healthcare_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,61.1,82,83,34,12,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+122,Resume_3_Healthcare_Reporting_Analyst_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,61.05,90,68,53,6,default,Moderate Fit,Consider if strong candidates are limited,Medium
+123,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,60.95,90,65,53,10,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+124,Resume_6_Data_Entry_Analyst_Healthcare_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,60.9,82,79,34,17,default,Moderate Fit,Consider if strong candidates are limited,Medium
+125,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,60.9,82,83,34,11,default,Moderate Fit,Consider if strong candidates are limited,Medium
+126,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,60.9,82,83,34,11,default,Moderate Fit,Consider if strong candidates are limited,Medium
+127,Resume_6_Data_Entry_Analyst_Healthcare_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,60.7,82,77,34,19,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+128,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,60.7,82,83,34,10,default,Moderate Fit,Consider if strong candidates are limited,Medium
+129,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,60.7,82,81,34,13,default,Moderate Fit,Consider if strong candidates are limited,Medium
+130,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,60.65,90,53,53,8,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+131,Resume_1_Healthcare_Data_Analyst_Junior_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,60.55,90,53,53,26,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+132,Resume_3_Healthcare_Reporting_Analyst_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,60.35,90,59,53,16,default,Moderate Fit,Consider if strong candidates are limited,Medium
+133,Resume_2_Clinical_Data_Analyst_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,60.3,87,60,68,17,senior,Moderate Fit,Consider if strong candidates are limited,Medium
+134,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,60.25,90,37,53,26,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+135,Resume_1_Healthcare_Data_Analyst_Junior_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),60.25,90,54,53,23,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+136,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,60.2,82,80,34,12,default,Moderate Fit,Consider if strong candidates are limited,Medium
+137,Resume_3_Healthcare_Reporting_Analyst_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,60.15,90,57,53,18,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+138,Resume_3_Healthcare_Reporting_Analyst_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),60.15,90,63,53,9,default,Moderate Fit,Consider if strong candidates are limited,Medium
+139,Resume_6_Data_Entry_Analyst_Healthcare_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,60.1,82,76,34,4,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+140,Resume_3_Healthcare_Reporting_Analyst_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),60.05,90,60,53,13,mid_level,Moderate Fit,Consider if strong candidates are limited,Medium
+141,Resume_3_Healthcare_Reporting_Analyst_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,60.0,90,44,53,16,technical,Moderate Fit,Consider if strong candidates are limited,Medium
+142,Resume_1_Healthcare_Data_Analyst_Junior_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),59.85,90,46,53,33,mid_level,Partial Fit,Review manually before deciding,Low
+143,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,59.85,90,56,53,18,default,Partial Fit,Review manually before deciding,Low
+144,Resume_6_Data_Entry_Analyst_Healthcare_skills,Population_Health_Analyst_parsed_jd,population health analyst,59.8,82,78,34,13,default,Partial Fit,Review manually before deciding,Low
+145,Resume_6_Data_Entry_Analyst_Healthcare_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,59.7,82,77,34,14,mid_level,Partial Fit,Review manually before deciding,Low
+146,Resume_6_Data_Entry_Analyst_Healthcare_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,59.6,82,76,34,15,mid_level,Partial Fit,Review manually before deciding,Low
+147,Resume_3_Healthcare_Reporting_Analyst_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,59.55,90,59,53,12,mid_level,Partial Fit,Review manually before deciding,Low
+148,Resume_6_Data_Entry_Analyst_Healthcare_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,59.5,82,81,34,7,default,Partial Fit,Review manually before deciding,Low
+149,Resume_6_Data_Entry_Analyst_Healthcare_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,59.5,82,73,34,19,mid_level,Partial Fit,Review manually before deciding,Low
+150,Resume_1_Healthcare_Data_Analyst_Junior_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),59.45,90,56,53,19,fresher,Partial Fit,Review manually before deciding,Low
+151,Resume_3_Healthcare_Reporting_Analyst_skills,Public_Health_Analyst_parsed_jd,public health analyst,59.45,90,54,53,19,default,Partial Fit,Review manually before deciding,Low
+152,Resume_3_Healthcare_Reporting_Analyst_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),59.35,90,63,53,15,fresher,Partial Fit,Review manually before deciding,Low
+153,Resume_5_Health_Information_Analyst_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,59.3,84,48,51,22,technical,Partial Fit,Review manually before deciding,Low
+154,Resume_1_Healthcare_Data_Analyst_Junior_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,59.25,90,52,53,21,mid_level,Partial Fit,Review manually before deciding,Low
+155,Resume_6_Data_Entry_Analyst_Healthcare_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,59.2,82,71,34,14,senior,Partial Fit,Review manually before deciding,Low
+156,Resume_3_Healthcare_Reporting_Analyst_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,58.95,90,55,53,15,default,Partial Fit,Review manually before deciding,Low
+157,Resume_5_Health_Information_Analyst_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,58.95,84,53,51,30,default,Partial Fit,Review manually before deciding,Low
+158,Resume_5_Health_Information_Analyst_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,58.85,84,52,51,31,default,Partial Fit,Review manually before deciding,Low
+159,Resume_3_Healthcare_Reporting_Analyst_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,58.75,90,57,53,11,mid_level,Partial Fit,Review manually before deciding,Low
+160,Resume_3_Healthcare_Reporting_Analyst_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,58.75,90,49,53,23,mid_level,Partial Fit,Review manually before deciding,Low
+161,Resume_3_Healthcare_Reporting_Analyst_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,58.65,90,44,53,30,default,Partial Fit,Review manually before deciding,Low
+162,Resume_3_Healthcare_Reporting_Analyst_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,58.65,90,56,53,12,default,Partial Fit,Review manually before deciding,Low
+163,Resume_6_Data_Entry_Analyst_Healthcare_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,58.6,82,66,34,25,default,Partial Fit,Review manually before deciding,Low
+164,Resume_3_Healthcare_Reporting_Analyst_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,58.55,90,57,53,10,default,Partial Fit,Review manually before deciding,Low
+165,Resume_6_Data_Entry_Analyst_Healthcare_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,58.4,82,70,34,18,default,Partial Fit,Review manually before deciding,Low
+166,Resume_3_Healthcare_Reporting_Analyst_skills,Health_Information_Analyst_parsed_jd,health information analyst,58.35,90,57,53,9,default,Partial Fit,Review manually before deciding,Low
+167,Resume_1_Healthcare_Data_Analyst_Junior_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,58.25,90,44,53,28,mid_level,Partial Fit,Review manually before deciding,Low
+168,Resume_3_Healthcare_Reporting_Analyst_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,58.25,90,54,53,13,mid_level,Partial Fit,Review manually before deciding,Low
+169,Resume_6_Data_Entry_Analyst_Healthcare_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,58.2,82,74,34,11,default,Partial Fit,Review manually before deciding,Low
+170,Resume_6_Data_Entry_Analyst_Healthcare_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,58.2,82,74,34,11,mid_level,Partial Fit,Review manually before deciding,Low
+171,Resume_6_Data_Entry_Analyst_Healthcare_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,58.2,82,72,34,14,default,Partial Fit,Review manually before deciding,Low
+172,Resume_3_Healthcare_Reporting_Analyst_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,58.15,90,49,53,20,mid_level,Partial Fit,Review manually before deciding,Low
+173,Resume_3_Healthcare_Reporting_Analyst_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,58.05,90,56,53,9,default,Partial Fit,Review manually before deciding,Low
+174,Resume_3_Healthcare_Reporting_Analyst_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,57.95,90,57,53,7,default,Partial Fit,Review manually before deciding,Low
+175,Resume_3_Healthcare_Reporting_Analyst_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,57.9,90,55,53,18,senior,Partial Fit,Review manually before deciding,Low
+176,Amala_Resume_DS_DA_2026__skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,57.85,90,47,36,10,technical,Partial Fit,Review manually before deciding,Low
+177,Resume_1_Healthcare_Data_Analyst_Junior_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,57.85,90,40,53,32,mid_level,Partial Fit,Review manually before deciding,Low
+178,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,57.85,90,40,53,32,mid_level,Partial Fit,Review manually before deciding,Low
+179,Resume_6_Data_Entry_Analyst_Healthcare_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,57.8,82,65,34,19,senior,Partial Fit,Review manually before deciding,Low
+180,Resume_6_Data_Entry_Analyst_Healthcare_skills,Public_Health_Analyst_parsed_jd,public health analyst,57.8,82,74,34,9,default,Partial Fit,Review manually before deciding,Low
+181,Resume_6_Data_Entry_Analyst_Healthcare_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,57.7,82,65,34,22,default,Partial Fit,Review manually before deciding,Low
+182,Resume_6_Data_Entry_Analyst_Healthcare_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,57.7,82,77,34,4,default,Partial Fit,Review manually before deciding,Low
+183,Resume_6_Data_Entry_Analyst_Healthcare_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,57.6,82,70,34,14,default,Partial Fit,Review manually before deciding,Low
+184,Resume_3_Healthcare_Reporting_Analyst_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,57.55,90,47,53,20,mid_level,Partial Fit,Review manually before deciding,Low
+185,Amala_Resume_DS_DA_2026__skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,57.5,90,54,36,22,default,Partial Fit,Review manually before deciding,Low
+186,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,57.45,90,29,53,22,technical,Partial Fit,Review manually before deciding,Low
+187,Resume_3_Healthcare_Reporting_Analyst_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,57.45,90,52,53,12,mid_level,Partial Fit,Review manually before deciding,Low
+188,Resume_3_Healthcare_Reporting_Analyst_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,57.45,90,50,53,15,mid_level,Partial Fit,Review manually before deciding,Low
+189,Resume_6_Data_Entry_Analyst_Healthcare_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,57.4,82,74,34,7,default,Partial Fit,Review manually before deciding,Low
+190,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,57.35,90,35,53,14,technical,Partial Fit,Review manually before deciding,Low
+191,Amala_Resume_DS_DA_2026__skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,57.3,90,60,36,12,default,Partial Fit,Review manually before deciding,Low
+192,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,57.3,90,56,53,13,senior,Partial Fit,Review manually before deciding,Low
+193,Resume_6_Data_Entry_Analyst_Healthcare_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,57.3,82,69,34,14,default,Partial Fit,Review manually before deciding,Low
+194,Resume_3_Healthcare_Reporting_Analyst_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,57.25,90,48,53,17,mid_level,Partial Fit,Review manually before deciding,Low
+195,Resume_6_Data_Entry_Analyst_Healthcare_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,57.2,82,70,34,12,default,Partial Fit,Review manually before deciding,Low
+196,Resume_3_Healthcare_Reporting_Analyst_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,57.15,90,47,53,18,default,Partial Fit,Review manually before deciding,Low
+197,Resume_3_Healthcare_Reporting_Analyst_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,57.15,90,47,53,18,default,Partial Fit,Review manually before deciding,Low
+198,Resume_3_Healthcare_Reporting_Analyst_skills,Population_Health_Analyst_parsed_jd,population health analyst,57.15,90,53,53,9,default,Partial Fit,Review manually before deciding,Low
+199,Resume_3_Healthcare_Reporting_Analyst_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,57.05,90,50,53,13,default,Partial Fit,Review manually before deciding,Low
+200,Resume_5_Health_Information_Analyst_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,56.95,84,49,51,26,default,Partial Fit,Review manually before deciding,Low
+201,Amala_Resume_DS_DA_2026__skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,56.8,90,42,36,11,technical,Partial Fit,Review manually before deciding,Low
+202,Resume_1_Healthcare_Data_Analyst_Junior_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,56.8,90,24,53,25,technical,Partial Fit,Review manually before deciding,Low
+203,Resume_6_Data_Entry_Analyst_Healthcare_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,56.8,82,66,34,16,mid_level,Partial Fit,Review manually before deciding,Low
+204,Amala_Resume_DS_DA_2026__skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,56.65,90,43,36,9,technical,Partial Fit,Review manually before deciding,Low
+205,Resume_3_Healthcare_Reporting_Analyst_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,56.65,90,48,53,14,mid_level,Partial Fit,Review manually before deciding,Low
+206,Resume_5_Health_Information_Analyst_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,56.65,84,50,51,23,default,Partial Fit,Review manually before deciding,Low
+207,Resume_5_Health_Information_Analyst_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,56.6,84,46,51,11,technical,Partial Fit,Review manually before deciding,Low
+208,Resume_1_Healthcare_Data_Analyst_Junior_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),56.45,90,46,53,16,mid_level,Partial Fit,Review manually before deciding,Low
+209,Resume_3_Healthcare_Reporting_Analyst_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,56.45,90,50,53,10,default,Partial Fit,Review manually before deciding,Low
+210,Resume_5_Health_Information_Analyst_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,56.45,84,39,51,19,technical,Partial Fit,Review manually before deciding,Low
+211,Resume_5_Health_Information_Analyst_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,56.3,84,52,51,2,technical,Partial Fit,Review manually before deciding,Low
+212,Resume_5_Health_Information_Analyst_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,56.2,84,46,51,9,technical,Partial Fit,Review manually before deciding,Low
+213,Resume_6_Data_Entry_Analyst_Healthcare_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,56.2,82,71,34,23,non_tech,Partial Fit,Review manually before deciding,Low
+214,Resume_3_Healthcare_Reporting_Analyst_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,56.1,90,56,53,7,senior,Partial Fit,Review manually before deciding,Low
+215,Resume_6_Data_Entry_Analyst_Healthcare_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,56.1,82,67,34,11,default,Partial Fit,Review manually before deciding,Low
+216,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,55.95,90,41,53,21,default,Partial Fit,Review manually before deciding,Low
+217,Resume_3_Healthcare_Reporting_Analyst_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,55.85,90,50,53,7,mid_level,Partial Fit,Review manually before deciding,Low
+218,Resume_6_Data_Entry_Analyst_Healthcare_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),55.8,82,100,34,26,fresher,Partial Fit,Review manually before deciding,Low
+219,Resume_5_Health_Information_Analyst_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,55.75,84,45,51,26,mid_level,Partial Fit,Review manually before deciding,Low
+220,Amala_Resume_DS_DA_2026__skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),55.6,90,47,36,23,mid_level,Partial Fit,Review manually before deciding,Low
+221,Resume_3_Healthcare_Reporting_Analyst_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,55.55,90,47,53,10,mid_level,Partial Fit,Review manually before deciding,Low
+222,Amala_Resume_DS_DA_2026__skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,55.4,90,47,36,30,senior,Partial Fit,Review manually before deciding,Low
+223,Resume_5_Health_Information_Analyst_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,55.25,84,48,51,19,mid_level,Partial Fit,Review manually before deciding,Low
+224,Resume_5_Health_Information_Analyst_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,55.25,84,48,51,19,mid_level,Partial Fit,Review manually before deciding,Low
+225,Amala_Resume_DS_DA_2026__skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,55.2,90,39,36,33,default,Partial Fit,Review manually before deciding,Low
+226,Resume_1_Healthcare_Data_Analyst_Junior_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,55.15,90,37,53,23,mid_level,Partial Fit,Review manually before deciding,Low
+227,Amala_Resume_DS_DA_2026__skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,55.1,90,42,36,28,default,Partial Fit,Review manually before deciding,Low
+228,Resume_5_Health_Information_Analyst_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,55.1,84,47,51,30,senior,Partial Fit,Review manually before deciding,Low
+229,Resume_3_Healthcare_Reporting_Analyst_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,55.05,90,44,53,12,default,Partial Fit,Review manually before deciding,Low
+230,Resume_3_Healthcare_Reporting_Analyst_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,55.05,90,48,53,6,default,Partial Fit,Review manually before deciding,Low
+231,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,54.95,90,39,53,19,default,Partial Fit,Review manually before deciding,Low
+232,Resume_5_Health_Information_Analyst_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,54.95,84,45,51,22,mid_level,Partial Fit,Review manually before deciding,Low
+233,Resume_5_Health_Information_Analyst_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,54.85,84,54,51,8,default,Partial Fit,Review manually before deciding,Low
+234,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,54.8,90,28,53,10,technical,Partial Fit,Review manually before deciding,Low
+235,Resume_4_Medical_Data_Analyst_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,54.8,90,14,46,31,technical,Partial Fit,Review manually before deciding,Low
+236,Resume_1_Healthcare_Data_Analyst_Junior_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,54.75,90,41,53,15,default,Partial Fit,Review manually before deciding,Low
+237,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,54.75,90,39,53,18,default,Partial Fit,Review manually before deciding,Low
+238,Resume_3_Healthcare_Reporting_Analyst_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,54.75,90,45,53,9,default,Partial Fit,Review manually before deciding,Low
+239,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,54.65,90,38,53,19,default,Partial Fit,Review manually before deciding,Low
+240,Resume_3_Healthcare_Reporting_Analyst_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,54.65,90,40,53,16,default,Partial Fit,Review manually before deciding,Low
+241,Resume_5_Health_Information_Analyst_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,54.65,84,46,51,19,default,Partial Fit,Review manually before deciding,Low
+242,Resume_1_Healthcare_Data_Analyst_Junior_skills,Health_Information_Analyst_parsed_jd,health information analyst,54.55,90,35,53,23,default,Partial Fit,Review manually before deciding,Low
+243,Resume_6_Data_Entry_Analyst_Healthcare_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,54.5,82,63,34,9,default,Partial Fit,Review manually before deciding,Low
+244,Resume_1_Healthcare_Data_Analyst_Junior_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,54.45,90,34,53,24,mid_level,Partial Fit,Review manually before deciding,Low
+245,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,54.45,90,38,53,18,default,Partial Fit,Review manually before deciding,Low
+246,Resume_1_Healthcare_Data_Analyst_Junior_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,54.45,90,32,53,27,mid_level,Partial Fit,Review manually before deciding,Low
+247,Resume_1_Healthcare_Data_Analyst_Junior_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,54.45,90,38,53,18,mid_level,Partial Fit,Review manually before deciding,Low
+248,Resume_5_Health_Information_Analyst_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,54.45,84,50,51,12,default,Partial Fit,Review manually before deciding,Low
+249,Resume_5_Health_Information_Analyst_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),54.35,84,51,51,10,mid_level,Partial Fit,Review manually before deciding,Low
+250,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,54.25,90,36,53,20,default,Partial Fit,Review manually before deciding,Low
+251,Resume_5_Health_Information_Analyst_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),54.25,84,48,51,11,fresher,Partial Fit,Review manually before deciding,Low
+252,Resume_5_Health_Information_Analyst_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,54.15,84,51,51,9,default,Partial Fit,Review manually before deciding,Low
+253,Resume_5_Health_Information_Analyst_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),54.15,84,51,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+254,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,54.05,90,38,53,16,default,Partial Fit,Review manually before deciding,Low
+255,Resume_1_Healthcare_Data_Analyst_Junior_skills,Public_Health_Analyst_parsed_jd,public health analyst,54.05,90,30,53,28,default,Partial Fit,Review manually before deciding,Low
+256,Resume_5_Health_Information_Analyst_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,54.05,84,38,51,28,default,Partial Fit,Review manually before deciding,Low
+257,Resume_5_Health_Information_Analyst_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,54.05,84,52,51,7,default,Partial Fit,Review manually before deciding,Low
+258,Resume_1_Healthcare_Data_Analyst_Junior_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,53.95,90,31,53,26,mid_level,Partial Fit,Review manually before deciding,Low
+259,Amala_Resume_DS_DA_2026__skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,53.8,90,51,36,8,default,Partial Fit,Review manually before deciding,Low
+260,Resume_5_Health_Information_Analyst_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,53.75,84,51,51,7,default,Partial Fit,Review manually before deciding,Low
+261,Resume_5_Health_Information_Analyst_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,53.75,84,43,51,19,mid_level,Partial Fit,Review manually before deciding,Low
+262,Amala_Resume_DS_DA_2026__skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,53.7,90,42,36,21,mid_level,Partial Fit,Review manually before deciding,Low
+263,Resume_1_Healthcare_Data_Analyst_Junior_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,53.65,90,34,53,20,default,Partial Fit,Review manually before deciding,Low
+264,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,53.65,90,42,53,8,default,Partial Fit,Review manually before deciding,Low
+265,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,53.65,90,36,53,17,mid_level,Partial Fit,Review manually before deciding,Low
+266,Resume_4_Medical_Data_Analyst_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,53.55,90,13,46,26,technical,Partial Fit,Review manually before deciding,Low
+267,Resume_1_Healthcare_Data_Analyst_Junior_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,53.45,90,32,53,22,mid_level,Partial Fit,Review manually before deciding,Low
+268,Resume_1_Healthcare_Data_Analyst_Junior_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,53.45,90,36,53,16,default,Partial Fit,Review manually before deciding,Low
+269,Resume_1_Healthcare_Data_Analyst_Junior_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),53.45,90,40,53,10,default,Partial Fit,Review manually before deciding,Low
+270,Resume_5_Health_Information_Analyst_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,53.45,84,50,51,7,default,Partial Fit,Review manually before deciding,Low
+271,Resume_5_Health_Information_Analyst_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),53.45,84,46,51,13,mid_level,Partial Fit,Review manually before deciding,Low
+272,Resume_1_Healthcare_Data_Analyst_Junior_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,53.35,90,27,53,29,default,Partial Fit,Review manually before deciding,Low
+273,Resume_5_Health_Information_Analyst_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,53.35,84,43,51,17,default,Partial Fit,Review manually before deciding,Low
+274,Amala_Resume_DS_DA_2026__skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,53.3,90,42,36,19,mid_level,Partial Fit,Review manually before deciding,Low
+275,Resume_6_Data_Entry_Analyst_Healthcare_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,53.3,82,57,34,12,default,Partial Fit,Review manually before deciding,Low
+276,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,53.25,90,38,53,12,default,Partial Fit,Review manually before deciding,Low
+277,Resume_1_Healthcare_Data_Analyst_Junior_skills,Population_Health_Analyst_parsed_jd,population health analyst,53.25,90,34,53,18,default,Partial Fit,Review manually before deciding,Low
+278,Resume_5_Health_Information_Analyst_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,53.25,84,42,51,18,mid_level,Partial Fit,Review manually before deciding,Low
+279,Resume_5_Health_Information_Analyst_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,53.25,84,48,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+280,Resume_5_Health_Information_Analyst_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,53.25,84,48,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+281,Resume_1_Healthcare_Data_Analyst_Junior_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,53.15,90,37,53,13,default,Partial Fit,Review manually before deciding,Low
+282,Amala_Resume_DS_DA_2026__skills,Public_Health_Analyst_parsed_jd,public health analyst,53.1,90,42,36,18,default,Partial Fit,Review manually before deciding,Low
+283,Amala_Resume_DS_DA_2026__skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,53.1,90,44,36,15,default,Partial Fit,Review manually before deciding,Low
+284,Resume_6_Data_Entry_Analyst_Healthcare_skills,Biostatistician_parsed_jd,biostatistician,53.1,82,61,34,5,default,Partial Fit,Review manually before deciding,Low
+285,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,53.05,90,36,53,14,default,Partial Fit,Review manually before deciding,Low
+286,Amala_Resume_DS_DA_2026__skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,53.0,90,49,36,7,default,Partial Fit,Review manually before deciding,Low
+287,Amala_Resume_DS_DA_2026__skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),53.0,90,47,36,10,mid_level,Partial Fit,Review manually before deciding,Low
+288,Resume_5_Health_Information_Analyst_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,53.0,84,44,51,42,non_tech,Partial Fit,Review manually before deciding,Low
+289,Resume_1_Healthcare_Data_Analyst_Junior_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,52.95,90,33,53,18,default,Partial Fit,Review manually before deciding,Low
+290,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,52.95,90,37,53,12,default,Partial Fit,Review manually before deciding,Low
+291,Resume_5_Health_Information_Analyst_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,52.95,84,49,51,6,default,Partial Fit,Review manually before deciding,Low
+292,Resume_5_Health_Information_Analyst_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,52.95,84,47,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+293,Amala_Resume_DS_DA_2026__skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,52.9,90,44,36,14,mid_level,Partial Fit,Review manually before deciding,Low
+294,Resume_1_Healthcare_Data_Analyst_Junior_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,52.85,90,32,53,19,mid_level,Partial Fit,Review manually before deciding,Low
+295,Resume_3_Healthcare_Reporting_Analyst_skills,Biostatistician_parsed_jd,biostatistician,52.85,90,42,53,4,default,Partial Fit,Review manually before deciding,Low
+296,Resume_4_Medical_Data_Analyst_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,52.85,90,11,46,25,technical,Partial Fit,Review manually before deciding,Low
+297,Resume_5_Health_Information_Analyst_skills,Public_Health_Analyst_parsed_jd,public health analyst,52.85,84,46,51,10,default,Partial Fit,Review manually before deciding,Low
+298,Resume_1_Healthcare_Data_Analyst_Junior_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,52.75,90,37,53,11,mid_level,Partial Fit,Review manually before deciding,Low
+299,Resume_3_Healthcare_Reporting_Analyst_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,52.7,90,46,53,10,senior,Partial Fit,Review manually before deciding,Low
+300,Resume_5_Health_Information_Analyst_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,52.65,84,50,51,3,default,Partial Fit,Review manually before deciding,Low
+301,Resume_5_Health_Information_Analyst_skills,Population_Health_Analyst_parsed_jd,population health analyst,52.65,84,44,51,12,default,Partial Fit,Review manually before deciding,Low
+302,Amala_Resume_DS_DA_2026__skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,52.6,90,47,36,8,default,Partial Fit,Review manually before deciding,Low
+303,Resume_1_Healthcare_Data_Analyst_Junior_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,52.55,90,33,53,16,mid_level,Partial Fit,Review manually before deciding,Low
+304,Resume_5_Health_Information_Analyst_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,52.5,84,54,51,3,senior,Partial Fit,Review manually before deciding,Low
+305,Resume_1_Healthcare_Data_Analyst_Junior_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,52.45,90,26,53,26,default,Partial Fit,Review manually before deciding,Low
+306,Resume_5_Health_Information_Analyst_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,52.45,84,50,51,2,default,Partial Fit,Review manually before deciding,Low
+307,Resume_3_Healthcare_Reporting_Analyst_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,52.4,90,55,53,9,non_tech,Partial Fit,Review manually before deciding,Low
+308,Resume_5_Health_Information_Analyst_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,52.35,84,45,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+309,Resume_5_Health_Information_Analyst_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,52.35,84,45,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+310,Resume_5_Health_Information_Analyst_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,52.35,84,47,51,6,default,Partial Fit,Review manually before deciding,Low
+311,Amala_Resume_DS_DA_2026__skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,52.3,90,44,36,11,mid_level,Partial Fit,Review manually before deciding,Low
+312,Amala_Resume_DS_DA_2026__skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,52.2,90,45,36,9,default,Partial Fit,Review manually before deciding,Low
+313,Resume_1_Healthcare_Data_Analyst_Junior_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,52.15,90,37,53,8,mid_level,Partial Fit,Review manually before deciding,Low
+314,Amala_Resume_DS_DA_2026__skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,52.1,90,44,36,10,default,Partial Fit,Review manually before deciding,Low
+315,Amala_Resume_DS_DA_2026__skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,52.0,90,37,36,20,mid_level,Partial Fit,Review manually before deciding,Low
+316,Amala_Resume_DS_DA_2026__skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,52.0,90,45,36,8,default,Partial Fit,Review manually before deciding,Low
+317,Amala_Resume_DS_DA_2026__skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),52.0,90,41,36,14,mid_level,Partial Fit,Review manually before deciding,Low
+318,Amala_Resume_DS_DA_2026__skills,epidemiologist_datafocused_parsed_jd,epidemiologist,51.9,90,42,36,12,default,Partial Fit,Review manually before deciding,Low
+319,Resume_3_Healthcare_Reporting_Analyst_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,51.9,90,44,53,10,senior,Partial Fit,Review manually before deciding,Low
+320,Resume_5_Health_Information_Analyst_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,51.9,84,52,51,4,senior,Partial Fit,Review manually before deciding,Low
+321,Resume_5_Health_Information_Analyst_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,51.85,84,46,51,5,default,Partial Fit,Review manually before deciding,Low
+322,Resume_5_Health_Information_Analyst_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,51.85,84,44,51,8,default,Partial Fit,Review manually before deciding,Low
+323,Resume_5_Health_Information_Analyst_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,51.85,84,40,51,14,default,Partial Fit,Review manually before deciding,Low
+324,Amala_Resume_DS_DA_2026__skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,51.8,90,41,36,13,mid_level,Partial Fit,Review manually before deciding,Low
+325,Amala_Resume_DS_DA_2026__skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,51.8,90,52,36,2,senior,Partial Fit,Review manually before deciding,Low
+326,Amala_Resume_DS_DA_2026__skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,51.8,90,37,36,19,mid_level,Partial Fit,Review manually before deciding,Low
+327,Amala_Resume_DS_DA_2026__skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,51.8,90,45,36,7,default,Partial Fit,Review manually before deciding,Low
+328,Resume_4_Medical_Data_Analyst_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),51.8,90,8,46,17,fresher,Partial Fit,Review manually before deciding,Low
+329,Resume_1_Healthcare_Data_Analyst_Junior_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,51.75,90,33,53,12,default,Partial Fit,Review manually before deciding,Low
+330,Resume_5_Health_Information_Analyst_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,51.75,84,45,51,6,default,Partial Fit,Review manually before deciding,Low
+331,Amala_Resume_DS_DA_2026__skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,51.7,90,42,36,11,mid_level,Partial Fit,Review manually before deciding,Low
+332,Amala_Resume_DS_DA_2026__skills,Population_Health_Analyst_parsed_jd,population health analyst,51.7,90,42,36,11,default,Partial Fit,Review manually before deciding,Low
+333,Amala_Resume_DS_DA_2026__skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,51.7,90,42,36,11,mid_level,Partial Fit,Review manually before deciding,Low
+334,Amala_Resume_DS_DA_2026__skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,51.7,90,44,36,8,default,Partial Fit,Review manually before deciding,Low
+335,Resume_1_Healthcare_Data_Analyst_Junior_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,51.65,90,30,53,16,mid_level,Partial Fit,Review manually before deciding,Low
+336,Amala_Resume_DS_DA_2026__skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,51.6,90,41,36,12,mid_level,Partial Fit,Review manually before deciding,Low
+337,Resume_1_Healthcare_Data_Analyst_Junior_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,51.55,90,29,53,17,mid_level,Partial Fit,Review manually before deciding,Low
+338,Amala_Resume_DS_DA_2026__skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),51.5,90,44,36,7,default,Partial Fit,Review manually before deciding,Low
+339,Resume_5_Health_Information_Analyst_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,51.45,84,44,51,6,default,Partial Fit,Review manually before deciding,Low
+340,Amala_Resume_DS_DA_2026__skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,51.4,90,43,36,8,mid_level,Partial Fit,Review manually before deciding,Low
+341,Amala_Resume_DS_DA_2026__skills,Medical_Data_Analyst_parsed_jd,medical data analyst,51.3,90,42,36,9,mid_level,Partial Fit,Review manually before deciding,Low
+342,Amala_Resume_DS_DA_2026__skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,51.3,90,40,36,12,mid_level,Partial Fit,Review manually before deciding,Low
+343,Resume_5_Health_Information_Analyst_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,51.25,84,42,51,8,default,Partial Fit,Review manually before deciding,Low
+344,Resume_5_Health_Information_Analyst_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,51.25,84,40,51,11,mid_level,Partial Fit,Review manually before deciding,Low
+345,Resume_5_Health_Information_Analyst_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),51.25,84,44,51,5,default,Partial Fit,Review manually before deciding,Low
+346,Amala_Resume_DS_DA_2026__skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,51.2,90,43,36,7,mid_level,Partial Fit,Review manually before deciding,Low
+347,Resume_5_Health_Information_Analyst_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,51.15,84,45,51,3,default,Partial Fit,Review manually before deciding,Low
+348,Amala_Resume_DS_DA_2026__skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,51.0,90,45,36,3,mid_level,Partial Fit,Review manually before deciding,Low
+349,Amala_Resume_DS_DA_2026__skills,Health_Information_Analyst_parsed_jd,health information analyst,51.0,90,47,36,0,default,Partial Fit,Review manually before deciding,Low
+350,Amala_Resume_DS_DA_2026__skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),50.9,90,42,36,13,fresher,Partial Fit,Review manually before deciding,Low
+351,Resume_1_Healthcare_Data_Analyst_Junior_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,50.85,90,26,53,18,default,Partial Fit,Review manually before deciding,Low
+352,Resume_5_Health_Information_Analyst_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,50.85,84,40,51,9,mid_level,Partial Fit,Review manually before deciding,Low
+353,Amala_Resume_DS_DA_2026__skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,50.8,90,41,36,8,default,Partial Fit,Review manually before deciding,Low
+354,Amala_Resume_DS_DA_2026__skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,50.8,90,39,36,11,default,Partial Fit,Review manually before deciding,Low
+355,Amala_Resume_DS_DA_2026__skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,50.7,90,38,36,12,mid_level,Partial Fit,Review manually before deciding,Low
+356,Amala_Resume_DS_DA_2026__skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,50.7,90,42,36,6,default,Partial Fit,Review manually before deciding,Low
+357,Amala_Resume_DS_DA_2026__skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,50.7,90,42,36,6,default,Partial Fit,Review manually before deciding,Low
+358,Resume_5_Health_Information_Analyst_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,50.65,84,42,51,5,default,Partial Fit,Review manually before deciding,Low
+359,Resume_7_Health_Informatics_Analyst_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,50.65,80,20,35,57,mid_level,Partial Fit,Review manually before deciding,Low
+360,Amala_Resume_DS_DA_2026__skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,50.6,90,47,36,6,senior,Partial Fit,Review manually before deciding,Low
+361,Amala_Resume_DS_DA_2026__skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,50.6,90,41,36,7,default,Partial Fit,Review manually before deciding,Low
+362,Resume_1_Healthcare_Data_Analyst_Junior_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,50.55,90,29,53,12,mid_level,Partial Fit,Review manually before deciding,Low
+363,Amala_Resume_DS_DA_2026__skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,50.5,90,40,36,8,default,Partial Fit,Review manually before deciding,Low
+364,Resume_5_Health_Information_Analyst_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,50.45,84,40,51,7,mid_level,Partial Fit,Review manually before deciding,Low
+365,Amala_Resume_DS_DA_2026__skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,50.4,90,41,36,6,mid_level,Partial Fit,Review manually before deciding,Low
+366,Amala_Resume_DS_DA_2026__skills,Biostatistician_parsed_jd,biostatistician,50.3,90,38,36,10,default,Partial Fit,Review manually before deciding,Low
+367,Amala_Resume_DS_DA_2026__skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,50.3,90,40,36,7,default,Partial Fit,Review manually before deciding,Low
+368,Resume_1_Healthcare_Data_Analyst_Junior_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,50.25,90,20,53,24,default,Partial Fit,Review manually before deciding,Low
+369,Amala_Resume_DS_DA_2026__skills,Digital_Health_Analyst_parsed_jd,digital health analyst,50.2,90,41,36,5,default,Partial Fit,Review manually before deciding,Low
+370,Amala_Resume_DS_DA_2026__skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,50.2,90,43,36,2,default,Partial Fit,Review manually before deciding,Low
+371,Amala_Resume_DS_DA_2026__skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,50.2,90,39,36,8,mid_level,Partial Fit,Review manually before deciding,Low
+372,Resume_5_Health_Information_Analyst_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,50.15,84,37,51,10,mid_level,Partial Fit,Review manually before deciding,Low
+373,Amala_Resume_DS_DA_2026__skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,50.1,90,44,36,0,default,Partial Fit,Review manually before deciding,Low
+374,Amala_Resume_DS_DA_2026__skills,Health_Policy_Analyst_parsed_jd,health policy analyst,50.1,90,44,36,0,default,Partial Fit,Review manually before deciding,Low
+375,Resume_1_Healthcare_Data_Analyst_Junior_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,50.05,90,24,53,17,default,Partial Fit,Review manually before deciding,Low
+376,Amala_Resume_DS_DA_2026__skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,49.9,90,38,36,8,mid_level,Poor Fit,Not recommended for this role,Reject
+377,Amala_Resume_DS_DA_2026__skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,49.9,90,36,36,11,default,Poor Fit,Not recommended for this role,Reject
+378,Resume_4_Medical_Data_Analyst_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,49.9,90,8,46,14,technical,Poor Fit,Not recommended for this role,Reject
+379,Resume_5_Health_Information_Analyst_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,49.7,84,44,51,9,senior,Poor Fit,Not recommended for this role,Reject
+380,Resume_5_Health_Information_Analyst_skills,Biostatistician_parsed_jd,biostatistician,49.65,84,40,51,3,default,Poor Fit,Not recommended for this role,Reject
+381,Resume_4_Medical_Data_Analyst_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,49.4,90,6,46,14,technical,Poor Fit,Not recommended for this role,Reject
+382,Resume_1_Healthcare_Data_Analyst_Junior_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,49.25,90,24,53,13,default,Poor Fit,Not recommended for this role,Reject
+383,Resume_5_Health_Information_Analyst_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,49.25,84,36,51,7,mid_level,Poor Fit,Not recommended for this role,Reject
+384,Resume_4_Medical_Data_Analyst_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,49.2,90,28,46,12,mid_level,Poor Fit,Not recommended for this role,Reject
+385,Resume_4_Medical_Data_Analyst_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,49.2,90,30,46,9,default,Poor Fit,Not recommended for this role,Reject
+386,Resume_1_Healthcare_Data_Analyst_Junior_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,49.15,90,29,53,5,default,Poor Fit,Not recommended for this role,Reject
+387,Resume_5_Health_Information_Analyst_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,49.15,84,37,51,5,mid_level,Poor Fit,Not recommended for this role,Reject
+388,Resume_1_Healthcare_Data_Analyst_Junior_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,49.05,90,22,53,15,default,Poor Fit,Not recommended for this role,Reject
+389,Amala_Resume_DS_DA_2026__skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,49.0,90,39,36,2,default,Poor Fit,Not recommended for this role,Reject
+390,Resume_5_Health_Information_Analyst_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,48.95,84,35,51,7,mid_level,Poor Fit,Not recommended for this role,Reject
+391,Resume_1_Healthcare_Data_Analyst_Junior_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,48.5,90,36,53,9,senior,Poor Fit,Not recommended for this role,Reject
+392,Resume_5_Health_Information_Analyst_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,48.5,84,44,51,3,senior,Poor Fit,Not recommended for this role,Reject
+393,Resume_5_Health_Information_Analyst_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,48.35,84,33,51,7,default,Poor Fit,Not recommended for this role,Reject
+394,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,48.3,90,36,53,8,senior,Poor Fit,Not recommended for this role,Reject
+395,Amala_Resume_DS_DA_2026__skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,48.2,90,44,36,0,senior,Poor Fit,Not recommended for this role,Reject
+396,Resume_4_Medical_Data_Analyst_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,48.2,90,12,46,31,mid_level,Poor Fit,Not recommended for this role,Reject
+397,Resume_1_Healthcare_Data_Analyst_Junior_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,48.1,90,35,53,9,senior,Poor Fit,Not recommended for this role,Reject
+398,Resume_1_Healthcare_Data_Analyst_Junior_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,48.05,90,22,53,10,default,Poor Fit,Not recommended for this role,Reject
+399,Resume_7_Health_Informatics_Analyst_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,48.05,80,14,35,53,default,Poor Fit,Not recommended for this role,Reject
+400,Resume_1_Healthcare_Data_Analyst_Junior_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,47.95,90,19,53,14,default,Poor Fit,Not recommended for this role,Reject
+401,Resume_7_Health_Informatics_Analyst_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,47.75,80,21,35,41,mid_level,Poor Fit,Not recommended for this role,Reject
+402,Resume_5_Health_Information_Analyst_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,47.55,84,31,51,6,default,Poor Fit,Not recommended for this role,Reject
+403,Resume_4_Medical_Data_Analyst_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,47.2,90,10,46,29,mid_level,Poor Fit,Not recommended for this role,Reject
+404,Resume_4_Medical_Data_Analyst_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,47.1,90,23,46,9,default,Poor Fit,Not recommended for this role,Reject
+405,Resume_4_Medical_Data_Analyst_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,47.1,90,19,46,15,default,Poor Fit,Not recommended for this role,Reject
+406,Resume_4_Medical_Data_Analyst_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,47.1,90,23,46,9,mid_level,Poor Fit,Not recommended for this role,Reject
+407,Resume_7_Health_Informatics_Analyst_skills,Clinical_Data_Scientist_parsed_jd,clinical data scientist,47.05,80,7,35,29,technical,Poor Fit,Not recommended for this role,Reject
+408,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Data_Scientist_parsed_jd,healthcare data scientist,47.05,80,11,35,24,technical,Poor Fit,Not recommended for this role,Reject
+409,Resume_4_Medical_Data_Analyst_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,46.9,90,11,46,26,mid_level,Poor Fit,Not recommended for this role,Reject
+410,Resume_4_Medical_Data_Analyst_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,46.9,90,17,46,17,default,Poor Fit,Not recommended for this role,Reject
+411,Amala_Resume_DS_DA_2026__skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,46.8,90,40,36,1,senior,Poor Fit,Not recommended for this role,Reject
+412,Resume_4_Medical_Data_Analyst_skills,EHR_Data_Analyst_Electronic_Health_parsed_jd,ehr data analyst,46.6,90,18,46,14,mid_level,Poor Fit,Not recommended for this role,Reject
+413,Resume_4_Medical_Data_Analyst_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,46.6,90,18,46,14,default,Poor Fit,Not recommended for this role,Reject
+414,Resume_4_Medical_Data_Analyst_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,46.2,90,18,46,12,mid_level,Poor Fit,Not recommended for this role,Reject
+415,Resume_4_Medical_Data_Analyst_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,46.1,90,13,46,19,mid_level,Poor Fit,Not recommended for this role,Reject
+416,Resume_4_Medical_Data_Analyst_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,46.1,90,9,46,25,mid_level,Poor Fit,Not recommended for this role,Reject
+417,Resume_4_Medical_Data_Analyst_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,46.0,90,20,46,8,default,Poor Fit,Not recommended for this role,Reject
+418,Resume_4_Medical_Data_Analyst_skills,Wearable_Health_Data_Analyst_parsed_jd,wearable health data analyst,46.0,90,12,46,20,mid_level,Poor Fit,Not recommended for this role,Reject
+419,Resume_4_Medical_Data_Analyst_skills,Public_Health_Analyst_parsed_jd,public health analyst,45.9,90,15,46,15,default,Poor Fit,Not recommended for this role,Reject
+420,Resume_4_Medical_Data_Analyst_skills,Health_Information_Analyst_parsed_jd,health information analyst,45.8,90,18,46,10,default,Poor Fit,Not recommended for this role,Reject
+421,Resume_4_Medical_Data_Analyst_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,45.8,90,12,46,19,default,Poor Fit,Not recommended for this role,Reject
+422,Resume_4_Medical_Data_Analyst_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,45.7,90,15,46,14,mid_level,Poor Fit,Not recommended for this role,Reject
+423,Resume_4_Medical_Data_Analyst_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,45.7,90,17,46,11,default,Poor Fit,Not recommended for this role,Reject
+424,Resume_4_Medical_Data_Analyst_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,45.6,90,10,46,21,mid_level,Poor Fit,Not recommended for this role,Reject
+425,Resume_4_Medical_Data_Analyst_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),45.6,90,14,46,15,mid_level,Poor Fit,Not recommended for this role,Reject
+426,Resume_4_Medical_Data_Analyst_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,45.5,90,11,46,19,default,Poor Fit,Not recommended for this role,Reject
+427,Resume_4_Medical_Data_Analyst_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),45.5,90,9,46,22,mid_level,Poor Fit,Not recommended for this role,Reject
+428,Resume_4_Medical_Data_Analyst_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,45.4,90,14,46,14,default,Poor Fit,Not recommended for this role,Reject
+429,Resume_4_Medical_Data_Analyst_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,45.4,90,12,46,17,mid_level,Poor Fit,Not recommended for this role,Reject
+430,Resume_4_Medical_Data_Analyst_skills,Population_Health_Analyst_parsed_jd,population health analyst,45.3,90,17,46,9,default,Poor Fit,Not recommended for this role,Reject
+431,Resume_4_Medical_Data_Analyst_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,45.2,90,8,46,22,mid_level,Poor Fit,Not recommended for this role,Reject
+432,Resume_1_Healthcare_Data_Analyst_Junior_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,45.1,90,26,53,12,senior,Poor Fit,Not recommended for this role,Reject
+433,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Machine_Learning_Engineer_parsed_jd,healthcare machine learning engineer,45.1,80,20,35,3,technical,Poor Fit,Not recommended for this role,Reject
+434,Resume_4_Medical_Data_Analyst_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,45.0,90,8,46,21,mid_level,Poor Fit,Not recommended for this role,Reject
+435,Resume_4_Medical_Data_Analyst_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,45.0,90,16,46,9,default,Poor Fit,Not recommended for this role,Reject
+436,Resume_4_Medical_Data_Analyst_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,45.0,90,14,46,12,default,Poor Fit,Not recommended for this role,Reject
+437,Resume_7_Health_Informatics_Analyst_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,44.95,80,7,35,48,default,Poor Fit,Not recommended for this role,Reject
+438,Resume_7_Health_Informatics_Analyst_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,44.85,80,14,35,37,default,Poor Fit,Not recommended for this role,Reject
+439,Resume_7_Health_Informatics_Analyst_skills,Real-World Evidence (RWE) Analyst_parsed_jd,real world evidence (rwe) analyst,44.85,80,20,35,28,default,Poor Fit,Not recommended for this role,Reject
+440,Resume_4_Medical_Data_Analyst_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,44.8,90,10,46,17,mid_level,Poor Fit,Not recommended for this role,Reject
+441,Resume_1_Healthcare_Data_Analyst_Junior_skills,Biostatistician_parsed_jd,biostatistician,44.75,90,9,53,13,default,Poor Fit,Not recommended for this role,Reject
+442,Resume_4_Medical_Data_Analyst_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,44.7,90,11,46,15,default,Poor Fit,Not recommended for this role,Reject
+443,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Data_Architect_parsed_jd,healthcare data architect,44.7,80,12,35,11,technical,Poor Fit,Not recommended for this role,Reject
+444,Resume_4_Medical_Data_Analyst_skills,Biostatistician_parsed_jd,biostatistician,44.6,90,14,46,10,default,Poor Fit,Not recommended for this role,Reject
+445,Resume_4_Medical_Data_Analyst_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),44.6,90,12,46,13,default,Poor Fit,Not recommended for this role,Reject
+446,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Data_Integration_Specialist_parsed_jd,healthcare data integration specialist,44.45,80,16,35,32,default,Poor Fit,Not recommended for this role,Reject
+447,Resume_4_Medical_Data_Analyst_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,44.4,90,12,46,12,mid_level,Poor Fit,Not recommended for this role,Reject
+448,Resume_4_Medical_Data_Analyst_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,44.4,90,14,46,9,default,Poor Fit,Not recommended for this role,Reject
+449,Resume_7_Health_Informatics_Analyst_skills,Health_Information_Analyst_parsed_jd,health information analyst,44.35,80,13,35,36,default,Poor Fit,Not recommended for this role,Reject
+450,Resume_4_Medical_Data_Analyst_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,44.3,90,11,46,13,default,Poor Fit,Not recommended for this role,Reject
+451,Resume_4_Medical_Data_Analyst_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,44.3,90,13,46,10,mid_level,Poor Fit,Not recommended for this role,Reject
+452,Resume_4_Medical_Data_Analyst_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,44.2,90,8,46,17,default,Poor Fit,Not recommended for this role,Reject
+453,Resume_4_Medical_Data_Analyst_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,44.1,90,11,46,12,mid_level,Poor Fit,Not recommended for this role,Reject
+454,Resume_4_Medical_Data_Analyst_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,44.1,90,7,46,18,default,Poor Fit,Not recommended for this role,Reject
+455,Resume_4_Medical_Data_Analyst_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),44.1,90,9,46,15,mid_level,Poor Fit,Not recommended for this role,Reject
+456,Resume_7_Health_Informatics_Analyst_skills,Data_Entry_Analyst_Healthcare_parsed_jd,data entry analyst (healthcare),44.05,80,14,35,12,fresher,Poor Fit,Not recommended for this role,Reject
+457,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Dashboard_Developer_parsed_jd,healthcare dashboard developer,43.95,80,9,35,11,technical,Poor Fit,Not recommended for this role,Reject
+458,Resume_4_Medical_Data_Analyst_skills,Clinical_Informatics_Analyst_parsed_jd,clinical informatics analyst,43.9,90,9,46,14,default,Poor Fit,Not recommended for this role,Reject
+459,Resume_4_Medical_Data_Analyst_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,43.9,90,9,46,14,default,Poor Fit,Not recommended for this role,Reject
+460,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Business_Analyst_parsed_jd,healthcare business analyst,43.85,80,18,35,26,mid_level,Poor Fit,Not recommended for this role,Reject
+461,Resume_4_Medical_Data_Analyst_skills,Health_Informatics_Specialist_parsed_jd,health informatics specialist,43.7,90,7,46,16,default,Poor Fit,Not recommended for this role,Reject
+462,Resume_4_Medical_Data_Analyst_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,43.7,90,7,46,16,default,Poor Fit,Not recommended for this role,Reject
+463,Resume_4_Medical_Data_Analyst_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,43.5,90,11,46,9,default,Poor Fit,Not recommended for this role,Reject
+464,Resume_4_Medical_Data_Analyst_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,43.5,90,9,46,12,default,Poor Fit,Not recommended for this role,Reject
+465,Resume_7_Health_Informatics_Analyst_skills,Global_Health_Data_Analyst_parsed_jd,global health data analyst,43.45,80,20,35,21,mid_level,Poor Fit,Not recommended for this role,Reject
+466,Resume_1_Healthcare_Data_Analyst_Junior_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,43.4,90,27,53,20,non_tech,Poor Fit,Not recommended for this role,Reject
+467,Resume_1_Healthcare_Data_Analyst_Junior_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,43.3,90,20,53,15,senior,Poor Fit,Not recommended for this role,Reject
+468,Resume_4_Medical_Data_Analyst_skills,Digital_Health_Analyst_parsed_jd,digital health analyst,43.3,90,7,46,14,default,Poor Fit,Not recommended for this role,Reject
+469,Amala_Resume_DS_DA_2026__skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,43.2,90,45,36,0,non_tech,Poor Fit,Not recommended for this role,Reject
+470,Resume_4_Medical_Data_Analyst_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,43.1,90,7,46,13,default,Poor Fit,Not recommended for this role,Reject
+471,Resume_4_Medical_Data_Analyst_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,42.5,90,7,46,10,default,Poor Fit,Not recommended for this role,Reject
+472,Resume_7_Health_Informatics_Analyst_skills,Remote_Clinical_Data_Analyst_parsed_jd,remote clinical data analyst,42.45,80,10,35,31,mid_level,Poor Fit,Not recommended for this role,Reject
+473,Resume_7_Health_Informatics_Analyst_skills,public_health_data_analyst_entrylevel_parsed_jd,public health data analyst (entry-level),42.25,80,18,35,18,mid_level,Poor Fit,Not recommended for this role,Reject
+474,Resume_7_Health_Informatics_Analyst_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,42.1,80,11,35,51,senior,Poor Fit,Not recommended for this role,Reject
+475,Resume_7_Health_Informatics_Analyst_skills,healthcare data analyst (junior)_parsed_jd,healthcare data analyst (junior),41.95,80,19,35,15,mid_level,Poor Fit,Not recommended for this role,Reject
+476,Resume_7_Health_Informatics_Analyst_skills,Senior_Clinical_Data_Analyst_parsed_jd,senior clinical data analyst,41.85,80,10,35,28,mid_level,Poor Fit,Not recommended for this role,Reject
+477,Resume_4_Medical_Data_Analyst_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,41.6,90,8,46,4,default,Poor Fit,Not recommended for this role,Reject
+478,Resume_7_Health_Informatics_Analyst_skills,Lead_Data_Analyst_Healthcare_parsed_jd,lead data analyst (healthcare),41.35,80,19,35,12,mid_level,Poor Fit,Not recommended for this role,Reject
+479,Resume_7_Health_Informatics_Analyst_skills,Health_Policy_Analyst_parsed_jd,health policy analyst,40.85,80,16,35,14,default,Poor Fit,Not recommended for this role,Reject
+480,Resume_7_Health_Informatics_Analyst_skills,Population_Health_Analyst_parsed_jd,population health analyst,40.75,80,11,35,21,default,Poor Fit,Not recommended for this role,Reject
+481,Resume_7_Health_Informatics_Analyst_skills,Health_Information_Systems_Analyst_parsed_jd,health information systems analyst,40.35,80,17,35,10,default,Poor Fit,Not recommended for this role,Reject
+482,Resume_7_Health_Informatics_Analyst_skills,Clinical_Data_Analyst_parsed_jd,clinical data analyst,40.25,80,8,35,23,mid_level,Poor Fit,Not recommended for this role,Reject
+483,Resume_7_Health_Informatics_Analyst_skills,Public_Health_Analyst_parsed_jd,public health analyst,40.25,80,12,35,17,default,Poor Fit,Not recommended for this role,Reject
+484,Resume_7_Health_Informatics_Analyst_skills,Senior_Healthcare_Data_Analyst_parsed_jd,senior healthcare data analyst,40.25,80,14,35,14,mid_level,Poor Fit,Not recommended for this role,Reject
+485,Resume_7_Health_Informatics_Analyst_skills,Medical_Billing_Data_Analyst_parsed_jd,medical billing data analyst,40.05,80,14,35,13,mid_level,Poor Fit,Not recommended for this role,Reject
+486,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Outcomes_Analyst_parsed_jd,healthcare outcomes analyst,39.95,80,15,35,11,default,Poor Fit,Not recommended for this role,Reject
+487,Resume_7_Health_Informatics_Analyst_skills,Telehealth_Data_Analyst_parsed_jd,telehealth data analyst,39.95,80,15,35,11,mid_level,Poor Fit,Not recommended for this role,Reject
+488,Resume_7_Health_Informatics_Analyst_skills,Healthcare BI (Business Intelligence) Analyst_parsed_jd,healthcare bi (business intelligence) analyst,39.85,80,18,35,6,default,Poor Fit,Not recommended for this role,Reject
+489,Resume_7_Health_Informatics_Analyst_skills,healthcare_statistician_biostatistician_parsed_jd,healthcare statistician,39.85,80,14,35,12,default,Poor Fit,Not recommended for this role,Reject
+490,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Program_Analyst_parsed_jd,healthcare program analyst,39.65,80,14,35,11,default,Poor Fit,Not recommended for this role,Reject
+491,Resume_4_Medical_Data_Analyst_skills,Head_of_Health_Informatics_parsed_jd,head of health informatics,39.6,90,13,46,14,senior,Poor Fit,Not recommended for this role,Reject
+492,Resume_7_Health_Informatics_Analyst_skills,Genomics_Data_Analyst_parsed_jd,genomics data analyst,39.55,80,13,35,12,mid_level,Poor Fit,Not recommended for this role,Reject
+493,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Data_Analyst_parsed_jd,healthcare data analyst,39.55,80,11,35,15,mid_level,Poor Fit,Not recommended for this role,Reject
+494,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Reporting_Analyst_parsed_jd,healthcare reporting analyst,39.45,80,14,35,10,default,Poor Fit,Not recommended for this role,Reject
+495,Resume_4_Medical_Data_Analyst_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,39.4,90,9,46,21,senior,Poor Fit,Not recommended for this role,Reject
+496,Resume_7_Health_Informatics_Analyst_skills,Freelance_Healthcare_Data_Analyst_parsed_jd,freelance healthcare data analyst,39.35,80,11,35,14,mid_level,Poor Fit,Not recommended for this role,Reject
+497,Resume_7_Health_Informatics_Analyst_skills,Medical_Data_Analyst_parsed_jd,medical data analyst,39.35,80,13,35,11,mid_level,Poor Fit,Not recommended for this role,Reject
+498,Resume_7_Health_Informatics_Analyst_skills,Revenue_Cycle_Analyst_parsed_jd,revenue cycle data analyst,39.35,80,17,35,5,mid_level,Poor Fit,Not recommended for this role,Reject
+499,Resume_7_Health_Informatics_Analyst_skills,quality improvement analyst (healthcare)_parsed_jd,quality improvement analyst (healthcare),39.25,80,14,35,9,default,Poor Fit,Not recommended for this role,Reject
+500,Resume_7_Health_Informatics_Analyst_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,39.2,80,14,35,53,non_tech,Poor Fit,Not recommended for this role,Reject
+501,Resume_7_Health_Informatics_Analyst_skills,Clinical_Research_Data_Analyst_parsed_jd,clinical research data analyst,39.15,80,7,35,19,mid_level,Poor Fit,Not recommended for this role,Reject
+502,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Risk_Analyst_parsed_jd,healthcare risk analyst,39.15,80,15,35,7,default,Poor Fit,Not recommended for this role,Reject
+503,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Financial_Analyst_parsed_jd,healthcare financial analyst,39.05,80,14,35,8,default,Poor Fit,Not recommended for this role,Reject
+504,Resume_7_Health_Informatics_Analyst_skills,Insurance_Claims_Analyst_parsed_jd,insurance claims analyst,39.05,80,14,35,8,default,Poor Fit,Not recommended for this role,Reject
+505,Resume_7_Health_Informatics_Analyst_skills,Epidemiology_Data_Analyst_parsed_jd,epidemiology data analyst,38.95,80,13,35,9,mid_level,Poor Fit,Not recommended for this role,Reject
+506,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Analytics_Consultant_parsed_jd,healthcare analytics consultant,38.95,80,13,35,9,default,Poor Fit,Not recommended for this role,Reject
+507,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Operations_Analyst_parsed_jd,healthcare operations analyst,38.95,80,13,35,9,default,Poor Fit,Not recommended for this role,Reject
+508,Resume_7_Health_Informatics_Analyst_skills,Patient_Experience_Analyst_parsed_jd,patient experience analyst,38.95,80,13,35,9,default,Poor Fit,Not recommended for this role,Reject
+509,Resume_7_Health_Informatics_Analyst_skills,Chief_Data_Officer_Healthcare_parsed_jd,chief data officer,38.85,80,12,35,10,default,Poor Fit,Not recommended for this role,Reject
+510,Resume_7_Health_Informatics_Analyst_skills,Healthcare_AI_Analyst_parsed_jd,healthcare ai analyst,38.85,80,16,35,4,default,Poor Fit,Not recommended for this role,Reject
+511,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Performance_Analyst_parsed_jd,healthcare performance analyst,38.85,80,12,35,10,default,Poor Fit,Not recommended for this role,Reject
+512,Resume_4_Medical_Data_Analyst_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,38.8,90,10,46,16,senior,Poor Fit,Not recommended for this role,Reject
+513,Resume_7_Health_Informatics_Analyst_skills,Revenue_Cycle_Data_Analyst_parsed_jd,revenue cycle data analyst,38.55,80,13,35,7,mid_level,Poor Fit,Not recommended for this role,Reject
+514,Resume_7_Health_Informatics_Analyst_skills,Biostatistician_parsed_jd,biostatistician,38.35,80,11,35,9,default,Poor Fit,Not recommended for this role,Reject
+515,Resume_7_Health_Informatics_Analyst_skills,Claims_Data_Analyst_Insurance_parsed_jd,claims data analyst,38.35,80,11,35,9,mid_level,Poor Fit,Not recommended for this role,Reject
+516,Resume_7_Health_Informatics_Analyst_skills,Data_Analytics_Trainer_Healthcare_parsed_jd,data analytics trainer,38.15,80,9,35,11,default,Poor Fit,Not recommended for this role,Reject
+517,Resume_7_Health_Informatics_Analyst_skills,fraud_compliance_analyst_parsed_jd,fraud & compliance analyst,38.15,80,11,35,8,default,Poor Fit,Not recommended for this role,Reject
+518,Resume_7_Health_Informatics_Analyst_skills,epidemiologist_datafocused_parsed_jd,epidemiologist,37.95,80,11,35,7,default,Poor Fit,Not recommended for this role,Reject
+519,Resume_7_Health_Informatics_Analyst_skills,ai specialist in healthcare analytics_parsed_jd,ai specialist in healthcare analytics,37.65,80,12,35,4,default,Poor Fit,Not recommended for this role,Reject
+520,Resume_4_Medical_Data_Analyst_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,37.6,90,9,46,12,senior,Poor Fit,Not recommended for this role,Reject
+521,Resume_7_Health_Informatics_Analyst_skills,Predictive_Analytics_Specialist_parsed_jd,predictive analytics specialist,37.25,80,10,35,5,default,Poor Fit,Not recommended for this role,Reject
+522,Resume_7_Health_Informatics_Analyst_skills,cost_utilization_analyst_healthcare_parsed_jd,cost & utilization analyst,37.15,80,7,35,9,default,Poor Fit,Not recommended for this role,Reject
+523,Resume_4_Medical_Data_Analyst_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,36.6,90,6,46,13,senior,Poor Fit,Not recommended for this role,Reject
+524,Resume_4_Medical_Data_Analyst_skills,EHR_Implementation_Analyst_parsed_jd,ehr implementation analyst,34.8,90,13,46,12,non_tech,Poor Fit,Not recommended for this role,Reject
+525,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Analytics_Manager_parsed_jd,healthcare analytics manager,34.1,80,13,35,7,senior,Poor Fit,Not recommended for this role,Reject
+526,Resume_7_Health_Informatics_Analyst_skills,Director_of_Healthcare_Analytics_parsed_jd,director of healthcare analytics,33.9,80,13,35,6,senior,Poor Fit,Not recommended for this role,Reject
+527,Resume_7_Health_Informatics_Analyst_skills,Healthcare_Data_Science_Manager_parsed_jd,healthcare data science manager,33.3,80,12,35,5,senior,Poor Fit,Not recommended for this role,Reject
+528,Resume_7_Health_Informatics_Analyst_skills,Clinical_Trials_Data_Manager_parsed_jd,clinical trials data manager,32.7,80,3,35,20,senior,Poor Fit,Not recommended for this role,Reject

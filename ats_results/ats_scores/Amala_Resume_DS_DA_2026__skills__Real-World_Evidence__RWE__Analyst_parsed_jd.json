@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Amala_Resume_DS_DA_2026__skills",
+    "jd_id": "Real-World Evidence (RWE) Analyst_parsed_jd",
+    "job_role": "real world evidence (rwe) analyst"
+  },
+  "final_score": 53.1,
+  "scoring_breakdown": {
+    "skill_match": 90,
+    "experience_relevance": 44,
+    "education_alignment": 36,
+    "semantic_similarity": 15
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "default"
+  },
+  "weighted_contributions": {
+    "skills": 31.5,
+    "experience": 13.2,
+    "education": 5.4,
+    "semantic": 3.0
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Partial Fit",
+    "score_band": "50-59",
+    "recommendation": "Review manually before deciding",
+    "priority": "Low"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:53",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Real-World Evidence (RWE) Analyst_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+    }
+  }
+}

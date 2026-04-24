@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+    "jd_id": "Healthcare_Analytics_Manager_parsed_jd",
+    "job_role": "healthcare analytics manager"
+  },
+  "final_score": 37.6,
+  "scoring_breakdown": {
+    "skill_match": 90,
+    "experience_relevance": 9,
+    "education_alignment": 46,
+    "semantic_similarity": 12
+  },
+  "weights": {
+    "skills": 30,
+    "experience": 40,
+    "education": 10,
+    "semantic": 20,
+    "weight_strategy": "senior"
+  },
+  "weighted_contributions": {
+    "skills": 27.0,
+    "experience": 3.6,
+    "education": 4.6,
+    "semantic": 2.4
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Poor Fit",
+    "score_band": "0-49",
+    "recommendation": "Not recommended for this role",
+    "priority": "Reject"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:54",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Healthcare_Analytics_Manager_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+    }
+  }
+}

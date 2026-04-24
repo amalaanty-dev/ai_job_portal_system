@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+    "jd_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "job_role": "cost & utilization analyst"
+  },
+  "final_score": 57.05,
+  "scoring_breakdown": {
+    "skill_match": 90,
+    "experience_relevance": 50,
+    "education_alignment": 53,
+    "semantic_similarity": 13
+  },
+  "weights": {
+    "skills": 35,
+    "experience": 30,
+    "education": 15,
+    "semantic": 20,
+    "weight_strategy": "default"
+  },
+  "weighted_contributions": {
+    "skills": 31.5,
+    "experience": 15.0,
+    "education": 7.95,
+    "semantic": 2.6
+  },
+  "missing_data_handling": {
+    "missing_sections": [],
+    "weight_redistributed": false,
+    "redistribution_strategy": null
+  },
+  "score_interpretation": {
+    "rating": "Partial Fit",
+    "score_band": "50-59",
+    "recommendation": "Review manually before deciding",
+    "priority": "Low"
+  },
+  "processing_metadata": {
+    "processed_timestamp": "2026-04-24T18:30:54",
+    "scoring_version": "v1.0",
+    "input_sources": {
+      "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+      "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_cost_utilization_analyst_healthcare_parsed_jd_experience.json",
+      "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+      "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+    }
+  }
+}
