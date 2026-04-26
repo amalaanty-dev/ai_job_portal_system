@@ -1,0 +1,295 @@
+{
+  "jd_id": "Head_of_Health_Informatics_parsed_jd",
+  "job_role": "head of health informatics",
+  "category": "rejected",
+  "total_candidates": 4,
+  "generated_at": "2026-04-25T21:35:07.705627+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Head_of_Health_Informatics_parsed_jd",
+        "job_role": "head of health informatics"
+      },
+      "final_score": 48.2,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 44,
+        "education_alignment": 36,
+        "semantic_similarity": 0
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 27.0,
+        "experience": 17.6,
+        "education": 3.6,
+        "semantic": 0.0
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Head_of_Health_Informatics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "_source_file": "Amala_Resume_DS_DA_2026__skills__Head_of_Health_Informatics_parsed_jd.json",
+      "bias_flags": [],
+      "candidate_id": "Amala_Resume_DS_DA_2026__skills",
+      "job_role": "head of health informatics",
+      "sub_scores": {
+        "ats_score": 48.2,
+        "skill_score": 90.0,
+        "experience_score": 44.0,
+        "education_score": 36.0,
+        "semantic_score": 0.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 389,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (48.2 < 50.0)"
+      ],
+      "explanation": "Rejected: final=48.2 < 50.0. Top drivers: ATS match=48, Skill match=90, Experience=44."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Head_of_Health_Informatics_parsed_jd",
+        "job_role": "head of health informatics"
+      },
+      "final_score": 43.3,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 20,
+        "education_alignment": 53,
+        "semantic_similarity": 15
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 27.0,
+        "experience": 8.0,
+        "education": 5.3,
+        "semantic": 3.0
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Head_of_Health_Informatics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 467,
+      "jd_rank": 6,
+      "_source_file": "ranked_Head_of_Health_Informatics_parsed_jd.json",
+      "job_role": "head of health informatics",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 43.3,
+        "skill_score": 90.0,
+        "experience_score": 20.0,
+        "education_score": 53.0,
+        "semantic_score": 15.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 460,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (43.3 < 50.0)"
+      ],
+      "explanation": "Rejected: final=43.3 < 50.0. Top drivers: ATS match=43, Skill match=90, Experience=20."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+        "jd_id": "Head_of_Health_Informatics_parsed_jd",
+        "job_role": "head of health informatics"
+      },
+      "final_score": 42.1,
+      "scoring_breakdown": {
+        "skill_match": 80,
+        "experience_relevance": 11,
+        "education_alignment": 35,
+        "semantic_similarity": 51
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 24.0,
+        "experience": 4.4,
+        "education": 3.5,
+        "semantic": 10.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:55",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_7_Health_Informatics_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_7_Health_Informatics_Analyst_vs_Head_of_Health_Informatics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_7_Health_Informatics_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_7_Health_Informatics_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 474,
+      "jd_rank": 7,
+      "_source_file": "ranked_Head_of_Health_Informatics_parsed_jd.json",
+      "job_role": "head of health informatics",
+      "bias_flags": [],
+      "candidate_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 42.1,
+        "skill_score": 80.0,
+        "experience_score": 11.0,
+        "education_score": 35.0,
+        "semantic_score": 51.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 467,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (42.1 < 50.0)"
+      ],
+      "explanation": "Rejected: final=42.1 < 50.0. Top drivers: ATS match=42, Skill match=80, Experience=11."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "Head_of_Health_Informatics_parsed_jd",
+        "job_role": "head of health informatics"
+      },
+      "final_score": 39.6,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 13,
+        "education_alignment": 46,
+        "semantic_similarity": 14
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 27.0,
+        "experience": 5.2,
+        "education": 4.6,
+        "semantic": 2.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Head_of_Health_Informatics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 491,
+      "jd_rank": 8,
+      "_source_file": "ranked_Head_of_Health_Informatics_parsed_jd.json",
+      "job_role": "head of health informatics",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 39.6,
+        "skill_score": 90.0,
+        "experience_score": 13.0,
+        "education_score": 46.0,
+        "semantic_score": 14.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 484,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (39.6 < 50.0)"
+      ],
+      "explanation": "Rejected: final=39.6 < 50.0. Top drivers: ATS match=40, Skill match=90, Experience=13."
+    }
+  ]
+}

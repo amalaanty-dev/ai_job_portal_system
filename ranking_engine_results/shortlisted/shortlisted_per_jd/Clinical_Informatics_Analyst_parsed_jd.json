@@ -1,0 +1,78 @@
+{
+  "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+  "job_role": "clinical informatics analyst",
+  "category": "shortlisted",
+  "total_candidates": 1,
+  "generated_at": "2026-04-25T21:35:07.447295+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Clinical_Informatics_Analyst_parsed_jd",
+        "job_role": "clinical informatics analyst"
+      },
+      "final_score": 71.45,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 88,
+        "education_alignment": 68,
+        "semantic_similarity": 22
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 26.4,
+        "education": 10.2,
+        "semantic": 4.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Good Fit",
+        "score_band": "70-79",
+        "recommendation": "Proceed to next interview round",
+        "priority": "Medium-High"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Clinical_Informatics_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 8,
+      "jd_rank": 1,
+      "_source_file": "ranked_Clinical_Informatics_Analyst_parsed_jd.json",
+      "job_role": "clinical informatics analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 71.45,
+        "skill_score": 87.0,
+        "experience_score": 88.0,
+        "education_score": 68.0,
+        "semantic_score": 22.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 8,
+      "zone": "shortlisted",
+      "explanation": "Shortlisted: final=71.45 >= 70.0. Top drivers: ATS match=71, Skill match=87, Experience=88."
+    }
+  ]
+}

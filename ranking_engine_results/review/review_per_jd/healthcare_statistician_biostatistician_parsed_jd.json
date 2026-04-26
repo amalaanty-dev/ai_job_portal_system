@@ -1,0 +1,354 @@
+{
+  "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+  "job_role": "healthcare statistician",
+  "category": "review",
+  "total_candidates": 5,
+  "generated_at": "2026-04-25T21:35:07.636886+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+        "job_role": "healthcare statistician"
+      },
+      "final_score": 61.95,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 55,
+        "education_alignment": 68,
+        "semantic_similarity": 24
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 16.5,
+        "education": 10.2,
+        "semantic": 4.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_healthcare_statistician_biostatistician_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 96,
+      "jd_rank": 1,
+      "_source_file": "ranked_healthcare_statistician_biostatistician_parsed_jd.json",
+      "job_role": "healthcare statistician",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 61.95,
+        "skill_score": 87.0,
+        "experience_score": 55.0,
+        "education_score": 68.0,
+        "semantic_score": 24.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 95,
+      "zone": "review",
+      "explanation": "Review: final=61.95 between 50.0 and 70.0. Top drivers: ATS match=62, Skill match=87, Experience=55."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+        "job_role": "healthcare statistician"
+      },
+      "final_score": 54.75,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 45,
+        "education_alignment": 53,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 13.5,
+        "education": 7.95,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_healthcare_statistician_biostatistician_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 238,
+      "jd_rank": 2,
+      "_source_file": "ranked_healthcare_statistician_biostatistician_parsed_jd.json",
+      "job_role": "healthcare statistician",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 54.75,
+        "skill_score": 90.0,
+        "experience_score": 45.0,
+        "education_score": 53.0,
+        "semantic_score": 9.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 233,
+      "zone": "review",
+      "explanation": "Review: final=54.75 between 50.0 and 70.0. Top drivers: ATS match=55, Skill match=90, Experience=45."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+        "job_role": "healthcare statistician"
+      },
+      "final_score": 53.3,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 57,
+        "education_alignment": 34,
+        "semantic_similarity": 12
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 28.7,
+        "experience": 17.1,
+        "education": 5.1,
+        "semantic": 2.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_healthcare_statistician_biostatistician_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 275,
+      "jd_rank": 3,
+      "_source_file": "ranked_healthcare_statistician_biostatistician_parsed_jd.json",
+      "job_role": "healthcare statistician",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 53.3,
+        "skill_score": 82.0,
+        "experience_score": 57.0,
+        "education_score": 34.0,
+        "semantic_score": 12.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 272,
+      "zone": "review",
+      "explanation": "Review: final=53.3 between 50.0 and 70.0. Top drivers: ATS match=53, Skill match=82, Experience=57."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_5_Health_Information_Analyst_skills",
+        "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+        "job_role": "healthcare statistician"
+      },
+      "final_score": 51.45,
+      "scoring_breakdown": {
+        "skill_match": 84,
+        "experience_relevance": 44,
+        "education_alignment": 51,
+        "semantic_similarity": 6
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 29.4,
+        "experience": 13.2,
+        "education": 7.65,
+        "semantic": 1.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_healthcare_statistician_biostatistician_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 339,
+      "jd_rank": 4,
+      "_source_file": "ranked_healthcare_statistician_biostatistician_parsed_jd.json",
+      "job_role": "healthcare statistician",
+      "bias_flags": [],
+      "candidate_id": "Resume_5_Health_Information_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 51.45,
+        "skill_score": 84.0,
+        "experience_score": 44.0,
+        "education_score": 51.0,
+        "semantic_score": 6.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 336,
+      "zone": "review",
+      "explanation": "Review: final=51.45 between 50.0 and 70.0. Top drivers: ATS match=51, Skill match=84, Experience=44."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "healthcare_statistician_biostatistician_parsed_jd",
+        "job_role": "healthcare statistician"
+      },
+      "final_score": 50.05,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 24,
+        "education_alignment": 53,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 7.2,
+        "education": 7.95,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_healthcare_statistician_biostatistician_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 375,
+      "jd_rank": 5,
+      "_source_file": "ranked_healthcare_statistician_biostatistician_parsed_jd.json",
+      "job_role": "healthcare statistician",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 50.05,
+        "skill_score": 90.0,
+        "experience_score": 24.0,
+        "education_score": 53.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 370,
+      "zone": "review",
+      "explanation": "Review: final=50.05 between 50.0 and 70.0. Top drivers: ATS match=50, Skill match=90, Experience=24."
+    }
+  ]
+}

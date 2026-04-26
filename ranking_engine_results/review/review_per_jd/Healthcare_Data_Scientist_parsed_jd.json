@@ -1,0 +1,490 @@
+{
+  "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+  "job_role": "healthcare data scientist",
+  "category": "review",
+  "total_candidates": 7,
+  "generated_at": "2026-04-25T21:35:07.579830+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 66.5,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 71,
+        "education_alignment": 68,
+        "semantic_similarity": 14
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 39.15,
+        "experience": 17.75,
+        "education": 6.8,
+        "semantic": 2.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 37,
+      "jd_rank": 1,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 66.5,
+        "skill_score": 87.0,
+        "experience_score": 71.0,
+        "education_score": 68.0,
+        "semantic_score": 14.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 37,
+      "zone": "review",
+      "explanation": "Review: final=66.5 between 50.0 and 70.0. Top drivers: ATS match=66, Skill match=87, Experience=71."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 63.95,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 81,
+        "education_alignment": 34,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 36.9,
+        "experience": 20.25,
+        "education": 3.4,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 61,
+      "jd_rank": 2,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 63.95,
+        "skill_score": 82.0,
+        "experience_score": 81.0,
+        "education_score": 34.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 60,
+      "zone": "review",
+      "explanation": "Review: final=63.95 between 50.0 and 70.0. Top drivers: ATS match=64, Skill match=82, Experience=81."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 63.6,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 56,
+        "education_alignment": 53,
+        "semantic_similarity": 19
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 40.5,
+        "experience": 14.0,
+        "education": 5.3,
+        "semantic": 3.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 70,
+      "jd_rank": 3,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 63.6,
+        "skill_score": 90.0,
+        "experience_score": 56.0,
+        "education_score": 53.0,
+        "semantic_score": 19.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 69,
+      "zone": "review",
+      "explanation": "Review: final=63.6 between 50.0 and 70.0. Top drivers: ATS match=64, Skill match=90, Experience=56."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 62.0,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 46,
+        "education_alignment": 36,
+        "semantic_similarity": 32
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 40.5,
+        "experience": 11.5,
+        "education": 3.6,
+        "semantic": 6.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "_source_file": "Amala_Resume_DS_DA_2026__skills__Healthcare_Data_Scientist_parsed_jd.json",
+      "bias_flags": [],
+      "candidate_id": "Amala_Resume_DS_DA_2026__skills",
+      "job_role": "healthcare data scientist",
+      "sub_scores": {
+        "ats_score": 62.0,
+        "skill_score": 90.0,
+        "experience_score": 46.0,
+        "education_score": 36.0,
+        "semantic_score": 32.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 93,
+      "zone": "review",
+      "explanation": "Review: final=62.0 between 50.0 and 70.0. Top drivers: ATS match=62, Skill match=90, Experience=46."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 60.25,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 37,
+        "education_alignment": 53,
+        "semantic_similarity": 26
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 40.5,
+        "experience": 9.25,
+        "education": 5.3,
+        "semantic": 5.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 134,
+      "jd_rank": 5,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 60.25,
+        "skill_score": 90.0,
+        "experience_score": 37.0,
+        "education_score": 53.0,
+        "semantic_score": 26.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 134,
+      "zone": "review",
+      "explanation": "Review: final=60.25 between 50.0 and 70.0. Top drivers: ATS match=60, Skill match=90, Experience=37."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_5_Health_Information_Analyst_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 59.3,
+      "scoring_breakdown": {
+        "skill_match": 84,
+        "experience_relevance": 48,
+        "education_alignment": 51,
+        "semantic_similarity": 22
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 37.8,
+        "experience": 12.0,
+        "education": 5.1,
+        "semantic": 4.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 153,
+      "jd_rank": 6,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_5_Health_Information_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 59.3,
+        "skill_score": 84.0,
+        "experience_score": 48.0,
+        "education_score": 51.0,
+        "semantic_score": 22.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 152,
+      "zone": "review",
+      "explanation": "Review: final=59.3 between 50.0 and 70.0. Top drivers: ATS match=59, Skill match=84, Experience=48."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "Healthcare_Data_Scientist_parsed_jd",
+        "job_role": "healthcare data scientist"
+      },
+      "final_score": 53.55,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 13,
+        "education_alignment": 46,
+        "semantic_similarity": 26
+      },
+      "weights": {
+        "skills": 45,
+        "experience": 25,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "technical"
+      },
+      "weighted_contributions": {
+        "skills": 40.5,
+        "experience": 3.25,
+        "education": 4.6,
+        "semantic": 5.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Healthcare_Data_Scientist_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 266,
+      "jd_rank": 7,
+      "_source_file": "ranked_Healthcare_Data_Scientist_parsed_jd.json",
+      "job_role": "healthcare data scientist",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 53.55,
+        "skill_score": 90.0,
+        "experience_score": 13.0,
+        "education_score": 46.0,
+        "semantic_score": 26.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 263,
+      "zone": "review",
+      "explanation": "Review: final=53.55 between 50.0 and 70.0. Top drivers: ATS match=54, Skill match=90, Experience=13."
+    }
+  ]
+}

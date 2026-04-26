@@ -1,0 +1,81 @@
+{
+  "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+  "job_role": "ehr data analyst",
+  "category": "rejected",
+  "total_candidates": 1,
+  "generated_at": "2026-04-25T19:18:18.238360+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "EHR_Data_Analyst_Electronic_Health_parsed_jd",
+        "job_role": "ehr data analyst"
+      },
+      "final_score": 46.6,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 18,
+        "education_alignment": 46,
+        "semantic_similarity": 14
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 5.4,
+        "education": 6.9,
+        "semantic": 2.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_EHR_Data_Analyst_Electronic_Health_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 412,
+      "jd_rank": 8,
+      "_source_file": "ranked_EHR_Data_Analyst_Electronic_Health_parsed_jd.json",
+      "job_role": "ehr data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 46.6,
+        "skill_score": 90.0,
+        "experience_score": 18.0,
+        "education_score": 46.0,
+        "semantic_score": 14.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 406,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (46.6 < 50.0)"
+      ],
+      "explanation": "Rejected: final=46.6 < 50.0. Top drivers: ATS match=47, Skill match=90, Experience=18."
+    }
+  ]
+}

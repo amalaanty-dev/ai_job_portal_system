@@ -1,0 +1,352 @@
+{
+  "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+  "job_role": "epidemiology data analyst",
+  "category": "review",
+  "total_candidates": 5,
+  "generated_at": "2026-04-25T19:18:17.934330+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+        "job_role": "epidemiology data analyst"
+      },
+      "final_score": 68.55,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 83,
+        "education_alignment": 68,
+        "semantic_similarity": 15
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 24.9,
+        "education": 10.2,
+        "semantic": 3.0
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Epidemiology_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 23,
+      "jd_rank": 1,
+      "_source_file": "ranked_Epidemiology_Data_Analyst_parsed_jd.json",
+      "job_role": "epidemiology data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 68.55,
+        "skill_score": 87.0,
+        "experience_score": 83.0,
+        "education_score": 68.0,
+        "semantic_score": 15.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 23,
+      "zone": "review",
+      "explanation": "Review: final=68.55 between 50.0 and 70.0. Top drivers: ATS match=69, Skill match=87, Experience=83."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+        "job_role": "epidemiology data analyst"
+      },
+      "final_score": 58.2,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 74,
+        "education_alignment": 34,
+        "semantic_similarity": 11
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 28.7,
+        "experience": 22.2,
+        "education": 5.1,
+        "semantic": 2.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Epidemiology_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 170,
+      "jd_rank": 2,
+      "_source_file": "ranked_Epidemiology_Data_Analyst_parsed_jd.json",
+      "job_role": "epidemiology data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 58.2,
+        "skill_score": 82.0,
+        "experience_score": 74.0,
+        "education_score": 34.0,
+        "semantic_score": 11.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 169,
+      "zone": "review",
+      "explanation": "Review: final=58.2 between 50.0 and 70.0. Top drivers: ATS match=58, Skill match=82, Experience=74."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+        "job_role": "epidemiology data analyst"
+      },
+      "final_score": 55.85,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 50,
+        "education_alignment": 53,
+        "semantic_similarity": 7
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 15.0,
+        "education": 7.95,
+        "semantic": 1.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Epidemiology_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 217,
+      "jd_rank": 3,
+      "_source_file": "ranked_Epidemiology_Data_Analyst_parsed_jd.json",
+      "job_role": "epidemiology data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 55.85,
+        "skill_score": 90.0,
+        "experience_score": 50.0,
+        "education_score": 53.0,
+        "semantic_score": 7.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 214,
+      "zone": "review",
+      "explanation": "Review: final=55.85 between 50.0 and 70.0. Top drivers: ATS match=56, Skill match=90, Experience=50."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+        "job_role": "epidemiology data analyst"
+      },
+      "final_score": 52.9,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 44,
+        "education_alignment": 36,
+        "semantic_similarity": 14
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 13.2,
+        "education": 5.4,
+        "semantic": 2.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:52",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Epidemiology_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "_source_file": "Amala_Resume_DS_DA_2026__skills__Epidemiology_Data_Analyst_parsed_jd.json",
+      "bias_flags": [],
+      "candidate_id": "Amala_Resume_DS_DA_2026__skills",
+      "job_role": "epidemiology data analyst",
+      "sub_scores": {
+        "ats_score": 52.9,
+        "skill_score": 90.0,
+        "experience_score": 44.0,
+        "education_score": 36.0,
+        "semantic_score": 14.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 290,
+      "zone": "review",
+      "explanation": "Review: final=52.9 between 50.0 and 70.0. Top drivers: ATS match=53, Skill match=90, Experience=44."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Epidemiology_Data_Analyst_parsed_jd",
+        "job_role": "epidemiology data analyst"
+      },
+      "final_score": 51.55,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 29,
+        "education_alignment": 53,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 8.7,
+        "education": 7.95,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Epidemiology_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 337,
+      "jd_rank": 5,
+      "_source_file": "ranked_Epidemiology_Data_Analyst_parsed_jd.json",
+      "job_role": "epidemiology data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 51.55,
+        "skill_score": 90.0,
+        "experience_score": 29.0,
+        "education_score": 53.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 334,
+      "zone": "review",
+      "explanation": "Review: final=51.55 between 50.0 and 70.0. Top drivers: ATS match=52, Skill match=90, Experience=29."
+    }
+  ]
+}

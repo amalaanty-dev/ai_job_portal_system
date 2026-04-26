@@ -1,0 +1,194 @@
+[
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "senior clinical data analyst",
+    "final_score": 79.85,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "clinical data analyst",
+    "final_score": 78.85,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "clinical research data analyst",
+    "final_score": 78.65,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "remote clinical data analyst",
+    "final_score": 78.65,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "clinical data scientist",
+    "final_score": 78.3,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "clinical trials data manager",
+    "final_score": 73.7,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "medical data analyst",
+    "final_score": 71.55,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "clinical informatics analyst",
+    "final_score": 71.45,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "genomics data analyst",
+    "final_score": 71.05,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "claims data analyst",
+    "final_score": 70.35,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "healthcare data analyst (junior)",
+    "final_score": 70.25,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  },
+  {
+    "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+    "name": null,
+    "phone": null,
+    "email": null,
+    "job_role": "lead data analyst (healthcare)",
+    "final_score": 70.05,
+    "language_preference": null,
+    "retry_count": 0,
+    "status": "needs_contact_lookup",
+    "missing_fields": [
+      "name",
+      "email",
+      "phone"
+    ]
+  }
+]

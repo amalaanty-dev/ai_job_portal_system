@@ -1,0 +1,421 @@
+{
+  "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+  "job_role": "senior healthcare data analyst",
+  "category": "review",
+  "total_candidates": 6,
+  "generated_at": "2026-04-25T19:18:17.935339+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 68.35,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 81,
+        "education_alignment": 68,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 24.3,
+        "education": 10.2,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 24,
+      "jd_rank": 1,
+      "_source_file": "ranked_Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "job_role": "senior healthcare data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 68.35,
+        "skill_score": 87.0,
+        "experience_score": 81.0,
+        "education_score": 68.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 24,
+      "zone": "review",
+      "explanation": "Review: final=68.35 between 50.0 and 70.0. Top drivers: ATS match=68, Skill match=87, Experience=81."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 63.7,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 89,
+        "education_alignment": 34,
+        "semantic_similarity": 16
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 28.7,
+        "experience": 26.7,
+        "education": 5.1,
+        "semantic": 3.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 69,
+      "jd_rank": 2,
+      "_source_file": "ranked_Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "job_role": "senior healthcare data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 63.7,
+        "skill_score": 82.0,
+        "experience_score": 89.0,
+        "education_score": 34.0,
+        "semantic_score": 16.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 67,
+      "zone": "review",
+      "explanation": "Review: final=63.7 between 50.0 and 70.0. Top drivers: ATS match=64, Skill match=82, Experience=89."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 63.55,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 63,
+        "education_alignment": 53,
+        "semantic_similarity": 26
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 18.9,
+        "education": 7.95,
+        "semantic": 5.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 73,
+      "jd_rank": 3,
+      "_source_file": "ranked_Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "job_role": "senior healthcare data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 63.55,
+        "skill_score": 90.0,
+        "experience_score": 63.0,
+        "education_score": 53.0,
+        "semantic_score": 26.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 72,
+      "zone": "review",
+      "explanation": "Review: final=63.55 between 50.0 and 70.0. Top drivers: ATS match=64, Skill match=90, Experience=63."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 58.25,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 44,
+        "education_alignment": 53,
+        "semantic_similarity": 28
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 13.2,
+        "education": 7.95,
+        "semantic": 5.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 167,
+      "jd_rank": 4,
+      "_source_file": "ranked_Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "job_role": "senior healthcare data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 58.25,
+        "skill_score": 90.0,
+        "experience_score": 44.0,
+        "education_score": 53.0,
+        "semantic_score": 28.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 167,
+      "zone": "review",
+      "explanation": "Review: final=58.25 between 50.0 and 70.0. Top drivers: ATS match=58, Skill match=90, Experience=44."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 53.7,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 42,
+        "education_alignment": 36,
+        "semantic_similarity": 21
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 12.6,
+        "education": 5.4,
+        "semantic": 4.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "_source_file": "Amala_Resume_DS_DA_2026__skills__Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "bias_flags": [],
+      "candidate_id": "Amala_Resume_DS_DA_2026__skills",
+      "job_role": "senior healthcare data analyst",
+      "sub_scores": {
+        "ats_score": 53.7,
+        "skill_score": 90.0,
+        "experience_score": 42.0,
+        "education_score": 36.0,
+        "semantic_score": 21.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 259,
+      "zone": "review",
+      "explanation": "Review: final=53.7 between 50.0 and 70.0. Top drivers: ATS match=54, Skill match=90, Experience=42."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_5_Health_Information_Analyst_skills",
+        "jd_id": "Senior_Healthcare_Data_Analyst_parsed_jd",
+        "job_role": "senior healthcare data analyst"
+      },
+      "final_score": 53.25,
+      "scoring_breakdown": {
+        "skill_match": 84,
+        "experience_relevance": 48,
+        "education_alignment": 51,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 29.4,
+        "experience": 14.4,
+        "education": 7.65,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_Senior_Healthcare_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 280,
+      "jd_rank": 6,
+      "_source_file": "ranked_Senior_Healthcare_Data_Analyst_parsed_jd.json",
+      "job_role": "senior healthcare data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_5_Health_Information_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 53.25,
+        "skill_score": 84.0,
+        "experience_score": 48.0,
+        "education_score": 51.0,
+        "semantic_score": 9.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 276,
+      "zone": "review",
+      "explanation": "Review: final=53.25 between 50.0 and 70.0. Top drivers: ATS match=53, Skill match=84, Experience=48."
+    }
+  ]
+}

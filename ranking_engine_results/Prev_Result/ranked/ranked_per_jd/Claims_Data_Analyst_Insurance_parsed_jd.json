@@ -1,0 +1,568 @@
+{
+  "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+  "job_role": "claims data analyst",
+  "category": "ranked",
+  "total_candidates": 8,
+  "generated_at": "2026-04-25T19:18:17.616907+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 70.35,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 89,
+        "education_alignment": 68,
+        "semantic_similarity": 15
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 30.45,
+        "experience": 26.7,
+        "education": 10.2,
+        "semantic": 3.0
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Good Fit",
+        "score_band": "70-79",
+        "recommendation": "Proceed to next interview round",
+        "priority": "Medium-High"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 10,
+      "jd_rank": 1,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 70.35,
+        "skill_score": 87.0,
+        "experience_score": 89.0,
+        "education_score": 68.0,
+        "semantic_score": 15.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 10,
+      "zone": "shortlisted",
+      "explanation": "Shortlisted: final=70.35 >= 70.0. Top drivers: ATS match=70, Skill match=87, Experience=89."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 60.7,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 77,
+        "education_alignment": 34,
+        "semantic_similarity": 19
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 28.7,
+        "experience": 23.1,
+        "education": 5.1,
+        "semantic": 3.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 127,
+      "jd_rank": 2,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 60.7,
+        "skill_score": 82.0,
+        "experience_score": 77.0,
+        "education_score": 34.0,
+        "semantic_score": 19.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 128,
+      "zone": "review",
+      "explanation": "Review: final=60.7 between 50.0 and 70.0. Top drivers: ATS match=61, Skill match=82, Experience=77."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 57.25,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 48,
+        "education_alignment": 53,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 14.4,
+        "education": 7.95,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 194,
+      "jd_rank": 3,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 57.25,
+        "skill_score": 90.0,
+        "experience_score": 48.0,
+        "education_score": 53.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 192,
+      "zone": "review",
+      "explanation": "Review: final=57.25 between 50.0 and 70.0. Top drivers: ATS match=57, Skill match=90, Experience=48."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 52.55,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 33,
+        "education_alignment": 53,
+        "semantic_similarity": 16
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 9.9,
+        "education": 7.95,
+        "semantic": 3.2
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 303,
+      "jd_rank": 4,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 52.55,
+        "skill_score": 90.0,
+        "experience_score": 33.0,
+        "education_score": 53.0,
+        "semantic_score": 16.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 300,
+      "zone": "review",
+      "explanation": "Review: final=52.55 between 50.0 and 70.0. Top drivers: ATS match=53, Skill match=90, Experience=33."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Amala_Resume_DS_DA_2026__skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 51.4,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 43,
+        "education_alignment": 36,
+        "semantic_similarity": 8
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 12.9,
+        "education": 5.4,
+        "semantic": 1.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:52",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Amala_Resume_DS_DA_2026__skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Amala_Resume_DS_DA_2026__vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Amala_Resume_DS_DA_2026__sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Amala_Resume_DS_DA_2026__sections_semantic.json"
+        }
+      },
+      "_source_file": "Amala_Resume_DS_DA_2026__skills__Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "bias_flags": [],
+      "candidate_id": "Amala_Resume_DS_DA_2026__skills",
+      "job_role": "claims data analyst",
+      "sub_scores": {
+        "ats_score": 51.4,
+        "skill_score": 90.0,
+        "experience_score": 43.0,
+        "education_score": 36.0,
+        "semantic_score": 8.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 337,
+      "zone": "review",
+      "explanation": "Review: final=51.4 between 50.0 and 70.0. Top drivers: ATS match=51, Skill match=90, Experience=43."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_5_Health_Information_Analyst_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 48.95,
+      "scoring_breakdown": {
+        "skill_match": 84,
+        "experience_relevance": 35,
+        "education_alignment": 51,
+        "semantic_similarity": 7
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 29.4,
+        "experience": 10.5,
+        "education": 7.65,
+        "semantic": 1.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_5_Health_Information_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_5_Health_Information_Analyst_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_5_Health_Information_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_5_Health_Information_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 390,
+      "jd_rank": 6,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_5_Health_Information_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 48.95,
+        "skill_score": 84.0,
+        "experience_score": 35.0,
+        "education_score": 51.0,
+        "semantic_score": 7.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 384,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (48.95 < 50.0)"
+      ],
+      "explanation": "Rejected: final=48.95 < 50.0. Top drivers: ATS match=49, Skill match=84, Experience=35."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 44.4,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 12,
+        "education_alignment": 46,
+        "semantic_similarity": 12
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 3.6,
+        "education": 6.9,
+        "semantic": 2.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 447,
+      "jd_rank": 7,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 44.4,
+        "skill_score": 90.0,
+        "experience_score": 12.0,
+        "education_score": 46.0,
+        "semantic_score": 12.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 441,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (44.4 < 50.0)"
+      ],
+      "explanation": "Rejected: final=44.4 < 50.0. Top drivers: ATS match=44, Skill match=90, Experience=12."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+        "jd_id": "Claims_Data_Analyst_Insurance_parsed_jd",
+        "job_role": "claims data analyst"
+      },
+      "final_score": 38.35,
+      "scoring_breakdown": {
+        "skill_match": 80,
+        "experience_relevance": 11,
+        "education_alignment": 35,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 28.0,
+        "experience": 3.3,
+        "education": 5.25,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_7_Health_Informatics_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_7_Health_Informatics_Analyst_vs_Claims_Data_Analyst_Insurance_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_7_Health_Informatics_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_7_Health_Informatics_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 515,
+      "jd_rank": 8,
+      "_source_file": "ranked_Claims_Data_Analyst_Insurance_parsed_jd.json",
+      "job_role": "claims data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 38.35,
+        "skill_score": 80.0,
+        "experience_score": 11.0,
+        "education_score": 35.0,
+        "semantic_score": 9.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 507,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (38.35 < 50.0)"
+      ],
+      "explanation": "Rejected: final=38.35 < 50.0. Top drivers: ATS match=38, Skill match=80, Experience=11."
+    }
+  ]
+}

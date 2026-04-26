@@ -1,0 +1,216 @@
+{
+  "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+  "job_role": "director of healthcare analytics",
+  "category": "review",
+  "total_candidates": 3,
+  "generated_at": "2026-04-25T19:18:18.058858+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_2_Clinical_Data_Analyst_skills",
+        "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+        "job_role": "director of healthcare analytics"
+      },
+      "final_score": 63.3,
+      "scoring_breakdown": {
+        "skill_match": 87,
+        "experience_relevance": 72,
+        "education_alignment": 68,
+        "semantic_similarity": 8
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 26.1,
+        "experience": 28.8,
+        "education": 6.8,
+        "semantic": 1.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_2_Clinical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_2_Clinical_Data_Analyst_vs_Director_of_Healthcare_Analytics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_2_Clinical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_2_Clinical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 75,
+      "jd_rank": 1,
+      "_source_file": "ranked_Director_of_Healthcare_Analytics_parsed_jd.json",
+      "job_role": "director of healthcare analytics",
+      "bias_flags": [],
+      "candidate_id": "Resume_2_Clinical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 63.3,
+        "skill_score": 87.0,
+        "experience_score": 72.0,
+        "education_score": 68.0,
+        "semantic_score": 8.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 74,
+      "zone": "review",
+      "explanation": "Review: final=63.3 between 50.0 and 70.0. Top drivers: ATS match=63, Skill match=87, Experience=72."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+        "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+        "job_role": "director of healthcare analytics"
+      },
+      "final_score": 62.8,
+      "scoring_breakdown": {
+        "skill_match": 82,
+        "experience_relevance": 81,
+        "education_alignment": 34,
+        "semantic_similarity": 12
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 24.6,
+        "experience": 32.4,
+        "education": 3.4,
+        "semantic": 2.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Moderate Fit",
+        "score_band": "60-69",
+        "recommendation": "Consider if strong candidates are limited",
+        "priority": "Medium"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_6_Data_Entry_Analyst_Healthcare_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_vs_Director_of_Healthcare_Analytics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_6_Data_Entry_Analyst_Healthcare_sections_semantic.json"
+        }
+      },
+      "_original_rank": 84,
+      "jd_rank": 2,
+      "_source_file": "ranked_Director_of_Healthcare_Analytics_parsed_jd.json",
+      "job_role": "director of healthcare analytics",
+      "bias_flags": [],
+      "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare_skills",
+      "sub_scores": {
+        "ats_score": 62.8,
+        "skill_score": 82.0,
+        "experience_score": 81.0,
+        "education_score": 34.0,
+        "semantic_score": 12.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 83,
+      "zone": "review",
+      "explanation": "Review: final=62.8 between 50.0 and 70.0. Top drivers: ATS match=63, Skill match=82, Experience=81."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+        "jd_id": "Director_of_Healthcare_Analytics_parsed_jd",
+        "job_role": "director of healthcare analytics"
+      },
+      "final_score": 57.9,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 55,
+        "education_alignment": 53,
+        "semantic_similarity": 18
+      },
+      "weights": {
+        "skills": 30,
+        "experience": 40,
+        "education": 10,
+        "semantic": 20,
+        "weight_strategy": "senior"
+      },
+      "weighted_contributions": {
+        "skills": 27.0,
+        "experience": 22.0,
+        "education": 5.3,
+        "semantic": 3.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_3_Healthcare_Reporting_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_3_Healthcare_Reporting_Analyst_vs_Director_of_Healthcare_Analytics_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_3_Healthcare_Reporting_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 175,
+      "jd_rank": 3,
+      "_source_file": "ranked_Director_of_Healthcare_Analytics_parsed_jd.json",
+      "job_role": "director of healthcare analytics",
+      "bias_flags": [],
+      "candidate_id": "Resume_3_Healthcare_Reporting_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 57.9,
+        "skill_score": 90.0,
+        "experience_score": 55.0,
+        "education_score": 53.0,
+        "semantic_score": 18.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 173,
+      "zone": "review",
+      "explanation": "Review: final=57.9 between 50.0 and 70.0. Top drivers: ATS match=58, Skill match=90, Experience=55."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+  "job_role": "clinical research data analyst",
+  "category": "rejected",
+  "total_candidates": 2,
+  "generated_at": "2026-04-25T19:18:18.305688+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+        "job_role": "clinical research data analyst"
+      },
+      "final_score": 44.8,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 10,
+        "education_alignment": 46,
+        "semantic_similarity": 17
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 3.0,
+        "education": 6.9,
+        "semantic": 3.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_Clinical_Research_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 440,
+      "jd_rank": 7,
+      "_source_file": "ranked_Clinical_Research_Data_Analyst_parsed_jd.json",
+      "job_role": "clinical research data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 44.8,
+        "skill_score": 90.0,
+        "experience_score": 10.0,
+        "education_score": 46.0,
+        "semantic_score": 17.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 433,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (44.8 < 50.0)"
+      ],
+      "explanation": "Rejected: final=44.8 < 50.0. Top drivers: ATS match=45, Skill match=90, Experience=10."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+        "jd_id": "Clinical_Research_Data_Analyst_parsed_jd",
+        "job_role": "clinical research data analyst"
+      },
+      "final_score": 39.15,
+      "scoring_breakdown": {
+        "skill_match": 80,
+        "experience_relevance": 7,
+        "education_alignment": 35,
+        "semantic_similarity": 19
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 28.0,
+        "experience": 2.1,
+        "education": 5.25,
+        "semantic": 3.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:55",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_7_Health_Informatics_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_7_Health_Informatics_Analyst_vs_Clinical_Research_Data_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_7_Health_Informatics_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_7_Health_Informatics_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 501,
+      "jd_rank": 8,
+      "_source_file": "ranked_Clinical_Research_Data_Analyst_parsed_jd.json",
+      "job_role": "clinical research data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 39.15,
+        "skill_score": 80.0,
+        "experience_score": 7.0,
+        "education_score": 35.0,
+        "semantic_score": 19.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 495,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (39.15 < 50.0)"
+      ],
+      "explanation": "Rejected: final=39.15 < 50.0. Top drivers: ATS match=39, Skill match=80, Experience=7."
+    }
+  ]
+}

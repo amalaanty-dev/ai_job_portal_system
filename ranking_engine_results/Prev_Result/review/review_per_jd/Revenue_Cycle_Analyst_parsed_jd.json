@@ -1,0 +1,78 @@
+{
+  "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+  "job_role": "revenue cycle data analyst",
+  "category": "review",
+  "total_candidates": 1,
+  "generated_at": "2026-04-25T19:18:18.104126+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "Revenue_Cycle_Analyst_parsed_jd",
+        "job_role": "revenue cycle data analyst"
+      },
+      "final_score": 52.15,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 37,
+        "education_alignment": 53,
+        "semantic_similarity": 8
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "mid_level"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 11.1,
+        "education": 7.95,
+        "semantic": 1.6
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Partial Fit",
+        "score_band": "50-59",
+        "recommendation": "Review manually before deciding",
+        "priority": "Low"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_Revenue_Cycle_Analyst_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 313,
+      "jd_rank": 4,
+      "_source_file": "ranked_Revenue_Cycle_Analyst_parsed_jd.json",
+      "job_role": "revenue cycle data analyst",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 52.15,
+        "skill_score": 90.0,
+        "experience_score": 37.0,
+        "education_score": 53.0,
+        "semantic_score": 8.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 310,
+      "zone": "review",
+      "explanation": "Review: final=52.15 between 50.0 and 70.0. Top drivers: ATS match=52, Skill match=90, Experience=37."
+    }
+  ]
+}

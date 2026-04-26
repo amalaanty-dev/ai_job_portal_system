@@ -1,0 +1,41 @@
+{
+  "generated_at_utc": "2026-04-25T19:18:18.355388+00:00",
+  "job_role": "default",
+  "total_candidates": 520,
+  "counts": {
+    "shortlisted": 12,
+    "review": 358,
+    "rejected": 150
+  },
+  "score_stats": {
+    "average": 53.97,
+    "highest": 79.85,
+    "lowest": 32.7,
+    "median": 53.65
+  },
+  "config_used": {
+    "weights": {
+      "skill_score": 0.35,
+      "experience_score": 0.3,
+      "education_score": 0.15,
+      "semantic_score": 0.2
+    },
+    "thresholds": {
+      "shortlist": 70.0,
+      "review": 50.0
+    },
+    "hard_filters": {
+      "min_experience_years": 0.0,
+      "required_skills": [],
+      "blocked_reason_tag": "hard_filter_failed"
+    },
+    "scoring_mode": "passthrough",
+    "top_n": 10
+  },
+  "run_meta": {
+    "job_role": "default",
+    "input_dir": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\ats_results\\ats_scores",
+    "output_dir": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\ranking_engine_results",
+    "input_files": 595
+  }
+}

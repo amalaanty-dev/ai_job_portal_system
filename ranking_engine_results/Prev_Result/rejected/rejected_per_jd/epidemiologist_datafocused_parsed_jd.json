@@ -1,0 +1,225 @@
+{
+  "jd_id": "epidemiologist_datafocused_parsed_jd",
+  "job_role": "epidemiologist",
+  "category": "rejected",
+  "total_candidates": 3,
+  "generated_at": "2026-04-25T19:18:18.187806+00:00",
+  "candidates": [
+    {
+      "identifiers": {
+        "resume_id": "Resume_4_Medical_Data_Analyst_skills",
+        "jd_id": "epidemiologist_datafocused_parsed_jd",
+        "job_role": "epidemiologist"
+      },
+      "final_score": 49.2,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 30,
+        "education_alignment": 46,
+        "semantic_similarity": 9
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 9.0,
+        "education": 6.9,
+        "semantic": 1.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:54",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_4_Medical_Data_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_4_Medical_Data_Analyst_vs_epidemiologist_datafocused_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_4_Medical_Data_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_4_Medical_Data_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 385,
+      "jd_rank": 6,
+      "_source_file": "ranked_epidemiologist_datafocused_parsed_jd.json",
+      "job_role": "epidemiologist",
+      "bias_flags": [],
+      "candidate_id": "Resume_4_Medical_Data_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 49.2,
+        "skill_score": 90.0,
+        "experience_score": 30.0,
+        "education_score": 46.0,
+        "semantic_score": 9.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 379,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (49.2 < 50.0)"
+      ],
+      "explanation": "Rejected: final=49.2 < 50.0. Top drivers: ATS match=49, Skill match=90, Experience=30."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+        "jd_id": "epidemiologist_datafocused_parsed_jd",
+        "job_role": "epidemiologist"
+      },
+      "final_score": 47.95,
+      "scoring_breakdown": {
+        "skill_match": 90,
+        "experience_relevance": 19,
+        "education_alignment": 53,
+        "semantic_similarity": 14
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 31.5,
+        "experience": 5.7,
+        "education": 7.95,
+        "semantic": 2.8
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:53",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_1_Healthcare_Data_Analyst_Junior_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_vs_epidemiologist_datafocused_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_1_Healthcare_Data_Analyst_Junior_sections_semantic.json"
+        }
+      },
+      "_original_rank": 400,
+      "jd_rank": 7,
+      "_source_file": "ranked_epidemiologist_datafocused_parsed_jd.json",
+      "job_role": "epidemiologist",
+      "bias_flags": [],
+      "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior_skills",
+      "sub_scores": {
+        "ats_score": 47.95,
+        "skill_score": 90.0,
+        "experience_score": 19.0,
+        "education_score": 53.0,
+        "semantic_score": 14.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 394,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (47.95 < 50.0)"
+      ],
+      "explanation": "Rejected: final=47.95 < 50.0. Top drivers: ATS match=48, Skill match=90, Experience=19."
+    },
+    {
+      "identifiers": {
+        "resume_id": "Resume_7_Health_Informatics_Analyst_skills",
+        "jd_id": "epidemiologist_datafocused_parsed_jd",
+        "job_role": "epidemiologist"
+      },
+      "final_score": 37.95,
+      "scoring_breakdown": {
+        "skill_match": 80,
+        "experience_relevance": 11,
+        "education_alignment": 35,
+        "semantic_similarity": 7
+      },
+      "weights": {
+        "skills": 35,
+        "experience": 30,
+        "education": 15,
+        "semantic": 20,
+        "weight_strategy": "default"
+      },
+      "weighted_contributions": {
+        "skills": 28.0,
+        "experience": 3.3,
+        "education": 5.25,
+        "semantic": 1.4
+      },
+      "missing_data_handling": {
+        "missing_sections": [],
+        "weight_redistributed": false,
+        "redistribution_strategy": null
+      },
+      "score_interpretation": {
+        "rating": "Poor Fit",
+        "score_band": "0-49",
+        "recommendation": "Not recommended for this role",
+        "priority": "Reject"
+      },
+      "processing_metadata": {
+        "processed_timestamp": "2026-04-24T18:30:55",
+        "scoring_version": "v1.0",
+        "input_sources": {
+          "skills": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\extracted_skills\\Resume_7_Health_Informatics_Analyst_skills.json",
+          "experience": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\experience_outputs\\Resume_7_Health_Informatics_Analyst_vs_epidemiologist_datafocused_parsed_jd_experience.json",
+          "education": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\education_outputs\\Resume_7_Health_Informatics_Analyst_sections.json",
+          "semantic": "C:\\Users\\user\\Desktop\\ZECSER_BUSINESS_INTERN\\WORK\\ai_job_portal_system\\data\\semantic_outputs\\Resume_7_Health_Informatics_Analyst_sections_semantic.json"
+        }
+      },
+      "_original_rank": 518,
+      "jd_rank": 8,
+      "_source_file": "ranked_epidemiologist_datafocused_parsed_jd.json",
+      "job_role": "epidemiologist",
+      "bias_flags": [],
+      "candidate_id": "Resume_7_Health_Informatics_Analyst_skills",
+      "sub_scores": {
+        "ats_score": 37.95,
+        "skill_score": 80.0,
+        "experience_score": 11.0,
+        "education_score": 35.0,
+        "semantic_score": 7.0
+      },
+      "missing_scores": [],
+      "effective_weights": {
+        "day13_final_score": 1.0
+      },
+      "scoring_mode": "passthrough",
+      "rank": 510,
+      "zone": "rejected",
+      "rejection_reasons": [
+        "below_review_threshold (37.95 < 50.0)"
+      ],
+      "explanation": "Rejected: final=37.95 < 50.0. Top drivers: ATS match=38, Skill match=80, Experience=11."
+    }
+  ]
+}
