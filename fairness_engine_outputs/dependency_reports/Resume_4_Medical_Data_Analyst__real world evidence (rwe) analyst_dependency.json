@@ -1,0 +1,43 @@
+{
+  "resume_id": "Resume_4_Medical_Data_Analyst",
+  "job_role": "real world evidence (rwe) analyst",
+  "canonical_skills": [
+    "clinical decision support",
+    "disease patterns",
+    "medical terminology",
+    "and healthcare workflows. committed to data",
+    "predictive modeling",
+    "privacy",
+    "accuracy",
+    "data privacy"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "ehr",
+    "epidemiology",
+    "python",
+    "r",
+    "sql"
+  ],
+  "contextual_evidence": {
+    "data analysis": [],
+    "ehr": [],
+    "epidemiology": [],
+    "python": [
+      "conditions. python (scikit-learn)",
+      "built predictive models to flag high-risk patients using python and scikit-learn."
+    ],
+    "r": [
+      "r"
+    ],
+    "sql": [
+      "identified correlations between treatment protocols and patient readmission rates. sql"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 50.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.209886+00:00"
+}

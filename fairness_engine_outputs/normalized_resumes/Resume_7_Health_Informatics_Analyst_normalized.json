@@ -1,0 +1,59 @@
+{
+  "candidate_id": "Resume_7_Health_Informatics_Analyst",
+  "personal_info": {
+    "name": "Chloe Park",
+    "email": "chloe.park@email.com",
+    "phone": "+1 (503) 555-0792",
+    "location": "Portland, OR",
+    "linkedin": "linkedin.com/in/chloepark"
+  },
+  "professional_summary": "CORE SKILLS Health informatics analyst bridging clinical operations and data technology to drive (cid:127) Health Informatics smarter healthcare delivery. Experienced in EHR optimization, clinical data analysis, (cid:127) Population Health Analytics (cid:127) EHR Optimization interoperability (HL7/FHIR), and population health reporting. Passionate about (cid:127) Interoperability (HL7/FHIR) transforming complex health data into actionable strategies that improve patient (cid:127) Quality Reporting (HEDIS) outcomes. (cid:127) Clinical Workflow Design",
+  "skills": {
+    "programming": [],
+    "ml_ai": [],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "clinical data analysis",
+      "population health analytics",
+      "ehr optimization",
+      "interoperability (hl7/fhir)",
+      "and population health reporting. passionate about",
+      "quality reporting (hedis)",
+      "outcomes.",
+      "clinical workflow design"
+    ]
+  },
+  "experience": {
+    "total_years": 2.2,
+    "roles": [
+      {
+        "job_title": "Legacy",
+        "company": "Health System ·",
+        "start_date": "2019-05-01",
+        "end_date": "2021-07-01",
+        "duration_months": 27,
+        "duties": [
+          "Coordinated EHR data migration for 3 facilities during Epic Go-Live project. Systems Thinking",
+          "Trained clinical staff on data documentation best practices improving data quality. Leadership",
+          "Analyzed clinical quality metrics and presented findings to quality committees. Clinical-IT Communication"
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "certifications": [
+    "AMIA Health Informatics Certification (AHIC) – 2023",
+    "Epic Certified Application Analyst (2022)",
+    "HL7 FHIR Proficiency – HL7 International (2022)"
+  ],
+  "achievements": [],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_7_Health_Informatics_Analyst.json",
+    "normalized_at": "2026-04-27T10:32:49.484672+00:00",
+    "schema_version": "1.0"
+  }
+}

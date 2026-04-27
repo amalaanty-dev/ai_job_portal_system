@@ -1,0 +1,80 @@
+{
+  "candidate_id": "Resume_3_Healthcare_Reporting_Analyst",
+  "personal_info": {
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez@email.com",
+    "phone": "+1 (214) 555-0371",
+    "location": "Dallas, TX",
+    "linkedin": "linkedin.com/in/sofiamartinez"
+  },
+  "professional_summary": "CORE SKILLS Healthcare reporting analyst specializing in developing impactful dashboards, (cid:127) Dashboard Development automating routine reports, and communicating data-driven insights to hospital (cid:127) Report Automation (cid:127) KPI Monitoring leadership and operations teams. Proven track record of reducing manual reporting time (cid:127) Data Storytelling by 60% through Power BI automation and streamlining KPI tracking across large health (cid:127) Healthcare Analytics systems. (cid:127) ETL Pipelines",
+  "skills": {
+    "programming": [],
+    "ml_ai": [],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "dashboard development",
+      "automating routine reports",
+      "kpi monitoring",
+      "data storytelling",
+      "healthcare analytics",
+      "systems.",
+      "etl pipelines"
+    ]
+  },
+  "experience": {
+    "total_years": 6.8,
+    "roles": [
+      {
+        "job_title": "Healthcare Reporting Analyst TECHNOLOGIES",
+        "company": "Baylor Scott & White Health ·",
+        "start_date": "2021-04-01",
+        "end_date": "2026-04-19",
+        "duration_months": 61,
+        "duties": [
+          "Developed 25+ Power BI dashboards tracking patient flow, revenue cycle, and Tableau",
+          "outcomes. SQL Server",
+          "Python",
+          "Automated weekly and monthly operational reports, reducing manual effort by 60%.",
+          "Excel",
+          "Analyzed KPIs including bed occupancy, LOS, readmissions, and payer mix for",
+          "Epic Reporting Workbench",
+          "C-suite.",
+          "Collaborated with IT and clinical teams to ensure accurate data pipelines from Epic.",
+          "English (Fluent)",
+          "Presented monthly performance insights to department heads and executive",
+          "Spanish (Native)",
+          "leadership.",
+          "Reporting Analyst Communication"
+        ]
+      },
+      {
+        "job_title": "Communication",
+        "company": "HealthSpring Insurance ·",
+        "start_date": "2019-08-01",
+        "end_date": "2021-03-01",
+        "duration_months": 20,
+        "duties": [
+          "Created ad-hoc and scheduled reports for claims, utilization, and member services. Problem Solving",
+          "Built Tableau dashboards monitoring provider performance and network efficiency.",
+          "Automated report distribution using Python and SQL stored procedures."
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "certifications": [
+    "Microsoft Certified: Power BI Data Analyst Associate (2022)",
+    "Tableau Desktop Specialist (2021)"
+  ],
+  "achievements": [],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_3_Healthcare_Reporting_Analyst.json",
+    "normalized_at": "2026-04-27T10:32:46.730142+00:00",
+    "schema_version": "1.0"
+  }
+}

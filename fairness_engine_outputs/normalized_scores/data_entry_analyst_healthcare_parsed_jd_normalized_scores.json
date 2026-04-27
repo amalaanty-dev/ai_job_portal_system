@@ -1,0 +1,437 @@
+[
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.81,
+      "education_score": 0.68,
+      "semantic_score": 0.26
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.081,
+      "education_contribution": 0.238,
+      "semantic_contribution": 0.052
+    },
+    "ats_score": 68,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.66,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 67.55,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.675,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.965226+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.56,
+      "education_score": 0.53,
+      "semantic_score": 0.19
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.056,
+      "education_contribution": 0.185,
+      "semantic_contribution": 0.038
+    },
+    "ats_score": 59,
+    "normalized_final_score": 0.66,
+    "confidence_score": {
+      "value": 0.63,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 59.45,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.594,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.965226+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.63,
+      "education_score": 0.53,
+      "semantic_score": 0.15
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.063,
+      "education_contribution": 0.185,
+      "semantic_contribution": 0.03
+    },
+    "ats_score": 59,
+    "normalized_final_score": 0.65,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 59.35,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.593,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.965226+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 1.0,
+      "education_score": 0.34,
+      "semantic_score": 0.26
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.1,
+      "education_contribution": 0.119,
+      "semantic_contribution": 0.052
+    },
+    "ats_score": 56,
+    "normalized_final_score": 0.5,
+    "confidence_score": {
+      "value": 0.63,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 55.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.558,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.966256+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.48,
+      "education_score": 0.51,
+      "semantic_score": 0.11
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.048,
+      "education_contribution": 0.179,
+      "semantic_contribution": 0.022
+    },
+    "ats_score": 54,
+    "normalized_final_score": 0.43,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 54.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.543,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.966256+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.08,
+      "education_score": 0.46,
+      "semantic_score": 0.17
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.008,
+      "education_contribution": 0.161,
+      "semantic_contribution": 0.034
+    },
+    "ats_score": 52,
+    "normalized_final_score": 0.33,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 51.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.518,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.965226+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.42,
+      "education_score": 0.36,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.042,
+      "education_contribution": 0.126,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 51,
+    "normalized_final_score": 0.29,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 50.9,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.509,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.965226+00:00"
+    }
+  },
+  {
+    "job_id": "data_entry_analyst_healthcare_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.14,
+      "education_score": 0.35,
+      "semantic_score": 0.12
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.014,
+      "education_contribution": 0.122,
+      "semantic_contribution": 0.024
+    },
+    "ats_score": 44,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 44.05,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.1,
+        "education": 0.35,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.44,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.966256+00:00"
+    }
+  }
+]

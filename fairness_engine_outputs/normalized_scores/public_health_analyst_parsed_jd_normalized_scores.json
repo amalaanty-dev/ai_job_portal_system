@@ -1,0 +1,438 @@
+[
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.81,
+      "education_score": 0.68,
+      "semantic_score": 0.1
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.243,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.02
+    },
+    "ats_score": 67,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 66.95,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.669,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.159587+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.54,
+      "education_score": 0.53,
+      "semantic_score": 0.19
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.162,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.038
+    },
+    "ats_score": 59,
+    "normalized_final_score": 0.72,
+    "confidence_score": {
+      "value": 0.63,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 59.45,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.595,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.160618+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.74,
+      "education_score": 0.34,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.222,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 58,
+    "normalized_final_score": 0.66,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 57.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.578,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.160618+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.3,
+      "education_score": 0.53,
+      "semantic_score": 0.28
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.09,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.056
+    },
+    "ats_score": 54,
+    "normalized_final_score": 0.52,
+    "confidence_score": {
+      "value": 0.66,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 54.05,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.541,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.159587+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.42,
+      "education_score": 0.36,
+      "semantic_score": 0.18
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.126,
+      "education_contribution": 0.054,
+      "semantic_contribution": 0.036
+    },
+    "ats_score": 53,
+    "normalized_final_score": 0.48,
+    "confidence_score": {
+      "value": 0.62,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 53.1,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.531,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.159587+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.46,
+      "education_score": 0.51,
+      "semantic_score": 0.1
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.138,
+      "education_contribution": 0.076,
+      "semantic_contribution": 0.02
+    },
+    "ats_score": 53,
+    "normalized_final_score": 0.47,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 52.85,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.528,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.160618+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.15,
+      "education_score": 0.46,
+      "semantic_score": 0.15
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.045,
+      "education_contribution": 0.069,
+      "semantic_contribution": 0.03
+    },
+    "ats_score": 46,
+    "normalized_final_score": 0.21,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 45.9,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.459,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.160618+00:00"
+    }
+  },
+  {
+    "job_id": "public_health_analyst_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.12,
+      "education_score": 0.35,
+      "semantic_score": 0.17
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.036,
+      "education_contribution": 0.052,
+      "semantic_contribution": 0.034
+    },
+    "ats_score": 40,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.62,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 40.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.402,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.160618+00:00"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior",
+  "job_role": "healthcare data analyst (junior)",
+  "canonical_skills": [
+    "data collection & cleaning",
+    "cleaning",
+    "statistical analysis",
+    "data visualization",
+    "excel",
+    "sql",
+    "and python with hands-on experience in healthcare datasets.",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "analytical thinking",
+    "attention to detail",
+    "data analysis",
+    "data extraction",
+    "data visualization",
+    "excel",
+    "python",
+    "sql",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "analytical thinking": [
+      "ensured hipaa-compliant handling of all patient data. analytical thinking",
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "attention to detail": [
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "data analysis": [],
+    "data extraction": [],
+    "data visualization": [
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "excel": [
+      "collected and cleaned 50,000+ patient records for quarterly reporting cycles. microsoft excel",
+      "developed excel dashboards tracking readmission rates and patient satisfaction sql (mysql)",
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "python": [
+      "kpis. python (pandas)",
+      "created python scripts to automate repetitive data cleaning tasks, saving 5 hrs/week.",
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "sql": [
+      "developed excel dashboards tracking readmission rates and patient satisfaction sql (mysql)",
+      "wrote sql queries to extract billing data for cost analysis",
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "statistical analysis": [
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 70.0,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Strong contextual evidence for required skills",
+  "analyzed_at": "2026-04-27T10:32:45.283282+00:00"
+}

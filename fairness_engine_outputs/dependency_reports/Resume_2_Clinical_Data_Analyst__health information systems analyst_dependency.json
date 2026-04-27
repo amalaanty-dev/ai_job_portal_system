@@ -1,0 +1,25 @@
+{
+  "resume_id": "Resume_2_Clinical_Data_Analyst",
+  "job_role": "health information systems analyst",
+  "canonical_skills": [
+    "research support",
+    "validation",
+    "clinical reporting",
+    "and research support. strong knowledge of clinical",
+    "cdisc/sdtm",
+    "workflows",
+    "medical terminology",
+    "and regulatory data standards including ich-gcp and",
+    "regulatory compliance",
+    "cdisc.",
+    "trial reporting"
+  ],
+  "canonical_jd_skills": [],
+  "contextual_evidence": {},
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:45.584954+00:00"
+}

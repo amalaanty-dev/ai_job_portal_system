@@ -1,0 +1,42 @@
+{
+  "resume_id": "Resume_7_Health_Informatics_Analyst",
+  "job_role": "freelance healthcare data analyst",
+  "canonical_skills": [
+    "clinical data analysis",
+    "population health analytics",
+    "ehr optimization",
+    "interoperability (hl7/fhir)",
+    "and population health reporting. passionate about",
+    "quality reporting (hedis)",
+    "outcomes.",
+    "clinical workflow design"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "data visualization",
+    "excel",
+    "power bi",
+    "python",
+    "r",
+    "sql",
+    "tableau"
+  ],
+  "contextual_evidence": {
+    "data analysis": [
+      "core skills health informatics analyst bridging clinical operations and data technology to drive (cid:127) health informatics smarter healthcare delivery. experienced in ehr optimization, clinical dat"
+    ],
+    "data visualization": [],
+    "excel": [],
+    "power bi": [],
+    "python": [],
+    "r": [],
+    "sql": [],
+    "tableau": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 12.5,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:49.076979+00:00"
+}

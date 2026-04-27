@@ -1,0 +1,440 @@
+[
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.5,
+      "education_score": 0.53,
+      "semantic_score": 0.28
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.405,
+      "experience_contribution": 0.125,
+      "education_contribution": 0.053,
+      "semantic_contribution": 0.056
+    },
+    "ats_score": 64,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.67,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 63.9,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.639,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.038140+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.58,
+      "education_score": 0.68,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.391,
+      "experience_contribution": 0.145,
+      "education_contribution": 0.068,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 63,
+    "normalized_final_score": 0.97,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 63.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.632,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.038140+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.73,
+      "education_score": 0.34,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.369,
+      "experience_contribution": 0.182,
+      "education_contribution": 0.034,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 61,
+    "normalized_final_score": 0.86,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 61.15,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.611,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.039171+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.29,
+      "education_score": 0.53,
+      "semantic_score": 0.22
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.405,
+      "experience_contribution": 0.072,
+      "education_contribution": 0.053,
+      "semantic_contribution": 0.044
+    },
+    "ats_score": 57,
+    "normalized_final_score": 0.68,
+    "confidence_score": {
+      "value": 0.64,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 57.45,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.574,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.038140+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.43,
+      "education_score": 0.36,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.405,
+      "experience_contribution": 0.107,
+      "education_contribution": 0.036,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 57,
+    "normalized_final_score": 0.64,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 56.65,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.566,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.038140+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.46,
+      "education_score": 0.51,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.378,
+      "experience_contribution": 0.115,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 56,
+    "normalized_final_score": 0.61,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 56.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.562,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.039171+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.06,
+      "education_score": 0.46,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.405,
+      "experience_contribution": 0.015,
+      "education_contribution": 0.046,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 49,
+    "normalized_final_score": 0.27,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 49.4,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.494,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.038140+00:00"
+    }
+  },
+  {
+    "job_id": "healthcare_dashboard_developer_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.09,
+      "education_score": 0.35,
+      "semantic_score": 0.11
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.36,
+      "experience_contribution": 0.022,
+      "education_contribution": 0.035,
+      "semantic_contribution": 0.022
+    },
+    "ats_score": 44,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 43.95,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.45,
+        "experience": 0.25,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.439,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.039171+00:00"
+    }
+  }
+]

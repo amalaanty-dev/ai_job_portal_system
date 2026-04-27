@@ -1,0 +1,86 @@
+{
+  "candidate_id": "Resume_1_Healthcare_Data_Analyst_Junior",
+  "personal_info": {
+    "name": "Priya Menon",
+    "email": "priya.menon@email.com",
+    "phone": "+1 (312) 555-0184",
+    "location": "Chicago, IL",
+    "linkedin": "linkedin.com/in/priyamenon"
+  },
+  "professional_summary": "CORE SKILLS Detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) Data Collection & Cleaning cleaning, and reporting. Passionate about leveraging data to improve patient outcomes (cid:127) Healthcare Reporting (cid:127) Statistical Analysis and support data-driven decision-making within healthcare organizations. Proficient in (cid:127) Data Visualization Excel, SQL, and Python with hands-on experience in healthcare datasets. (cid:127) HIPAA Compliance WORK EXPERIENCE (cid:127) Trend Analysis Junior Data Analyst Intern TOOLS & Northwestern Medicine · Jun 2023 – Dec 2023 TECHNOLOGIES (cid:127) Collected and cleaned 50,000+ patient records for quarterly reporting cycles. (cid:127) Microsoft Excel (cid:127) Developed Excel dashboards tracking readmission rates and patient satisfaction (cid:127) SQL (MySQL) KPIs. (cid:127) Python (pandas) (cid:127) Tableau (cid:127) Wrote SQL queries to extract billing data for cost analysis projects. (cid:127) Power BI (cid:127) Assisted senior analysts in identifying trends in chronic disease patient populations. (cid:127) Epic EHR Data Analyst (Part-time) LANGUAGES Community Health Network · Jan 2023 – May 2023 (cid:127) English (Fluent) (cid:127) Supported data entry and validation of 10,000+ insurance claims records. (cid:127) Hindi (Native) (cid:127) Created Python scripts to automate repetitive data cleaning tasks, saving 5 hrs/week. SOFT SKILLS (cid:127) Ensured HIPAA-compliant handling of all patient data. (cid:127) Analytical Thinking EDUCATION (cid:127) Attention to Detail (cid:127) Team Collaboration B.S. in Health Information Management DePaul University · 2023",
+  "skills": {
+    "programming": [],
+    "ml_ai": [
+      "data collection & cleaning"
+    ],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "data collection & cleaning",
+      "cleaning",
+      "statistical analysis",
+      "data visualization",
+      "excel",
+      "sql",
+      "and python with hands-on experience in healthcare datasets.",
+      "hipaa compliance"
+    ]
+  },
+  "experience": {
+    "total_years": 1.0,
+    "roles": [
+      {
+        "job_title": "Junior Data Analyst Intern TOOLS &",
+        "company": "Northwestern Medicine ·",
+        "start_date": "2023-06-01",
+        "end_date": "2023-12-01",
+        "duration_months": 7,
+        "duties": [
+          "Collected and cleaned 50,000+ patient records for quarterly reporting cycles. Microsoft Excel",
+          "Developed Excel dashboards tracking readmission rates and patient satisfaction SQL (MySQL)",
+          "KPIs. Python (pandas)",
+          "Tableau",
+          "Wrote SQL queries to extract billing data for cost analysis"
+        ]
+      },
+      {
+        "job_title": "LANGUAGES",
+        "company": "Community Health Network ·",
+        "start_date": "2023-01-01",
+        "end_date": "2023-05-01",
+        "duration_months": 5,
+        "duties": [
+          "Supported data entry and validation of 10,000+ insurance claims records. Hindi (Native)",
+          "Created Python scripts to automate repetitive data cleaning tasks, saving 5 hrs/week.",
+          "Ensured HIPAA-compliant handling of all patient data. Analytical Thinking"
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [
+    {
+      "title": "Untitled",
+      "tags": [],
+      "description": [
+        "Power BI",
+        "Assisted senior analysts in identifying trends in chronic disease patient populations.",
+        "Epic EHR",
+        "Data Analyst (Part-time)"
+      ],
+      "technologies": []
+    }
+  ],
+  "certifications": [
+    "Google Data Analytics Professional Certificate (2023)",
+    "HIPAA Compliance Training – AHIMA (2022)"
+  ],
+  "achievements": [],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_1_Healthcare_Data_Analyst_Junior.json",
+    "normalized_at": "2026-04-27T10:32:45.305952+00:00",
+    "schema_version": "1.0"
+  }
+}

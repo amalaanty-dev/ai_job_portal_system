@@ -1,0 +1,38 @@
+{
+  "resume_id": "Resume_4_Medical_Data_Analyst",
+  "job_role": "healthcare statistician",
+  "canonical_skills": [
+    "clinical decision support",
+    "disease patterns",
+    "medical terminology",
+    "and healthcare workflows. committed to data",
+    "predictive modeling",
+    "privacy",
+    "accuracy",
+    "data privacy"
+  ],
+  "canonical_jd_skills": [
+    "clinical research",
+    "data interpretation",
+    "r",
+    "sas",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "clinical research": [],
+    "data interpretation": [],
+    "r": [
+      "r"
+    ],
+    "sas": [],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 16.67,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.456758+00:00"
+}

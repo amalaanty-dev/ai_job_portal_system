@@ -1,0 +1,46 @@
+{
+  "resume_id": "Resume_4_Medical_Data_Analyst",
+  "job_role": "clinical data scientist",
+  "canonical_skills": [
+    "clinical decision support",
+    "disease patterns",
+    "medical terminology",
+    "and healthcare workflows. committed to data",
+    "predictive modeling",
+    "privacy",
+    "accuracy",
+    "data privacy"
+  ],
+  "canonical_jd_skills": [
+    "clinical data analysis",
+    "clinical research",
+    "data analysis",
+    "gcp",
+    "healthcare analytics",
+    "predictive modeling",
+    "r",
+    "sas",
+    "statistical modeling"
+  ],
+  "contextual_evidence": {
+    "clinical data analysis": [],
+    "clinical research": [],
+    "data analysis": [],
+    "gcp": [],
+    "healthcare analytics": [],
+    "predictive modeling": [
+      "core skills medical data analyst with expertise in analyzing medical records and treatment data to (cid:127) medical record analysis support clinical decision-making and operational efficiency. strong"
+    ],
+    "r": [
+      "r"
+    ],
+    "sas": [],
+    "statistical modeling": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 22.22,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:46.788466+00:00"
+}

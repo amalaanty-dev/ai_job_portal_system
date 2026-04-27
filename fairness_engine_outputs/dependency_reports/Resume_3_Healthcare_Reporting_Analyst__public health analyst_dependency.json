@@ -1,0 +1,40 @@
+{
+  "resume_id": "Resume_3_Healthcare_Reporting_Analyst",
+  "job_role": "public health analyst",
+  "canonical_skills": [
+    "dashboard development",
+    "automating routine reports",
+    "kpi monitoring",
+    "data storytelling",
+    "healthcare analytics",
+    "systems.",
+    "etl pipelines"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "data visualization",
+    "epidemiology",
+    "python",
+    "r",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "data analysis": [],
+    "data visualization": [],
+    "epidemiology": [],
+    "python": [
+      "python",
+      "automated report distribution using python and sql stored procedures."
+    ],
+    "r": [],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 14.29,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:46.593310+00:00"
+}

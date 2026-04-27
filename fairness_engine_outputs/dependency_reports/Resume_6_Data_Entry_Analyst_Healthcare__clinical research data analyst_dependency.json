@@ -1,0 +1,44 @@
+{
+  "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "job_role": "clinical research data analyst",
+  "canonical_skills": [
+    "adept at inputting",
+    "verifying",
+    "medical billing",
+    "regulatory",
+    "record organization",
+    "compliance",
+    "accuracy & qc"
+  ],
+  "canonical_jd_skills": [
+    "attention to detail",
+    "clinical research",
+    "data analysis",
+    "excel",
+    "gcp",
+    "r",
+    "sas",
+    "sql"
+  ],
+  "contextual_evidence": {
+    "attention to detail": [
+      "collaborated with billing team to resolve coding and data entry errors. attention to detail"
+    ],
+    "clinical research": [],
+    "data analysis": [],
+    "excel": [
+      "entered and updated 500+ patient records daily with 99.9% accuracy rate. microsoft excel",
+      "core skills accurate and efficient data entry analyst with 2 years in healthcare data management. (cid:127) high-speed data entry adept at inputting, verifying, and maintaining large volumes of patien"
+    ],
+    "gcp": [],
+    "r": [],
+    "sas": [],
+    "sql": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 25.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.353749+00:00"
+}

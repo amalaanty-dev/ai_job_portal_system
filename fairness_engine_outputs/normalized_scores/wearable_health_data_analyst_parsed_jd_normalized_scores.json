@@ -1,0 +1,436 @@
+[
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.79,
+      "education_score": 0.68,
+      "semantic_score": 0.25
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.237,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.05
+    },
+    "ats_score": 69,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.66,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 69.35,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.693,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.199344+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.82,
+      "education_score": 0.34,
+      "semantic_score": 0.23
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.246,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.046
+    },
+    "ats_score": 63,
+    "normalized_final_score": 0.73,
+    "confidence_score": {
+      "value": 0.64,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 63.0,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.63,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.200340+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.63,
+      "education_score": 0.53,
+      "semantic_score": 0.16
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.189,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.032
+    },
+    "ats_score": 62,
+    "normalized_final_score": 0.67,
+    "confidence_score": {
+      "value": 0.62,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 61.55,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.616,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.199344+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.52,
+      "education_score": 0.53,
+      "semantic_score": 0.21
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.156,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.042
+    },
+    "ats_score": 59,
+    "normalized_final_score": 0.57,
+    "confidence_score": {
+      "value": 0.64,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 59.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.593,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.199344+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.48,
+      "education_score": 0.51,
+      "semantic_score": 0.19
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.144,
+      "education_contribution": 0.076,
+      "semantic_contribution": 0.038
+    },
+    "ats_score": 55,
+    "normalized_final_score": 0.4,
+    "confidence_score": {
+      "value": 0.64,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 55.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.552,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.200340+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.43,
+      "education_score": 0.36,
+      "semantic_score": 0.07
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.129,
+      "education_contribution": 0.054,
+      "semantic_contribution": 0.014
+    },
+    "ats_score": 51,
+    "normalized_final_score": 0.22,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 51.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.512,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.199344+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.21,
+      "education_score": 0.35,
+      "semantic_score": 0.41
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.063,
+      "education_contribution": 0.052,
+      "semantic_contribution": 0.082
+    },
+    "ats_score": 48,
+    "normalized_final_score": 0.07,
+    "confidence_score": {
+      "value": 0.72,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 47.75,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.477,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.200340+00:00"
+    }
+  },
+  {
+    "job_id": "wearable_health_data_analyst_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.12,
+      "education_score": 0.46,
+      "semantic_score": 0.2
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.036,
+      "education_contribution": 0.069,
+      "semantic_contribution": 0.04
+    },
+    "ats_score": 46,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.62,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 46.0,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.46,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.199344+00:00"
+    }
+  }
+]

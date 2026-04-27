@@ -1,0 +1,435 @@
+[
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.7,
+      "education_score": 0.68,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.174,
+      "experience_contribution": 0.28,
+      "education_contribution": 0.136,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 62,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 61.6,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.616,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.71,
+      "education_score": 0.34,
+      "semantic_score": 0.23
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.164,
+      "experience_contribution": 0.284,
+      "education_contribution": 0.068,
+      "semantic_contribution": 0.046
+    },
+    "ats_score": 56,
+    "normalized_final_score": 0.8,
+    "confidence_score": {
+      "value": 0.65,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 56.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.562,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.44,
+      "education_score": 0.51,
+      "semantic_score": 0.42
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.168,
+      "experience_contribution": 0.176,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.084
+    },
+    "ats_score": 53,
+    "normalized_final_score": 0.68,
+    "confidence_score": {
+      "value": 0.74,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [],
+    "audit_trail": {
+      "raw_final_score": 53.0,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.53,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.55,
+      "education_score": 0.53,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.18,
+      "experience_contribution": 0.22,
+      "education_contribution": 0.106,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 52,
+    "normalized_final_score": 0.66,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 52.4,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.524,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.27,
+      "education_score": 0.53,
+      "semantic_score": 0.2
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.18,
+      "experience_contribution": 0.108,
+      "education_contribution": 0.106,
+      "semantic_contribution": 0.04
+    },
+    "ats_score": 43,
+    "normalized_final_score": 0.32,
+    "confidence_score": {
+      "value": 0.63,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 43.4,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.434,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.45,
+      "education_score": 0.36,
+      "semantic_score": 0.0
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.18,
+      "experience_contribution": 0.18,
+      "education_contribution": 0.072,
+      "semantic_contribution": 0.0
+    },
+    "ats_score": 43,
+    "normalized_final_score": 0.31,
+    "confidence_score": {
+      "value": 0.46,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 43.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.432,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.14,
+      "education_score": 0.35,
+      "semantic_score": 0.53
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.16,
+      "experience_contribution": 0.056,
+      "education_contribution": 0.07,
+      "semantic_contribution": 0.106
+    },
+    "ats_score": 39,
+    "normalized_final_score": 0.16,
+    "confidence_score": {
+      "value": 0.75,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.01
+    },
+    "flags": [
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 39.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.392,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.982220+00:00"
+    }
+  },
+  {
+    "job_id": "ehr_implementation_analyst_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.13,
+      "education_score": 0.46,
+      "semantic_score": 0.12
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.18,
+      "experience_contribution": 0.052,
+      "education_contribution": 0.092,
+      "semantic_contribution": 0.024
+    },
+    "ats_score": 35,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 34.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.2,
+        "experience": 0.4,
+        "education": 0.2,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.348,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.981217+00:00"
+    }
+  }
+]

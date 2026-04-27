@@ -1,0 +1,40 @@
+{
+  "run_id": "day15_bulk_run",
+  "evaluated_at": "2026-04-27T10:32:50.202335+00:00",
+  "n_candidates": 528,
+  "indicators": {
+    "score_distribution": {
+      "mean": 50.93,
+      "stdev": 31.43,
+      "min": 0.0,
+      "max": 100.0,
+      "variance_ratio": 0.617,
+      "n": 528
+    },
+    "keyword_dependency": {
+      "n_resumes": 528,
+      "avg_dependency_ratio": 0.0,
+      "max_dependency_ratio": 0.0,
+      "avg_context_adjusted_score": 22.16,
+      "high_dependency_count": 0
+    },
+    "pii_masking": {
+      "n_audits": 528,
+      "total_masks": 2706,
+      "avg_masks_per_resume": 5.12
+    },
+    "elite_institution_gap": {
+      "note": "Pass cohort_map with 'is_elite' attribute to enable",
+      "computed": false
+    }
+  },
+  "flags": [
+    {
+      "type": "high_score_variance",
+      "value": 0.617,
+      "threshold": 0.25,
+      "severity": "medium"
+    }
+  ],
+  "summary_verdict": "REVIEW_NEEDED"
+}

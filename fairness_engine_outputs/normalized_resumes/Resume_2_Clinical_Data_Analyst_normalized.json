@@ -1,0 +1,81 @@
+{
+  "candidate_id": "Resume_2_Clinical_Data_Analyst",
+  "personal_info": {
+    "name": "Daniel Osei",
+    "email": "daniel.osei@email.com",
+    "phone": "+1 (617) 555-0293",
+    "location": "Boston, MA",
+    "linkedin": "linkedin.com/in/danielosei"
+  },
+  "professional_summary": "CORE SKILLS Clinical data analyst with 3 years of experience analyzing patient and clinical trial (cid:127) Clinical Data Analysis datasets to advance medical research and improve care outcomes. Skilled in data (cid:127) Data Validation (cid:127) Research Support validation, clinical reporting, and research support. Strong knowledge of clinical (cid:127) CDISC/SDTM workflows, medical terminology, and regulatory data standards including ICH-GCP and (cid:127) Regulatory Compliance CDISC. (cid:127) Trial Reporting",
+  "skills": {
+    "programming": [],
+    "ml_ai": [],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "research support",
+      "validation",
+      "clinical reporting",
+      "and research support. strong knowledge of clinical",
+      "cdisc/sdtm",
+      "workflows",
+      "medical terminology",
+      "and regulatory data standards including ich-gcp and",
+      "regulatory compliance",
+      "cdisc.",
+      "trial reporting"
+    ]
+  },
+  "experience": {
+    "total_years": 4.8,
+    "roles": [
+      {
+        "job_title": "Clinical Data Analyst TECHNOLOGIES",
+        "company": "Brigham and Women's Hospital ·",
+        "start_date": "2022-03-01",
+        "end_date": "2026-04-19",
+        "duration_months": 50,
+        "duties": [
+          "Analyzed clinical trial data for Phase II/III oncology studies involving 800+ patients. R",
+          "Validated and cleaned clinical datasets ensuring 99.8% data integrity before lock. REDCap",
+          "Oracle Clinical",
+          "Generated treatment outcome reports used by principal investigators for publications.",
+          "Excel",
+          "Ensured CDISC SDTM compliance across all data submissions to the FDA.",
+          "Medidata Rave",
+          "Research Data Coordinator"
+        ]
+      },
+      {
+        "job_title": "Research Data Coordinator LANGUAGES",
+        "company": "Massachusetts General Hospital ·",
+        "start_date": "2021-07-01",
+        "end_date": "2022-02-01",
+        "duration_months": 8,
+        "duties": [
+          "Supported research teams with data extraction from REDCap and Epic clinical Twi (Native)",
+          "systems.",
+          "Reconciled discrepancies in patient lab and imaging data across 12 active studies. Research Methodology",
+          "Prepared data summaries and slide decks for monthly sponsor review meetings. Critical Thinking",
+          "Cross-functional"
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "certifications": [
+    "Certified Clinical Data Manager (CCDM) – SCDM (2023)",
+    "ICH-GCP Training Certificate (2022)",
+    "CDISC SDTM Fundamentals (2022)"
+  ],
+  "achievements": [],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_2_Clinical_Data_Analyst.json",
+    "normalized_at": "2026-04-27T10:32:46.107124+00:00",
+    "schema_version": "1.0"
+  }
+}

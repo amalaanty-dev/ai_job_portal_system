@@ -1,0 +1,38 @@
+{
+  "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "job_role": "real world evidence (rwe) analyst",
+  "canonical_skills": [
+    "adept at inputting",
+    "verifying",
+    "medical billing",
+    "regulatory",
+    "record organization",
+    "compliance",
+    "accuracy & qc"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "ehr",
+    "epidemiology",
+    "python",
+    "r",
+    "sql"
+  ],
+  "contextual_evidence": {
+    "data analysis": [],
+    "ehr": [
+      "identified and corrected data discrepancies in insurance and billing records. epic ehr",
+      "core skills accurate and efficient data entry analyst with 2 years in healthcare data management. (cid:127) high-speed data entry adept at inputting, verifying, and maintaining large volumes of patien"
+    ],
+    "epidemiology": [],
+    "python": [],
+    "r": [],
+    "sql": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 16.67,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.792556+00:00"
+}

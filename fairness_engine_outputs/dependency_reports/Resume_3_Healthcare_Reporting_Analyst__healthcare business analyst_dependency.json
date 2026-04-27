@@ -1,0 +1,37 @@
+{
+  "resume_id": "Resume_3_Healthcare_Reporting_Analyst",
+  "job_role": "healthcare business analyst",
+  "canonical_skills": [
+    "dashboard development",
+    "automating routine reports",
+    "kpi monitoring",
+    "data storytelling",
+    "healthcare analytics",
+    "systems.",
+    "etl pipelines"
+  ],
+  "canonical_jd_skills": [
+    "business analysis",
+    "data analysis",
+    "data interpretation",
+    "ehr",
+    "emr",
+    "process improvement",
+    "stakeholder communication"
+  ],
+  "contextual_evidence": {
+    "business analysis": [],
+    "data analysis": [],
+    "data interpretation": [],
+    "ehr": [],
+    "emr": [],
+    "process improvement": [],
+    "stakeholder communication": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:46.370050+00:00"
+}

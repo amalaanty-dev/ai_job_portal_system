@@ -1,0 +1,438 @@
+[
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.77,
+      "education_score": 0.68,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.231,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 67,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 66.55,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.665,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.69,
+      "education_score": 0.34,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.207,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 57,
+    "normalized_final_score": 0.69,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 57.3,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.573,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.5,
+      "education_score": 0.53,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.15,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 57,
+    "normalized_final_score": 0.68,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 57.05,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.571,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.47,
+      "education_score": 0.51,
+      "semantic_score": 0.06
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.141,
+      "education_contribution": 0.076,
+      "semantic_contribution": 0.012
+    },
+    "ats_score": 52,
+    "normalized_final_score": 0.52,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 52.35,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.523,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.44,
+      "education_score": 0.36,
+      "semantic_score": 0.08
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.132,
+      "education_contribution": 0.054,
+      "semantic_contribution": 0.016
+    },
+    "ats_score": 52,
+    "normalized_final_score": 0.49,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 51.7,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.517,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.954117+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.24,
+      "education_score": 0.53,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.072,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 49,
+    "normalized_final_score": 0.41,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 49.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.493,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.14,
+      "education_score": 0.46,
+      "semantic_score": 0.12
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.042,
+      "education_contribution": 0.069,
+      "semantic_contribution": 0.024
+    },
+    "ats_score": 45,
+    "normalized_final_score": 0.27,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 45.0,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.45,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  },
+  {
+    "job_id": "cost_utilization_analyst_healthcare_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.07,
+      "education_score": 0.35,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.021,
+      "education_contribution": 0.052,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 37,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 37.15,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.371,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.955115+00:00"
+    }
+  }
+]

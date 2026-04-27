@@ -1,0 +1,44 @@
+{
+  "resume_id": "Resume_3_Healthcare_Reporting_Analyst",
+  "job_role": "healthcare bi (business intelligence) analyst",
+  "canonical_skills": [
+    "dashboard development",
+    "automating routine reports",
+    "kpi monitoring",
+    "data storytelling",
+    "healthcare analytics",
+    "systems.",
+    "etl pipelines"
+  ],
+  "canonical_jd_skills": [
+    "data modeling",
+    "etl",
+    "power bi",
+    "sql",
+    "tableau"
+  ],
+  "contextual_evidence": {
+    "data modeling": [],
+    "etl": [
+      "core skills healthcare reporting analyst specializing in developing impactful dashboards, (cid:127) dashboard development automating routine reports, and communicating data-driven insights to hospital"
+    ],
+    "power bi": [
+      "developed 25+ power bi dashboards tracking patient flow, revenue cycle, and tableau",
+      "core skills healthcare reporting analyst specializing in developing impactful dashboards, (cid:127) dashboard development automating routine reports, and communicating data-driven insights to hospital"
+    ],
+    "sql": [
+      "outcomes. sql server",
+      "automated report distribution using python and sql stored procedures."
+    ],
+    "tableau": [
+      "developed 25+ power bi dashboards tracking patient flow, revenue cycle, and tableau",
+      "built tableau dashboards monitoring provider performance and network efficiency."
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 80.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Strong contextual evidence for required skills",
+  "analyzed_at": "2026-04-27T10:32:46.328082+00:00"
+}

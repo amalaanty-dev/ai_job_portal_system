@@ -1,0 +1,439 @@
+[
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.56,
+      "education_score": 0.68,
+      "semantic_score": 0.19
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.168,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.038
+    },
+    "ats_score": 61,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.63,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 61.25,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.612,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.61,
+      "education_score": 0.34,
+      "semantic_score": 0.05
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.183,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.01
+    },
+    "ats_score": 53,
+    "normalized_final_score": 0.64,
+    "confidence_score": {
+      "value": 0.57,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 53.1,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.531,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.42,
+      "education_score": 0.53,
+      "semantic_score": 0.04
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.126,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.008
+    },
+    "ats_score": 53,
+    "normalized_final_score": 0.63,
+    "confidence_score": {
+      "value": 0.56,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 52.85,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.529,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.38,
+      "education_score": 0.36,
+      "semantic_score": 0.1
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.114,
+      "education_contribution": 0.054,
+      "semantic_contribution": 0.02
+    },
+    "ats_score": 50,
+    "normalized_final_score": 0.52,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 50.3,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.503,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.922031+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.4,
+      "education_score": 0.51,
+      "semantic_score": 0.03
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.12,
+      "education_contribution": 0.076,
+      "semantic_contribution": 0.006
+    },
+    "ats_score": 50,
+    "normalized_final_score": 0.49,
+    "confidence_score": {
+      "value": 0.57,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 49.65,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.496,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.09,
+      "education_score": 0.53,
+      "semantic_score": 0.13
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.027,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.026
+    },
+    "ats_score": 45,
+    "normalized_final_score": 0.28,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 44.75,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.448,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.14,
+      "education_score": 0.46,
+      "semantic_score": 0.1
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.042,
+      "education_contribution": 0.069,
+      "semantic_contribution": 0.02
+    },
+    "ats_score": 45,
+    "normalized_final_score": 0.27,
+    "confidence_score": {
+      "value": 0.58,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 44.6,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.446,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.923001+00:00"
+    }
+  },
+  {
+    "job_id": "biostatistician_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.11,
+      "education_score": 0.35,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.033,
+      "education_contribution": 0.052,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 38,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 38.35,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.383,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.924026+00:00"
+    }
+  }
+]

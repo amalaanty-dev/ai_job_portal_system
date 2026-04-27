@@ -1,0 +1,50 @@
+{
+  "resume_id": "Resume_5_Health_Information_Analyst",
+  "job_role": "healthcare data analyst (junior)",
+  "canonical_skills": [
+    "health information",
+    "ensuring data governance",
+    "data governance",
+    "regulations. skilled in ehr/emr system administration",
+    "data integrity audits",
+    "and health",
+    "record management",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "analytical thinking",
+    "attention to detail",
+    "data analysis",
+    "data extraction",
+    "data visualization",
+    "excel",
+    "python",
+    "sql",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "analytical thinking": [],
+    "attention to detail": [
+      "attention to detail"
+    ],
+    "data analysis": [],
+    "data extraction": [],
+    "data visualization": [],
+    "excel": [
+      "microsoft excel"
+    ],
+    "python": [],
+    "sql": [
+      "sql"
+    ],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 30.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.211203+00:00"
+}

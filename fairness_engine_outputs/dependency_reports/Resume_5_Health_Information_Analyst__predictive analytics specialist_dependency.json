@@ -1,0 +1,34 @@
+{
+  "resume_id": "Resume_5_Health_Information_Analyst",
+  "job_role": "predictive analytics specialist",
+  "canonical_skills": [
+    "health information",
+    "ensuring data governance",
+    "data governance",
+    "regulations. skilled in ehr/emr system administration",
+    "data integrity audits",
+    "and health",
+    "record management",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "data visualization",
+    "ml",
+    "predictive modeling",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "data visualization": [],
+    "ml": [],
+    "predictive modeling": [],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.985410+00:00"
+}

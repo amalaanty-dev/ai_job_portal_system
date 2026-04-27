@@ -1,0 +1,42 @@
+{
+  "resume_id": "Resume_5_Health_Information_Analyst",
+  "job_role": "real world evidence (rwe) analyst",
+  "canonical_skills": [
+    "health information",
+    "ensuring data governance",
+    "data governance",
+    "regulations. skilled in ehr/emr system administration",
+    "data integrity audits",
+    "and health",
+    "record management",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "ehr",
+    "epidemiology",
+    "python",
+    "r",
+    "sql"
+  ],
+  "contextual_evidence": {
+    "data analysis": [],
+    "ehr": [
+      "conducted monthly data integrity audits, achieving 99.5% record accuracy epic ehr",
+      "supported implementation of new ehr modules, training 40+ clinical staff.",
+      "assisted in transitioning paper-based records to epic ehr system. arabic (conversational)"
+    ],
+    "epidemiology": [],
+    "python": [],
+    "r": [],
+    "sql": [
+      "sql"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 33.33,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.009345+00:00"
+}

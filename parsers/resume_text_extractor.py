@@ -67,7 +67,7 @@ def clean_text(text):
 
 def process_resume_folder(input_folder, output_folder):
 
-    os.makedirs(output_folder, exist_ok=True)
+    os.makedirs(os.path.dirname(output_folder), exist_ok=True)     #os.makedirs(output_folder, exist_ok=True)
 
     processed_count = 0
     skipped_count = 0

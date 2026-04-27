@@ -1,0 +1,25 @@
+{
+  "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "job_role": "healthcare outcomes analyst",
+  "canonical_skills": [
+    "adept at inputting",
+    "verifying",
+    "medical billing",
+    "regulatory",
+    "record organization",
+    "compliance",
+    "accuracy & qc"
+  ],
+  "canonical_jd_skills": [
+    "data analysis"
+  ],
+  "contextual_evidence": {
+    "data analysis": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.679817+00:00"
+}

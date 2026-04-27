@@ -1,0 +1,437 @@
+[
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.84,
+      "education_score": 0.68,
+      "semantic_score": 0.36
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.261,
+      "experience_contribution": 0.336,
+      "education_contribution": 0.068,
+      "semantic_contribution": 0.072
+    },
+    "ats_score": 74,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.71,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 73.7,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.737,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.71,
+      "education_score": 0.34,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.246,
+      "experience_contribution": 0.284,
+      "education_contribution": 0.034,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 59,
+    "normalized_final_score": 0.65,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 59.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.592,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.44,
+      "education_score": 0.53,
+      "semantic_score": 0.1
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.27,
+      "experience_contribution": 0.176,
+      "education_contribution": 0.053,
+      "semantic_contribution": 0.02
+    },
+    "ats_score": 52,
+    "normalized_final_score": 0.47,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 51.9,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.519,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.47,
+      "education_score": 0.36,
+      "semantic_score": 0.06
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.27,
+      "experience_contribution": 0.188,
+      "education_contribution": 0.036,
+      "semantic_contribution": 0.012
+    },
+    "ats_score": 51,
+    "normalized_final_score": 0.44,
+    "confidence_score": {
+      "value": 0.57,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 50.6,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.506,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.949963+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.44,
+      "education_score": 0.51,
+      "semantic_score": 0.09
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.252,
+      "experience_contribution": 0.176,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.018
+    },
+    "ats_score": 50,
+    "normalized_final_score": 0.41,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 49.7,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.497,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.26,
+      "education_score": 0.53,
+      "semantic_score": 0.12
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.27,
+      "experience_contribution": 0.104,
+      "education_contribution": 0.053,
+      "semantic_contribution": 0.024
+    },
+    "ats_score": 45,
+    "normalized_final_score": 0.3,
+    "confidence_score": {
+      "value": 0.59,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 45.1,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.451,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.1,
+      "education_score": 0.46,
+      "semantic_score": 0.16
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.27,
+      "experience_contribution": 0.04,
+      "education_contribution": 0.046,
+      "semantic_contribution": 0.032
+    },
+    "ats_score": 39,
+    "normalized_final_score": 0.15,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 38.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.388,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.950966+00:00"
+    }
+  },
+  {
+    "job_id": "clinical_trials_data_manager_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.03,
+      "education_score": 0.35,
+      "semantic_score": 0.2
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.24,
+      "experience_contribution": 0.012,
+      "education_contribution": 0.035,
+      "semantic_contribution": 0.04
+    },
+    "ats_score": 33,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.62,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 32.7,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.3,
+        "experience": 0.4,
+        "education": 0.1,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.327,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:49.951957+00:00"
+    }
+  }
+]

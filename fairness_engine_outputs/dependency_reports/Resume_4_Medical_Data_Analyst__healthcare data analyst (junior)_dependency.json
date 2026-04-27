@@ -1,0 +1,51 @@
+{
+  "resume_id": "Resume_4_Medical_Data_Analyst",
+  "job_role": "healthcare data analyst (junior)",
+  "canonical_skills": [
+    "clinical decision support",
+    "disease patterns",
+    "medical terminology",
+    "and healthcare workflows. committed to data",
+    "predictive modeling",
+    "privacy",
+    "accuracy",
+    "data privacy"
+  ],
+  "canonical_jd_skills": [
+    "analytical thinking",
+    "attention to detail",
+    "data analysis",
+    "data extraction",
+    "data visualization",
+    "excel",
+    "python",
+    "sql",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "analytical thinking": [],
+    "attention to detail": [],
+    "data analysis": [],
+    "data extraction": [],
+    "data visualization": [],
+    "excel": [
+      "excel"
+    ],
+    "python": [
+      "conditions. python (scikit-learn)",
+      "built predictive models to flag high-risk patients using python and scikit-learn."
+    ],
+    "sql": [
+      "identified correlations between treatment protocols and patient readmission rates. sql"
+    ],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 30.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.447781+00:00"
+}

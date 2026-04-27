@@ -1,0 +1,33 @@
+{
+  "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "job_role": "healthcare reporting analyst",
+  "canonical_skills": [
+    "adept at inputting",
+    "verifying",
+    "medical billing",
+    "regulatory",
+    "record organization",
+    "compliance",
+    "accuracy & qc"
+  ],
+  "canonical_jd_skills": [
+    "communication skills",
+    "data analysis",
+    "data visualization",
+    "power bi",
+    "tableau"
+  ],
+  "contextual_evidence": {
+    "communication skills": [],
+    "data analysis": [],
+    "data visualization": [],
+    "power bi": [],
+    "tableau": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.712563+00:00"
+}

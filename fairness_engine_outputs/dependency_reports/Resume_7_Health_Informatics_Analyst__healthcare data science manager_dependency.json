@@ -1,0 +1,32 @@
+{
+  "resume_id": "Resume_7_Health_Informatics_Analyst",
+  "job_role": "healthcare data science manager",
+  "canonical_skills": [
+    "clinical data analysis",
+    "population health analytics",
+    "ehr optimization",
+    "interoperability (hl7/fhir)",
+    "and population health reporting. passionate about",
+    "quality reporting (hedis)",
+    "outcomes.",
+    "clinical workflow design"
+  ],
+  "canonical_jd_skills": [
+    "ai",
+    "leadership",
+    "ml"
+  ],
+  "contextual_evidence": {
+    "ai": [],
+    "leadership": [
+      "trained clinical staff on data documentation best practices improving data quality. leadership"
+    ],
+    "ml": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 33.33,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:49.221140+00:00"
+}

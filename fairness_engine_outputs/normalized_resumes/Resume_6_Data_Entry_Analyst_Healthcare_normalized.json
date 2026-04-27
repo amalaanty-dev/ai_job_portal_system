@@ -1,0 +1,79 @@
+{
+  "candidate_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "personal_info": {
+    "name": "Marcus Webb",
+    "email": "marcus.webb@email.com",
+    "phone": "+1 (713) 555-0671",
+    "location": "Houston, TX",
+    "linkedin": "linkedin.com/in/marcuswebb"
+  },
+  "professional_summary": "CORE SKILLS Accurate and efficient data entry analyst with 2 years in healthcare data management. (cid:127) High-Speed Data Entry Adept at inputting, verifying, and maintaining large volumes of patient and medical data (cid:127) Data Validation (cid:127) Medical Billing with exceptional speed and precision. Committed to data confidentiality, regulatory (cid:127) Record Organization compliance, and supporting healthcare operations through reliable data management. (cid:127) Accuracy & QC WORK EXPERIENCE (cid:127) Confidentiality Healthcare Data Entry Analyst TOOLS & Houston Methodist Hospital · Mar 2022 – Present TECHNOLOGIES (cid:127) Entered and updated 500+ patient records daily with 99.9% accuracy rate. (cid:127) Microsoft Excel (cid:127) Identified and corrected data discrepancies in insurance and billing records. (cid:127) Epic EHR (cid:127) Maintained strict data confidentiality in compliance with HIPAA regulations. (cid:127) Medisoft (cid:127) Google Workspace (cid:127) Organized and archived medical records per hospital retention policies. (cid:127) Kareo (cid:127) Generated basic weekly data summaries for department managers. (cid:127) ICD-10/CPT Codes Data Entry Operator LANGUAGES Aetna Insurance – Health Division · Jul 2021 – Feb 2022 (cid:127) English (Native) (cid:127) Processed 300+ insurance claims daily ensuring completeness and accuracy.",
+  "skills": {
+    "programming": [],
+    "ml_ai": [
+      "adept at inputting",
+      "verifying"
+    ],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "adept at inputting",
+      "verifying",
+      "medical billing",
+      "regulatory",
+      "record organization",
+      "compliance",
+      "accuracy & qc"
+    ]
+  },
+  "experience": {
+    "total_years": 4.8,
+    "roles": [
+      {
+        "job_title": "Healthcare Data Entry Analyst TOOLS &",
+        "company": "Houston Methodist Hospital ·",
+        "start_date": "2022-03-01",
+        "end_date": "2026-04-19",
+        "duration_months": 50,
+        "duties": [
+          "Entered and updated 500+ patient records daily with 99.9% accuracy rate. Microsoft Excel",
+          "Identified and corrected data discrepancies in insurance and billing records. Epic EHR",
+          "Maintained strict data confidentiality in compliance with HIPAA regulations. Medisoft",
+          "Google Workspace",
+          "Organized and archived medical records per hospital retention policies.",
+          "Kareo",
+          "Generated basic weekly data summaries for department managers.",
+          "ICD-10/CPT Codes",
+          "Data Entry Operator"
+        ]
+      },
+      {
+        "job_title": "Data Entry Operator LANGUAGES",
+        "company": "Aetna Insurance - Health Division ·",
+        "start_date": "2021-07-01",
+        "end_date": "2022-02-01",
+        "duration_months": 8,
+        "duties": [
+          "Processed 300+ insurance claims daily ensuring completeness and accuracy.",
+          "Collaborated with billing team to resolve coding and data entry errors. Attention to Detail",
+          "Utilized internal CRM and claims management software efficiently. Time Management"
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "certifications": [
+    "Certificate in Medical Billing & Coding",
+    "Certified Medical Administrative Assistant (CMAA) – NHA (2022)",
+    "HIPAA Compliance Training – MedTrainer (2022)"
+  ],
+  "achievements": [],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_6_Data_Entry_Analyst_Healthcare.json",
+    "normalized_at": "2026-04-27T10:32:48.946186+00:00",
+    "schema_version": "1.0"
+  }
+}

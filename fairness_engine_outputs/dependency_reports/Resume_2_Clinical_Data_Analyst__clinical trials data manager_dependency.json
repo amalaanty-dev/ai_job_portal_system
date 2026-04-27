@@ -1,0 +1,33 @@
+{
+  "resume_id": "Resume_2_Clinical_Data_Analyst",
+  "job_role": "clinical trials data manager",
+  "canonical_skills": [
+    "research support",
+    "validation",
+    "clinical reporting",
+    "and research support. strong knowledge of clinical",
+    "cdisc/sdtm",
+    "workflows",
+    "medical terminology",
+    "and regulatory data standards including ich-gcp and",
+    "regulatory compliance",
+    "cdisc.",
+    "trial reporting"
+  ],
+  "canonical_jd_skills": [
+    "clinical research",
+    "data extraction"
+  ],
+  "contextual_evidence": {
+    "clinical research": [],
+    "data extraction": [
+      "supported research teams with data extraction from redcap and epic clinical twi (native)"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 50.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:45.401312+00:00"
+}

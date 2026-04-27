@@ -1,0 +1,42 @@
+{
+  "resume_id": "Resume_5_Health_Information_Analyst",
+  "job_role": "health informatics specialist",
+  "canonical_skills": [
+    "health information",
+    "ensuring data governance",
+    "data governance",
+    "regulations. skilled in ehr/emr system administration",
+    "data integrity audits",
+    "and health",
+    "record management",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "ehr",
+    "emr",
+    "health informatics",
+    "hl7"
+  ],
+  "contextual_evidence": {
+    "data analysis": [],
+    "ehr": [
+      "conducted monthly data integrity audits, achieving 99.5% record accuracy epic ehr",
+      "supported implementation of new ehr modules, training 40+ clinical staff.",
+      "assisted in transitioning paper-based records to epic ehr system. arabic (conversational)"
+    ],
+    "emr": [
+      "core skills health information analyst with 4 years of experience managing patient health records, (cid:127) health information ensuring data governance, and maintaining compliance with hipaa and othe"
+    ],
+    "health informatics": [],
+    "hl7": [
+      "hl7/fhir"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 60.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.671302+00:00"
+}

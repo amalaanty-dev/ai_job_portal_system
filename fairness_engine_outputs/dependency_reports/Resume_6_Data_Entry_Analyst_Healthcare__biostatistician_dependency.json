@@ -1,0 +1,35 @@
+{
+  "resume_id": "Resume_6_Data_Entry_Analyst_Healthcare",
+  "job_role": "biostatistician",
+  "canonical_skills": [
+    "adept at inputting",
+    "verifying",
+    "medical billing",
+    "regulatory",
+    "record organization",
+    "compliance",
+    "accuracy & qc"
+  ],
+  "canonical_jd_skills": [
+    "clinical research",
+    "r",
+    "sas",
+    "statistical analysis",
+    "statistical modeling",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "clinical research": [],
+    "r": [],
+    "sas": [],
+    "statistical analysis": [],
+    "statistical modeling": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:48.294402+00:00"
+}

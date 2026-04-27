@@ -1,0 +1,546 @@
+{
+  "run_id": "day15_bulk_run",
+  "n_total_candidates": 528,
+  "n_jds": 66,
+  "normalization_method": "min_max",
+  "per_jd_summaries": {
+    "ai_specialist_in_healthcare_analytics_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 1,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "biostatistician_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 3,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "chief_data_officer_healthcare_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "claims_data_analyst_insurance_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 1,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "clinical_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "clinical_data_scientist_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "clinical_informatics_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "clinical_research_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "clinical_trials_data_manager_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "cost_utilization_analyst_healthcare_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 3,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "data_analytics_trainer_healthcare_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 1,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "data_entry_analyst_healthcare_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 3,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "digital_health_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 2,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "director_of_healthcare_analytics_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "ehr_data_analyst_electronic_health_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "ehr_implementation_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "epidemiologist_datafocused_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 4,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "epidemiology_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 2,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "fraud_compliance_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "freelance_healthcare_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "genomics_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 2,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "global_health_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "head_of_health_informatics_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_ai_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 3,
+      "rejected": 2,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_analytics_consultant_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_analytics_manager_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_bi_(business_intelligence)_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R004",
+      "top_score": 1.0
+    },
+    "healthcare_business_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_dashboard_developer_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 3,
+      "rejected": 2,
+      "top_candidate": "R004",
+      "top_score": 1.0
+    },
+    "healthcare_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_data_analyst_(junior)_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_data_architect_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 3,
+      "rejected": 2,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_data_integration_specialist_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_data_science_manager_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 2,
+      "rejected": 2,
+      "top_candidate": "R007",
+      "top_score": 1.0
+    },
+    "healthcare_data_scientist_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 2,
+      "rejected": 2,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_financial_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_machine_learning_engineer_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 1,
+      "rejected": 3,
+      "top_candidate": "R001",
+      "top_score": 1.0
+    },
+    "healthcare_operations_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 3,
+      "rejected": 2,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_outcomes_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_performance_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_program_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_reporting_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R004",
+      "top_score": 1.0
+    },
+    "healthcare_risk_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 0,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "healthcare_statistician_biostatistician_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 3,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "health_informatics_specialist_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "health_information_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 1,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "health_information_systems_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 1,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "health_policy_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 2,
+      "rejected": 3,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "insurance_claims_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 3,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "lead_data_analyst_healthcare_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "medical_billing_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 1,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "medical_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 2,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "patient_experience_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 1,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "population_health_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 1,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "predictive_analytics_specialist_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 3,
+      "rejected": 2,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "public_health_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "public_health_data_analyst_entrylevel_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 4,
+      "on_hold": 0,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "quality_improvement_analyst_(healthcare)_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "real_world_evidence_(rwe)_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "remote_clinical_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "revenue_cycle_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "revenue_cycle_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 0,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "senior_clinical_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 1,
+      "on_hold": 1,
+      "rejected": 6,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "senior_healthcare_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 3,
+      "on_hold": 1,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "telehealth_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 1,
+      "rejected": 5,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    },
+    "wearable_health_data_analyst_parsed_jd": {
+      "n_candidates": 8,
+      "shortlisted": 2,
+      "on_hold": 2,
+      "rejected": 4,
+      "top_candidate": "R003",
+      "top_score": 1.0
+    }
+  },
+  "bias_verdict": "REVIEW_NEEDED",
+  "flags": [
+    {
+      "type": "high_score_variance",
+      "value": 0.617,
+      "threshold": 0.25,
+      "severity": "medium"
+    }
+  ],
+  "ran_at": "2026-04-27T10:32:50.207324+00:00"
+}

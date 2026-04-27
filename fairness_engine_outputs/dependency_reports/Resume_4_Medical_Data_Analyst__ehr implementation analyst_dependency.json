@@ -1,0 +1,30 @@
+{
+  "resume_id": "Resume_4_Medical_Data_Analyst",
+  "job_role": "ehr implementation analyst",
+  "canonical_skills": [
+    "clinical decision support",
+    "disease patterns",
+    "medical terminology",
+    "and healthcare workflows. committed to data",
+    "predictive modeling",
+    "privacy",
+    "accuracy",
+    "data privacy"
+  ],
+  "canonical_jd_skills": [
+    "ehr",
+    "health informatics",
+    "problem solving"
+  ],
+  "contextual_evidence": {
+    "ehr": [],
+    "health informatics": [],
+    "problem solving": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:46.868498+00:00"
+}

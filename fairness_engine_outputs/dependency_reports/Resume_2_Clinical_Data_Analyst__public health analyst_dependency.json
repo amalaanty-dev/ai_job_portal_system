@@ -1,0 +1,45 @@
+{
+  "resume_id": "Resume_2_Clinical_Data_Analyst",
+  "job_role": "public health analyst",
+  "canonical_skills": [
+    "research support",
+    "validation",
+    "clinical reporting",
+    "and research support. strong knowledge of clinical",
+    "cdisc/sdtm",
+    "workflows",
+    "medical terminology",
+    "and regulatory data standards including ich-gcp and",
+    "regulatory compliance",
+    "cdisc.",
+    "trial reporting"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "data visualization",
+    "epidemiology",
+    "python",
+    "r",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "data analysis": [
+      "core skills clinical data analyst with 3 years of experience analyzing patient and clinical trial (cid:127) clinical data analysis datasets to advance medical research and improve care outcomes. skill"
+    ],
+    "data visualization": [],
+    "epidemiology": [],
+    "python": [],
+    "r": [
+      "analyzed clinical trial data for phase ii/iii oncology studies involving 800+ patients. r"
+    ],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 28.57,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:45.946261+00:00"
+}

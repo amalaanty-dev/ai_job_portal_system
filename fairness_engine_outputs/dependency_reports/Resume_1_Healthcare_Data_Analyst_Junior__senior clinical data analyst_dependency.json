@@ -1,0 +1,42 @@
+{
+  "resume_id": "Resume_1_Healthcare_Data_Analyst_Junior",
+  "job_role": "senior clinical data analyst",
+  "canonical_skills": [
+    "data collection & cleaning",
+    "cleaning",
+    "statistical analysis",
+    "data visualization",
+    "excel",
+    "sql",
+    "and python with hands-on experience in healthcare datasets.",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "clinical data analysis",
+    "clinical research",
+    "data analysis",
+    "data validation",
+    "gcp",
+    "r",
+    "sas",
+    "statistical analysis"
+  ],
+  "contextual_evidence": {
+    "clinical data analysis": [],
+    "clinical research": [],
+    "data analysis": [],
+    "data validation": [],
+    "gcp": [],
+    "r": [],
+    "sas": [],
+    "statistical analysis": [
+      "core skills detail-oriented healthcare data analyst with a strong foundation in data collection, (cid:127) data collection & cleaning cleaning, and reporting. passionate about leveraging data to impro"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 12.5,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:45.207412+00:00"
+}

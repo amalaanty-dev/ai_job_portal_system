@@ -1,0 +1,90 @@
+{
+  "candidate_id": "Resume_4_Medical_Data_Analyst",
+  "personal_info": {
+    "name": "James Thornton",
+    "email": "james.thornton@email.com",
+    "phone": "+1 (404) 555-0482",
+    "location": "Atlanta, GA",
+    "linkedin": "linkedin.com/in/jamesthornton"
+  },
+  "professional_summary": "CORE SKILLS Medical data analyst with expertise in analyzing medical records and treatment data to (cid:127) Medical Record Analysis support clinical decision-making and operational efficiency. Strong domain knowledge of (cid:127) ICD-10 Coding (cid:127) Clinical Decision Support disease patterns, medical terminology, and healthcare workflows. Committed to data (cid:127) Predictive Modeling privacy, accuracy, and cross-functional collaboration with healthcare professionals. (cid:127) Data Privacy WORK EXPERIENCE (cid:127) Healthcare Domain Medical Data Analyst Knowledge",
+  "skills": {
+    "programming": [],
+    "ml_ai": [],
+    "frameworks": [],
+    "tools": [],
+    "domain": [],
+    "soft_skills": [],
+    "all_skills_flat": [
+      "clinical decision support",
+      "disease patterns",
+      "medical terminology",
+      "and healthcare workflows. committed to data",
+      "predictive modeling",
+      "privacy",
+      "accuracy",
+      "data privacy"
+    ]
+  },
+  "experience": {
+    "total_years": 5.9,
+    "roles": [
+      {
+        "job_title": "TOOLS &",
+        "company": "Emory Healthcare ·",
+        "start_date": "2022-01-01",
+        "end_date": "2026-04-19",
+        "duration_months": 52,
+        "duties": [
+          "Analyzed 200,000+ medical records to identify treatment patterns for chronic",
+          "conditions. Python (scikit-learn)",
+          "Identified correlations between treatment protocols and patient readmission rates. SQL",
+          "Epic",
+          "Collaborated with physicians and nurses to provide data-backed clinical",
+          "Excel",
+          "R",
+          "Ensured data privacy through strict adherence to HIPAA and institutional policies.",
+          "Cerner",
+          "Built predictive models to flag high-risk patients using Python and scikit-learn.",
+          "Healthcare Data Associate English (Native)"
+        ]
+      },
+      {
+        "job_title": "Piedmont",
+        "company": "Healthcare ·",
+        "start_date": "2020-06-01",
+        "end_date": "2021-12-01",
+        "duration_months": 19,
+        "duties": [
+          "Analyzed 200,000+ medical records to identify treatment patterns for chronic",
+          "conditions. Python (scikit-learn)",
+          "Identified correlations between treatment protocols and patient readmission rates. SQL",
+          "Epic",
+          "Collaborated with physicians and nurses to provide data-backed clinical",
+          "Excel",
+          "R",
+          "Ensured data privacy through strict adherence to HIPAA and institutional policies.",
+          "Cerner",
+          "Built predictive models to flag high-risk patients using Python and scikit-learn.",
+          "Healthcare Data Associate English (Native)"
+        ]
+      }
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "certifications": [
+    "Certificate in Healthcare Data Analytics",
+    "Coursera / Johns Hopkins · 2021",
+    "Registered Health Information Technician (RHIT) – AHIMA (2022)",
+    "Python for Data Science – IBM (2021)"
+  ],
+  "achievements": [
+    "recommendations."
+  ],
+  "metadata": {
+    "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_4_Medical_Data_Analyst.json",
+    "normalized_at": "2026-04-27T10:32:47.470967+00:00",
+    "schema_version": "1.0"
+  }
+}

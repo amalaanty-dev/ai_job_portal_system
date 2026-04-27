@@ -1,0 +1,436 @@
+[
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R003",
+    "candidate_name_masked": "CAND_003",
+    "scores": {
+      "skill_score": 0.87,
+      "experience_score": 0.96,
+      "education_score": 0.68,
+      "semantic_score": 0.52
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.304,
+      "experience_contribution": 0.288,
+      "education_contribution": 0.102,
+      "semantic_contribution": 0.104
+    },
+    "ats_score": 80,
+    "normalized_final_score": 1.0,
+    "confidence_score": {
+      "value": 0.77,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 1,
+      "percentile": 94,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "shortlisted",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "strong_skill_match",
+      "high_potential"
+    ],
+    "audit_trail": {
+      "raw_final_score": 79.85,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.798,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R007",
+    "candidate_name_masked": "CAND_007",
+    "scores": {
+      "skill_score": 0.82,
+      "experience_score": 0.76,
+      "education_score": 0.34,
+      "semantic_score": 0.31
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.287,
+      "experience_contribution": 0.228,
+      "education_contribution": 0.051,
+      "semantic_contribution": 0.062
+    },
+    "ats_score": 63,
+    "normalized_final_score": 0.55,
+    "confidence_score": {
+      "value": 0.68,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 2,
+      "percentile": 81,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "on_hold",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.0,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 62.8,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.628,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.189415+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R004",
+    "candidate_name_masked": "CAND_004",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.48,
+      "education_score": 0.53,
+      "semantic_score": 0.14
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.144,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.028
+    },
+    "ats_score": 57,
+    "normalized_final_score": 0.39,
+    "confidence_score": {
+      "value": 0.61,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 3,
+      "percentile": 69,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 56.65,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.567,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R002",
+    "candidate_name_masked": "CAND_002",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.32,
+      "education_score": 0.53,
+      "semantic_score": 0.27
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.096,
+      "education_contribution": 0.08,
+      "semantic_contribution": 0.054
+    },
+    "ats_score": 54,
+    "normalized_final_score": 0.33,
+    "confidence_score": {
+      "value": 0.66,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 4,
+      "percentile": 56,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 54.45,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.545,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R006",
+    "candidate_name_masked": "CAND_006",
+    "scores": {
+      "skill_score": 0.84,
+      "experience_score": 0.43,
+      "education_score": 0.51,
+      "semantic_score": 0.19
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.294,
+      "experience_contribution": 0.129,
+      "education_contribution": 0.076,
+      "semantic_contribution": 0.038
+    },
+    "ats_score": 54,
+    "normalized_final_score": 0.31,
+    "confidence_score": {
+      "value": 0.64,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 5,
+      "percentile": 44,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match"
+    ],
+    "audit_trail": {
+      "raw_final_score": 53.75,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.537,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R001",
+    "candidate_name_masked": "CAND_001",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.4,
+      "education_score": 0.36,
+      "semantic_score": 0.12
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.12,
+      "education_contribution": 0.054,
+      "semantic_contribution": 0.024
+    },
+    "ats_score": 51,
+    "normalized_final_score": 0.25,
+    "confidence_score": {
+      "value": 0.6,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 6,
+      "percentile": 31,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 51.3,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.513,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R005",
+    "candidate_name_masked": "CAND_005",
+    "scores": {
+      "skill_score": 0.9,
+      "experience_score": 0.1,
+      "education_score": 0.46,
+      "semantic_score": 0.29
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.315,
+      "experience_contribution": 0.03,
+      "education_contribution": 0.069,
+      "semantic_contribution": 0.058
+    },
+    "ats_score": 47,
+    "normalized_final_score": 0.14,
+    "confidence_score": {
+      "value": 0.65,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 7,
+      "percentile": 19,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "strong_skill_match",
+      "experience_gap"
+    ],
+    "audit_trail": {
+      "raw_final_score": 47.2,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.472,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.188376+00:00"
+    }
+  },
+  {
+    "job_id": "senior_clinical_data_analyst_parsed_jd",
+    "resume_id": "R008",
+    "candidate_name_masked": "CAND_008",
+    "scores": {
+      "skill_score": 0.8,
+      "experience_score": 0.1,
+      "education_score": 0.35,
+      "semantic_score": 0.28
+    },
+    "weighted_scores": {
+      "skill_contribution": 0.28,
+      "experience_contribution": 0.03,
+      "education_contribution": 0.052,
+      "semantic_contribution": 0.056
+    },
+    "ats_score": 42,
+    "normalized_final_score": 0.0,
+    "confidence_score": {
+      "value": 0.66,
+      "method": "completeness + semantic_strength + consistency"
+    },
+    "ranking": {
+      "rank": 8,
+      "percentile": 6,
+      "total_candidates": 8,
+      "method": "score_descending"
+    },
+    "status": "rejected",
+    "fairness_adjustments": {
+      "keyword_bias_reduction": 0.0,
+      "experience_bias_correction": 0.02,
+      "education_standardization": 0.0
+    },
+    "flags": [
+      "low_semantic_match",
+      "experience_gap",
+      "education_mismatch"
+    ],
+    "audit_trail": {
+      "raw_final_score": 41.85,
+      "normalized_method": "min_max",
+      "weights_used": {
+        "skill": 0.35,
+        "experience": 0.3,
+        "education": 0.15,
+        "semantic": 0.2
+      },
+      "calculation_check": {
+        "weighted_sum": 0.418,
+        "rounding_applied": true
+      },
+      "normalized_at": "2026-04-27T10:32:50.189415+00:00"
+    }
+  }
+]

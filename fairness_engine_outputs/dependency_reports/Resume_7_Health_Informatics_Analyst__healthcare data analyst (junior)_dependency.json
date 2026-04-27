@@ -1,0 +1,46 @@
+{
+  "resume_id": "Resume_7_Health_Informatics_Analyst",
+  "job_role": "healthcare data analyst (junior)",
+  "canonical_skills": [
+    "clinical data analysis",
+    "population health analytics",
+    "ehr optimization",
+    "interoperability (hl7/fhir)",
+    "and population health reporting. passionate about",
+    "quality reporting (hedis)",
+    "outcomes.",
+    "clinical workflow design"
+  ],
+  "canonical_jd_skills": [
+    "analytical thinking",
+    "attention to detail",
+    "data analysis",
+    "data extraction",
+    "data visualization",
+    "excel",
+    "python",
+    "sql",
+    "statistical analysis",
+    "statistics"
+  ],
+  "contextual_evidence": {
+    "analytical thinking": [],
+    "attention to detail": [],
+    "data analysis": [
+      "core skills health informatics analyst bridging clinical operations and data technology to drive (cid:127) health informatics smarter healthcare delivery. experienced in ehr optimization, clinical dat"
+    ],
+    "data extraction": [],
+    "data visualization": [],
+    "excel": [],
+    "python": [],
+    "sql": [],
+    "statistical analysis": [],
+    "statistics": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 10.0,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:49.462303+00:00"
+}

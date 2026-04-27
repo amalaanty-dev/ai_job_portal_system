@@ -1,0 +1,34 @@
+{
+  "resume_id": "Resume_7_Health_Informatics_Analyst",
+  "job_role": "digital health analyst",
+  "canonical_skills": [
+    "clinical data analysis",
+    "population health analytics",
+    "ehr optimization",
+    "interoperability (hl7/fhir)",
+    "and population health reporting. passionate about",
+    "quality reporting (hedis)",
+    "outcomes.",
+    "clinical workflow design"
+  ],
+  "canonical_jd_skills": [
+    "data analysis",
+    "data visualization",
+    "health informatics"
+  ],
+  "contextual_evidence": {
+    "data analysis": [
+      "core skills health informatics analyst bridging clinical operations and data technology to drive (cid:127) health informatics smarter healthcare delivery. experienced in ehr optimization, clinical dat"
+    ],
+    "data visualization": [],
+    "health informatics": [
+      "core skills health informatics analyst bridging clinical operations and data technology to drive (cid:127) health informatics smarter healthcare delivery. experienced in ehr optimization, clinical dat"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 66.67,
+  "buzzword_count": 1,
+  "fluff_penalty": 2,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:49.033666+00:00"
+}

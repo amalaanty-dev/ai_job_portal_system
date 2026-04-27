@@ -1,0 +1,42 @@
+{
+  "resume_id": "Resume_5_Health_Information_Analyst",
+  "job_role": "clinical data scientist",
+  "canonical_skills": [
+    "health information",
+    "ensuring data governance",
+    "data governance",
+    "regulations. skilled in ehr/emr system administration",
+    "data integrity audits",
+    "and health",
+    "record management",
+    "hipaa compliance"
+  ],
+  "canonical_jd_skills": [
+    "clinical data analysis",
+    "clinical research",
+    "data analysis",
+    "gcp",
+    "healthcare analytics",
+    "predictive modeling",
+    "r",
+    "sas",
+    "statistical modeling"
+  ],
+  "contextual_evidence": {
+    "clinical data analysis": [],
+    "clinical research": [],
+    "data analysis": [],
+    "gcp": [],
+    "healthcare analytics": [],
+    "predictive modeling": [],
+    "r": [],
+    "sas": [],
+    "statistical modeling": []
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 0.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Low keyword dependency - skills well demonstrated",
+  "analyzed_at": "2026-04-27T10:32:47.517228+00:00"
+}

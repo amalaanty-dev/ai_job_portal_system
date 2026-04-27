@@ -1,0 +1,35 @@
+{
+  "resume_id": "Resume_2_Clinical_Data_Analyst",
+  "job_role": "remote clinical data analyst",
+  "canonical_skills": [
+    "research support",
+    "validation",
+    "clinical reporting",
+    "and research support. strong knowledge of clinical",
+    "cdisc/sdtm",
+    "workflows",
+    "medical terminology",
+    "and regulatory data standards including ich-gcp and",
+    "regulatory compliance",
+    "cdisc.",
+    "trial reporting"
+  ],
+  "canonical_jd_skills": [
+    "clinical data analysis",
+    "data analysis"
+  ],
+  "contextual_evidence": {
+    "clinical data analysis": [
+      "core skills clinical data analyst with 3 years of experience analyzing patient and clinical trial (cid:127) clinical data analysis datasets to advance medical research and improve care outcomes. skill"
+    ],
+    "data analysis": [
+      "core skills clinical data analyst with 3 years of experience analyzing patient and clinical trial (cid:127) clinical data analysis datasets to advance medical research and improve care outcomes. skill"
+    ]
+  },
+  "keyword_dependency_ratio": 0.0,
+  "context_adjusted_skill_score": 100.0,
+  "buzzword_count": 0,
+  "fluff_penalty": 0,
+  "interpretation": "Strong contextual evidence for required skills",
+  "analyzed_at": "2026-04-27T10:32:45.983285+00:00"
+}

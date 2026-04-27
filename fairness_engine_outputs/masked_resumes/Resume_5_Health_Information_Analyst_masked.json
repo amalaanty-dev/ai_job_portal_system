@@ -1,0 +1,123 @@
+{
+  "masked_resume": {
+    "candidate_id": "Resume_5_Health_Information_Analyst",
+    "personal_info": {
+      "name": "[CANDIDATE_NAME]",
+      "email": "[EMAIL_REDACTED]",
+      "phone": "[PHONE_REDACTED]",
+      "location": "[LOCATION_REDACTED]",
+      "linkedin": "[LINKEDIN_REDACTED]"
+    },
+    "professional_summary": "CORE SKILLS Health information analyst with 4 years of experience managing patient health records, (cid:127) Health Information ensuring data governance, and maintaining compliance with HIPAA and other healthcare Management (cid:127) Data Governance regulations. Skilled in EHR/EMR system administration, data integrity audits, and health (cid:127) Record Management information reporting for hospital quality and compliance departments. (cid:127) HIPAA Compliance WORK EXPERIENCE (cid:127) EHR Administration Health Information Analyst (cid:127) Audit & Reporting",
+    "skills": {
+      "programming": [],
+      "ml_ai": [
+        "ensuring data governance"
+      ],
+      "frameworks": [],
+      "tools": [],
+      "domain": [],
+      "soft_skills": [],
+      "all_skills_flat": [
+        "health information",
+        "ensuring data governance",
+        "data governance",
+        "regulations. skilled in ehr/emr system administration",
+        "data integrity audits",
+        "and health",
+        "record management",
+        "hipaa compliance"
+      ]
+    },
+    "experience": {
+      "total_years": 7.3,
+      "roles": [
+        {
+          "job_title": "TOOLS &",
+          "company": "MedStar Health ·",
+          "start_date": "2020-09-01",
+          "end_date": "2026-04-19",
+          "duration_months": 68,
+          "duties": [
+            "Managed patient health records across Epic and legacy systems for 12 facilities.",
+            "Conducted monthly data integrity audits, achieving 99.5% record accuracy Epic EHR",
+            "compliance. Cerner",
+            "MedConnect",
+            "Generated HIPAA-compliant health information reports for regulatory submissions.",
+            "Microsoft Excel",
+            "Supported implementation of new EHR modules, training 40+ clinical staff.",
+            "SQL",
+            "Responded to medical record requests ensuring regulatory turnaround deadlines.",
+            "HL7/FHIR",
+            "Health Records Technician",
+            "George Washington University Hospital · Jan 2019 – Aug 2020 English (Fluent)",
+            "Maintained and organized physical and digital patient records per [GENDER_REDACTED] standards. Urdu (Native)",
+            "Assisted in transitioning paper-based records to Epic EHR system. Arabic (Conversational)",
+            "Processed release of information (ROI) requests under HIPAA guidelines.",
+            "Attention to Detail"
+          ]
+        },
+        {
+          "job_title": "Health Records Technician LANGUAGES",
+          "company": "George Washington University Hospital ·",
+          "start_date": "2019-01-01",
+          "end_date": "2020-08-01",
+          "duration_months": 20,
+          "duties": []
+        }
+      ]
+    },
+    "education": [],
+    "projects": [],
+    "certifications": [
+      "Registered Health Information Administrator (RHIA) – AHIMA (2021)",
+      "HIPAA Privacy & Security Officer Certification (2020)",
+      "Epic [GENDER_REDACTED] Certified (2020)"
+    ],
+    "achievements": [],
+    "metadata": {
+      "source_file": "data\\resumes\\parsed_resumes\\json\\Resume_5_Health_Information_Analyst.json",
+      "normalized_at": "2026-04-27T10:32:48.259282+00:00",
+      "schema_version": "1.0"
+    }
+  },
+  "audit": {
+    "resume_id": "Resume_5_Health_Information_Analyst",
+    "masked_fields": [
+      "name",
+      "email",
+      "phone",
+      "location",
+      "linkedin"
+    ],
+    "mask_count_per_field": {
+      "name": 1,
+      "email": 1,
+      "phone": 1,
+      "location": 1,
+      "linkedin": 1,
+      "email_in_text": 0,
+      "phone_in_text": 0,
+      "name_in_text": 0,
+      "url_in_text": 0,
+      "gender": 2,
+      "marital_status": 0,
+      "age": 0
+    },
+    "total_masks_applied": 7,
+    "mask_profile": {
+      "name": true,
+      "email": true,
+      "phone": true,
+      "location": true,
+      "linkedin": true,
+      "gender": true,
+      "age": true,
+      "photo": true,
+      "marital_status": true,
+      "caste_religion": false,
+      "college_tier": false
+    },
+    "masked_at": "2026-04-27T10:32:48.272464+00:00"
+  }
+}
