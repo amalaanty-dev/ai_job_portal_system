@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C1AFD7F6E6D",
+  "job_id": "JFCF3005835",
+  "final_score": 42.14,
+  "breakdown": {
+    "skills": 16.67,
+    "experience": 100.0,
+    "education": 60.0,
+    "semantic": 18.18
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:54Z"
+}

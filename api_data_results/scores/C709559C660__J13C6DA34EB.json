@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C709559C660",
+  "job_id": "J13C6DA34EB",
+  "final_score": 32.06,
+  "breakdown": {
+    "skills": 0.0,
+    "experience": 90.0,
+    "education": 60.0,
+    "semantic": 17.78
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:58Z"
+}

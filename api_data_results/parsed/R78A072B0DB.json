@@ -1,0 +1,47 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "R78A072B0DB",
+  "candidate_id": "C6A0BD3F6F1",
+  "parsed_profile": {
+    "name": "James Thornton",
+    "email": "james.thornton@email.com",
+    "phone": "+1 (404) 555-0482",
+    "skills": [
+      "Cerner",
+      "Data Analytics",
+      "Excel",
+      "HIPAA",
+      "Icd-10",
+      "Problem Solving",
+      "Python",
+      "SQL",
+      "Scikit-Learn"
+    ],
+    "experience": [
+      {
+        "role": "TOOLS &",
+        "company": "Emory Healthcare",
+        "duration": "Jan 2022 – Present"
+      },
+      {
+        "role": "Healthcare Data Associate English (Native)",
+        "company": "Piedmont Healthcare",
+        "duration": "Jun 2020 – Dec 2021"
+      }
+    ],
+    "education": [
+      "B.S. in Biological Sciences",
+      "Georgia State University · 2020",
+      "Certificate in Healthcare Data Analytics",
+      "Coursera / Johns Hopkins · 2021"
+    ],
+    "certifications": [
+      "Registered Health Information Technician (RHIT) – AHIMA (2022)",
+      "Python for Data Science – IBM (2021)"
+    ],
+    "projects": [],
+    "total_experience_years": 6.0,
+    "raw_text_preview": "James Thornton\nMedical Data Analyst\njames.thornton@email.com | +1 (404) 555-0482 | Atlanta, GA | linkedin.com/in/jamesthornton\nPROFESSIONAL SUMMARY CORE SKILLS\nMedical data analyst with expertise in analyzing medical records and treatment data to Medical Record Analysis\nsupport clinical decision-making and operational efficiency. Strong domain knowledge of ICD-10 Coding\n Clinical Decision Support\ndisease patterns, medical terminology, and healthcare workflows. Committed to data\n Predictive Model"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}

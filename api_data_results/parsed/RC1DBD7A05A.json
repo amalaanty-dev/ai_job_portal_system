@@ -1,0 +1,45 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "RC1DBD7A05A",
+  "candidate_id": "C7A1C88C98C",
+  "parsed_profile": {
+    "name": "Daniel Osei",
+    "email": "daniel.osei@email.com",
+    "phone": "+1 (617) 555-0293",
+    "skills": [
+      "Clinical Data",
+      "Data Analysis",
+      "Excel",
+      "GCP",
+      "Oracle"
+    ],
+    "experience": [
+      {
+        "role": "Clinical Data Analyst TECHNOLOGIES",
+        "company": "Brigham and Women's Hospital",
+        "duration": "Mar 2022 – Present"
+      },
+      {
+        "role": "Research Data Coordinator LANGUAGES",
+        "company": "Massachusetts General Hospital",
+        "duration": "Jul 2021 – Feb 2022"
+      }
+    ],
+    "education": [
+      "Collaboration",
+      "M.S. in Biomedical Informatics",
+      "Boston University · 2021",
+      "B.S. in Biochemistry",
+      "University of Ghana · 2019"
+    ],
+    "certifications": [
+      "Certified Clinical Data Manager (CCDM) – SCDM (2023)",
+      "ICH-GCP Training Certificate (2022)",
+      "CDISC SDTM Fundamentals (2022)"
+    ],
+    "projects": [],
+    "total_experience_years": 3.0,
+    "raw_text_preview": "Daniel Osei\nClinical Data Analyst\ndaniel.osei@email.com | +1 (617) 555-0293 | Boston, MA | linkedin.com/in/danielosei\nPROFESSIONAL SUMMARY CORE SKILLS\nClinical data analyst with 3 years of experience analyzing patient and clinical trial Clinical Data Analysis\ndatasets to advance medical research and improve care outcomes. Skilled in data Data Validation\n Research Support\nvalidation, clinical reporting, and research support. Strong knowledge of clinical\n CDISC/SDTM\nworkflows, medical terminology,"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}

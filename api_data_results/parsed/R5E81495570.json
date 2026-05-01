@@ -1,0 +1,48 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "R5E81495570",
+  "candidate_id": "C9653934BC7",
+  "parsed_profile": {
+    "name": "Priya Menon",
+    "email": "priya.menon@email.com",
+    "phone": "+1 (312) 555-0184",
+    "skills": [
+      "Data Analytics",
+      "Data Cleaning",
+      "Data Visualization",
+      "EHR",
+      "Excel",
+      "HIPAA",
+      "Healthcare Reporting",
+      "Mysql",
+      "Pandas",
+      "Patient Outcomes",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistical Analysis",
+      "Tableau"
+    ],
+    "experience": [
+      {
+        "role": "Junior Data Analyst Intern TOOLS &",
+        "company": "Northwestern Medicine",
+        "duration": "Jun 2023 – Dec 2023"
+      },
+      {
+        "role": "Data Analyst (Part-time) LANGUAGES",
+        "company": "Community Health Network",
+        "duration": "Jan 2023 – May 2023"
+      }
+    ],
+    "education": [],
+    "certifications": [
+      "Google Data Analytics Professional Certificate (2023)",
+      "HIPAA Compliance Training – AHIMA (2022)"
+    ],
+    "projects": [],
+    "total_experience_years": 4.0,
+    "raw_text_preview": "Priya Menon\nHealthcare Data Analyst (Junior)\npriya.menon@email.com | +1 (312) 555-0184 | Chicago, IL | linkedin.com/in/priyamenon\nPROFESSIONAL SUMMARY CORE SKILLS\nDetail-oriented healthcare data analyst with a strong foundation in data collection, Data Collection & Cleaning\ncleaning, and reporting. Passionate about leveraging data to improve patient outcomes Healthcare Reporting\n Statistical Analysis\nand support data-driven decision-making within healthcare organizations. Proficient in\n Data Vis"
+  },
+  "generated_at": "2026-05-01T06:47:20Z"
+}

@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C7A1C88C98C",
+  "job_id": "JAD2405F575",
+  "final_score": 41.6,
+  "breakdown": {
+    "skills": 25.0,
+    "experience": 80.0,
+    "education": 60.0,
+    "semantic": 21.74
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:47:57Z"
+}

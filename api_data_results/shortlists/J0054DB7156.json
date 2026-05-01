@@ -1,0 +1,15 @@
+{
+  "job_id": "J0054DB7156",
+  "total_candidates": 8,
+  "shortlisted": 1,
+  "candidates": [
+    {
+      "candidate_id": "C1AAB0D86CD",
+      "score": 71.9,
+      "status": "Shortlisted",
+      "rank": 1
+    }
+  ],
+  "artifact_type": "shortlist",
+  "generated_at": "2026-05-01T06:49:05Z"
+}

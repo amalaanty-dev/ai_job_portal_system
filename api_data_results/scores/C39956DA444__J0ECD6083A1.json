@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C39956DA444",
+  "job_id": "J0ECD6083A1",
+  "final_score": 45.45,
+  "breakdown": {
+    "skills": 33.33,
+    "experience": 85.0,
+    "education": 60.0,
+    "semantic": 16.0
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:47:35Z"
+}

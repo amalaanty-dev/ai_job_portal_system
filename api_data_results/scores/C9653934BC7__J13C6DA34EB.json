@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C9653934BC7",
+  "job_id": "J13C6DA34EB",
+  "final_score": 73.11,
+  "breakdown": {
+    "skills": 100.0,
+    "experience": 90.0,
+    "education": 30.0,
+    "semantic": 13.04
+  },
+  "matched_status": "Shortlisted",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:49Z"
+}

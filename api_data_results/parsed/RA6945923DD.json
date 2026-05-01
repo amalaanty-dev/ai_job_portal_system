@@ -1,0 +1,101 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "RA6945923DD",
+  "candidate_id": "C39956DA444",
+  "parsed_profile": {
+    "name": "Amala P Anty",
+    "email": "amalaanty@gmail.com",
+    "phone": "+91 9037394914",
+    "skills": [
+      "ANN",
+      "Advanced Excel",
+      "CNN",
+      "Chatbot",
+      "Ci/Cd",
+      "Classification",
+      "Clustering",
+      "Data Analytics",
+      "Data Cleaning",
+      "Data Visualization",
+      "Data Wrangling",
+      "Deep Learning",
+      "Dialog Management",
+      "EDA",
+      "Excel",
+      "Feature Engineering",
+      "Git",
+      "Hyperparameter Tuning",
+      "Intent Classification",
+      "Jenkins",
+      "Jira",
+      "Keras",
+      "LLM",
+      "Machine Learning",
+      "Matplotlib",
+      "NER",
+      "NLP",
+      "Numpy",
+      "PCA",
+      "Pandas",
+      "Pivot Tables",
+      "Postman",
+      "Python",
+      "RNN",
+      "Regex",
+      "Regression",
+      "SQL",
+      "Scikit-Learn",
+      "Seaborn",
+      "Sentiment Analysis",
+      "Statistical Analysis",
+      "Streamlit",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "experience": [
+      {
+        "role": "Data Engineer II",
+        "company": "Gupshup Technologies India Pvt. Ltd.",
+        "duration": "Jul 2021 – Dec 2024"
+      },
+      {
+        "role": "Deputy Manager – Banking Operations",
+        "company": "Axis Bank",
+        "duration": "Oct 2020 – Nov 2021"
+      },
+      {
+        "role": "Deputy Manager – Home Loans",
+        "company": "ICICI Bank",
+        "duration": "Oct 2019 – Nov 2020"
+      }
+    ],
+    "education": [
+      "MBA – Finance & Marketing 2016 – 2018",
+      "Rajagiri College of Social Sciences (Autonomous), RCBS | 70%",
+      "BBA – Business Administration 2013 – 2016",
+      "Rajagiri College of Management and Applied Sciences, RCMAS | 84%"
+    ],
+    "certifications": [],
+    "projects": [
+      {
+        "title": "E-Commerce Customer Churn Prediction | Supervised Learning | Classification",
+        "description": " Built an XGBoost classifier to predict customer churn with 92.09% accuracy using Python and scikit-learn.  Performed feature engineering, missing value treatment, and GridSearchCV-based hyperparameter tuning.  Evaluated model with Accuracy, Precision, Recall, and F1-Score to optimize for business-critical false-negative reduction.  Deployed as an interactive Streamlit web app with real-time prediction"
+      },
+      {
+        "title": "Brain Tumor Detection using CNN | Deep Learning | Image Classification",
+        "description": " Developed a Convolutional Neural Network (CNN) to classify MRI brain scans as tumor-positive or tumor-negative using TensorFlow and Keras.  Applied image preprocessing, data augmentation, and transfer learning by using cnn architecture MobileNetV2 to improve model generalization and robustness.  Evaluated model performance using Accuracy, Precision, Recall, and F1-Score; achieved high classification accuracy on the test dataset.  Built an end-to-end inference pipeline deployable via a Streamlit web application for real-time predictions."
+      },
+      {
+        "title": "Titanic Survival Prediction | Supervised Learning | Classification",
+        "description": "Developed a binary classification model using XGBoost with feature engineering and hyperparameter tuning, achieving 80.09% accuracy on test data and deployed as an interactive Streamlit web app with real-time prediction"
+      },
+      {
+        "title": "Credit Card Customer Segmentation | Unsupervised Learning | Clustering",
+        "description": " Segmented customers using KMeans Clustering and PCA for dimensionality reduction; visualized cluster profiles with Matplotlib and Seaborn to derive actionable insights."
+      }
+    ],
+    "total_experience_years": 3.5,
+    "raw_text_preview": "AMALA P ANTY\nData Analyst | Data Scientist | NLP & Conversational AI Specialist\nBangalore, Karnataka, India • +91 9037394914 • amalaanty@gmail.com\nPROFESSIONAL SUMMARY\nResults-driven Data Scientist and Data Analyst with 3.5+ years of experience in NLP, machine learning, and conversational AI\nfor large-scale BFSI clients. Proven expertise in building and validating ML models, designing knowledge graphs (ontology)\n,performing statistical analysis, Automation using Jenkins and delivering data-drive"
+  },
+  "generated_at": "2026-05-01T06:47:20Z"
+}

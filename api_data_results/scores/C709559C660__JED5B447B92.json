@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C709559C660",
+  "job_id": "JED5B447B92",
+  "final_score": 17.3,
+  "breakdown": {
+    "skills": 0.0,
+    "experience": 35.0,
+    "education": 60.0,
+    "semantic": 12.77
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:24Z"
+}

@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C6A0BD3F6F1",
+  "job_id": "JCDC7794FAC",
+  "final_score": 33.35,
+  "breakdown": {
+    "skills": 0.0,
+    "experience": 100.0,
+    "education": 60.0,
+    "semantic": 11.76
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:14Z"
+}

@@ -1,0 +1,8 @@
+"Amala_Resume_DS_DA_2026_",
+"Resume_1_Healthcare_Data_Analyst_Junior",
+"Resume_2_Clinical_Data_Analyst",
+"Resume_3_Healthcare_Reporting_Analyst",
+"Resume_4_Medical_Data_Analyst",
+"Resume_5_Health_Information_Analyst",
+"Resume_6_Data_Entry_Analyst_Healthcare",
+"Resume_7_Health_Informatics_Analyst",

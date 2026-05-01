@@ -1,0 +1,57 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "R31DC29ACD4",
+  "candidate_id": "C1AAB0D86CD",
+  "parsed_profile": {
+    "name": "Chloe Park",
+    "email": "chloe.park@email.com",
+    "phone": "+1 (503) 555-0792",
+    "skills": [
+      "Azure",
+      "Clinical Data",
+      "Clinical Workflow",
+      "Communication",
+      "Data Analysis",
+      "EHR",
+      "FHIR",
+      "Go",
+      "HL7",
+      "Health Informatics",
+      "Hedis",
+      "Leadership",
+      "Population Health",
+      "Python",
+      "Quality Reporting",
+      "SQL",
+      "SQL Server",
+      "Tableau"
+    ],
+    "experience": [
+      {
+        "role": "Health Informatics Analyst TECHNOLOGIES",
+        "company": "OHSU (Oregon Health & Science University)",
+        "duration": "Aug 2021 – Present"
+      },
+      {
+        "role": "Clinical Informatics Coordinator Korean (Conversational)",
+        "company": "Legacy Health System",
+        "duration": "May 2019 – Jul 2021"
+      }
+    ],
+    "education": [
+      "M.S. in Health Informatics",
+      "Oregon Health & Science University · 2021",
+      "B.S. in Computer Science",
+      "University of Oregon · 2019"
+    ],
+    "certifications": [
+      "AMIA Health Informatics Certification (AHIC) – 2023",
+      "Epic Certified Application Analyst (2022)",
+      "HL7 FHIR Proficiency – HL7 International (2022)"
+    ],
+    "projects": [],
+    "total_experience_years": 7.0,
+    "raw_text_preview": "Chloe Park\nHealth Informatics Analyst\nchloe.park@email.com | +1 (503) 555-0792 | Portland, OR | linkedin.com/in/chloepark\nPROFESSIONAL SUMMARY CORE SKILLS\nHealth informatics analyst bridging clinical operations and data technology to drive Health Informatics\nsmarter healthcare delivery. Experienced in EHR optimization, clinical data analysis, Population Health Analytics\n EHR Optimization\ninteroperability (HL7/FHIR), and population health reporting. Passionate about\n Interoperability (HL7/FHIR)\nt"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}

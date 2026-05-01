@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C7049C498F3",
+  "job_id": "J462355A018",
+  "final_score": 27.11,
+  "breakdown": {
+    "skills": 10.0,
+    "experience": 70.0,
+    "education": 30.0,
+    "semantic": 10.53
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:48:28Z"
+}

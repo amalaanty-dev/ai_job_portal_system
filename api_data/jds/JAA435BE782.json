@@ -1,0 +1,22 @@
+{
+  "job_id": "JAA435BE782",
+  "job_title": "healthcare data scientist",
+  "required_skills": [
+    "data visualization",
+    "ehr",
+    "machine learning",
+    "predictive modeling",
+    "python",
+    "r",
+    "sql"
+  ],
+  "preferred_skills": [],
+  "experience_required": 6.0,
+  "education_required": [
+    "master"
+  ],
+  "location": null,
+  "description": null,
+  "jd_version": 1,
+  "uploaded_at": "2026-05-01T06:47:19Z"
+}

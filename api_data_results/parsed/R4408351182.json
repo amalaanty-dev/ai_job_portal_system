@@ -1,0 +1,52 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "R4408351182",
+  "candidate_id": "C1AFD7F6E6D",
+  "parsed_profile": {
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez@email.com",
+    "phone": "+1 (214) 555-0371",
+    "skills": [
+      "Communication",
+      "Dashboard Development",
+      "ETL",
+      "Excel",
+      "Healthcare Reporting",
+      "KPI Monitoring",
+      "Leadership",
+      "Power BI",
+      "Problem Solving",
+      "Python",
+      "Report Automation",
+      "Revenue Cycle",
+      "SQL",
+      "SQL Server",
+      "Stakeholder Management",
+      "Tableau"
+    ],
+    "experience": [
+      {
+        "role": "Healthcare Reporting Analyst TECHNOLOGIES",
+        "company": "Baylor Scott & White Health",
+        "duration": "Apr 2021 – Present"
+      },
+      {
+        "role": "Reporting Analyst Communication",
+        "company": "HealthSpring Insurance",
+        "duration": "Aug 2019 – Mar 2021"
+      }
+    ],
+    "education": [
+      "B.S. in Health Information Technology",
+      "University of Texas at Dallas · 2019"
+    ],
+    "certifications": [
+      "Microsoft Certified: Power BI Data Analyst Associate (2022)",
+      "Tableau Desktop Specialist (2021)"
+    ],
+    "projects": [],
+    "total_experience_years": 7.0,
+    "raw_text_preview": "Sofia Martinez\nHealthcare Reporting Analyst\nsofia.martinez@email.com | +1 (214) 555-0371 | Dallas, TX | linkedin.com/in/sofiamartinez\nPROFESSIONAL SUMMARY CORE SKILLS\nHealthcare reporting analyst specializing in developing impactful dashboards, Dashboard Development\nautomating routine reports, and communicating data-driven insights to hospital Report Automation\n KPI Monitoring\nleadership and operations teams. Proven track record of reducing manual reporting time\n Data Storytelling\nby 60% through"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}

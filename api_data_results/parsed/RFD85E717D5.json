@@ -1,0 +1,47 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "RFD85E717D5",
+  "candidate_id": "C709559C660",
+  "parsed_profile": {
+    "name": "Aisha Rahman",
+    "email": "aisha.rahman@email.com",
+    "phone": "+1 (202) 555-0563",
+    "skills": [
+      "Cerner",
+      "EHR",
+      "EMR",
+      "Excel",
+      "FHIR",
+      "HIPAA",
+      "HL7",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "role": "TOOLS &",
+        "company": "MedStar Health",
+        "duration": "Sep 2020 – Present"
+      },
+      {
+        "role": "Health Records Technician LANGUAGES",
+        "company": "George Washington University Hospital",
+        "duration": "Jan 2019 – Aug 2020"
+      }
+    ],
+    "education": [
+      "Regulatory Compliance",
+      "B.S. in Health Information Management",
+      "Confidentiality",
+      "George Washington University · 2019"
+    ],
+    "certifications": [
+      "Registered Health Information Administrator (RHIA) – AHIMA (2021)",
+      "HIPAA Privacy & Security Officer Certification (2020)",
+      "Epic HIM Certified (2020)"
+    ],
+    "projects": [],
+    "total_experience_years": 4.0,
+    "raw_text_preview": "Aisha Rahman\nHealth Information Analyst\naisha.rahman@email.com | +1 (202) 555-0563 | Washington, DC | linkedin.com/in/aisharahman\nPROFESSIONAL SUMMARY CORE SKILLS\nHealth information analyst with 4 years of experience managing patient health records, Health Information\nensuring data governance, and maintaining compliance with HIPAA and other healthcare Management\n Data Governance\nregulations. Skilled in EHR/EMR system administration, data integrity audits, and health\n Record Management\ninformatio"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}

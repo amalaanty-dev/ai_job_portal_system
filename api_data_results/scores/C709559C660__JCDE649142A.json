@@ -1,0 +1,14 @@
+{
+  "candidate_id": "C709559C660",
+  "job_id": "JCDE649142A",
+  "final_score": 27.16,
+  "breakdown": {
+    "skills": 12.5,
+    "experience": 56.0,
+    "education": 60.0,
+    "semantic": 7.69
+  },
+  "matched_status": "Rejected",
+  "artifact_type": "score",
+  "generated_at": "2026-05-01T06:49:00Z"
+}

@@ -1,0 +1,38 @@
+{
+  "artifact_type": "parsed_resume",
+  "resume_id": "RFB7E7E8C07",
+  "candidate_id": "C7049C498F3",
+  "parsed_profile": {
+    "name": "Marcus Webb",
+    "email": "marcus.webb@email.com",
+    "phone": "+1 (713) 555-0671",
+    "skills": [
+      "Cpt",
+      "EHR",
+      "Excel",
+      "HIPAA",
+      "Icd-10"
+    ],
+    "experience": [
+      {
+        "role": "Healthcare Data Entry Analyst TOOLS &",
+        "company": "Houston Methodist Hospital",
+        "duration": "Mar 2022 – Present"
+      },
+      {
+        "role": "Data Entry Operator LANGUAGES",
+        "company": "Aetna Insurance – Health Division",
+        "duration": "Jul 2021 – Feb 2022"
+      }
+    ],
+    "education": [],
+    "certifications": [
+      "Certified Medical Administrative Assistant (CMAA) – NHA (2022)",
+      "HIPAA Compliance Training – MedTrainer (2022)"
+    ],
+    "projects": [],
+    "total_experience_years": 2.0,
+    "raw_text_preview": "Marcus Webb\nData Entry Analyst – Healthcare\nmarcus.webb@email.com | +1 (713) 555-0671 | Houston, TX | linkedin.com/in/marcuswebb\nPROFESSIONAL SUMMARY CORE SKILLS\nAccurate and efficient data entry analyst with 2 years in healthcare data management. High-Speed Data Entry\nAdept at inputting, verifying, and maintaining large volumes of patient and medical data Data Validation\n Medical Billing\nwith exceptional speed and precision. Committed to data confidentiality, regulatory\n Record Organization\ncom"
+  },
+  "generated_at": "2026-05-01T06:47:21Z"
+}
