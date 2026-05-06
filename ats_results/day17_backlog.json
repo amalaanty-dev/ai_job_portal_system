@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-05T16:13:40Z",
+  "day": 17,
+  "total_items": 5,
+  "items": {
+    "high": [
+      {
+        "id": "BL-H-01",
+        "title": "Improve non-tech role understanding",
+        "evidence": "Non-tech accuracy: 55.3% (target \u226585%)",
+        "suggestion": "Add domain-specific embeddings for sales/marketing/HR roles."
+      },
+      {
+        "id": "BL-H-02",
+        "title": "Enhance soft skill extraction",
+        "evidence": "114 non-tech candidates scored <60",
+        "suggestion": "Train soft-skill NER on communication/leadership/teamwork tokens."
+      }
+    ],
+    "medium": [],
+    "low": [
+      {
+        "id": "BL-L-01",
+        "title": "UI improvements for recruiter dashboard",
+        "evidence": "Standard UX backlog item",
+        "suggestion": "Add filterable mismatch view in recruiter dashboard."
+      },
+      {
+        "id": "BL-L-02",
+        "title": "Faster API response times",
+        "evidence": "Performance backlog",
+        "suggestion": "Profile scoring pipeline; consider caching parsed JDs."
+      },
+      {
+        "id": "BL-L-03",
+        "title": "Logging enhancements",
+        "evidence": "Currently no per-mismatch trace logging",
+        "suggestion": "Add structured logging for every score decision."
+      }
+    ]
+  }
+}

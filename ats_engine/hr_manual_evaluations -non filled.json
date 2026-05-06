@@ -1,0 +1,2397 @@
+{
+  "version": "1.0",
+  "description": "HR manual evaluation ground truth for Day 17 ATS testing. Keys = 'resume_id::jd_id'.",
+  "instructions": [
+    "1. Run: python scripts/run_ats_testing.py --scaffold-hr  (to auto-create PENDING entries from your scores)",
+    "2. Edit each entry: set 'category' (tech|non_tech|fresher|senior) and 'hr_decision' (Shortlisted|Manual Review|Rejected)",
+    "3. Run: python scripts/run_ats_testing.py  (to compute metrics)",
+    "4. Run: python scripts/generate_ats_report.py  (to build the final report)"
+  ],
+  "evaluations": {
+    "EXAMPLE_resume_id_001::EXAMPLE_jd_id_001": {
+      "candidate_id": "C101",
+      "category": "tech",
+      "role": "Backend Developer",
+      "hr_decision": "Shortlisted",
+      "hr_score": 85,
+      "hr_notes": "Example entry - delete after running --scaffold-hr",
+      "expected_role": "Backend Developer"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Classic_Arjun_Menon::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Classic_Arjun_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Creative_Kiran_Patel::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Creative_Kiran_Patel",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Backend_Developer_Modern_Rahul_Sharma::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Backend_Developer_Modern_Rahul_Sharma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Classic_Kavya_Rajendran::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Classic_Kavya_Rajendran",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Creative_Pooja_Menon::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Creative_Pooja_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Business_Analyst_Modern_Naveen_Shetty::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Business_Analyst_Modern_Naveen_Shetty",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Classic_Aditya_Verma::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Classic_Aditya_Verma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Creative_Rohan_Gupta::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Creative_Rohan_Gupta",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Data_Scientist_Modern_Meera_Subramanian::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Data_Scientist_Modern_Meera_Subramanian",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Classic_Suresh_Kumar::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Classic_Suresh_Kumar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Creative_Anand_Pillai::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Creative_Anand_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "DevOps_Engineer_Modern_Vijay_Rajan::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "DevOps_Engineer_Modern_Vijay_Rajan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Classic_Priya_Nair::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Classic_Priya_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Creative_Deepa_Krishnan::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Creative_Deepa_Krishnan",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Frontend_Developer_Modern_Sneha_Iyer::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Frontend_Developer_Modern_Sneha_Iyer",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Classic_Sreelakshmi_Pillai::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Classic_Sreelakshmi_Pillai",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "HR_Manager_Creative_Anjali_Varma::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Creative_Anjali_Varma::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Creative_Anjali_Varma",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "HR_Manager_Modern_Divya_Rajesh::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "HR_Manager_Modern_Divya_Rajesh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Classic_Lakshmi_Nambiar::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Classic_Lakshmi_Nambiar",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Creative_Riya_Menon::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Creative_Riya_Menon",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Marketing_Executive_Modern_Nisha_Thomas::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Marketing_Executive_Modern_Nisha_Thomas",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Classic_Manoj_Krishnamurthy::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Classic_Manoj_Krishnamurthy",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Sales_Executive_Creative_Arun_Nair::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Creative_Arun_Nair::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Creative_Arun_Nair",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Backend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Business_Analyst_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Clinical_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "clinical data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "clinical data scientist"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Data_Scientist_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::DevOps_Engineer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Frontend_Developer_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Healthcare_Business_Analyst_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "healthcare business analyst",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare business analyst"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Healthcare_Data_Scientist_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "healthcare data scientist",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "healthcare data scientist"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::HR_Manager_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Marketing_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    },
+    "Sales_Executive_Modern_Preethi_Suresh::Sales_Executive_JD_parsed_jd": {
+      "candidate_id": "Sales_Executive_Modern_Preethi_Suresh",
+      "category": "PENDING",
+      "role": "Unknown",
+      "hr_decision": "PENDING",
+      "hr_score": null,
+      "hr_notes": "",
+      "expected_role": "Unknown"
+    }
+  }
+}

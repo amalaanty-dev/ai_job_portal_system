@@ -506,8 +506,8 @@ def _extract_roles_universal(text: str) -> List[Dict]:
                 roles.append({
                     "job_title": title.strip(),
                     "company": company.strip(),
-                    "start_date": _to_iso_date(start.strip(), is_end_date=False),
-                    "end_date": _to_iso_date(end.strip(), is_end_date=True),
+                    "start_date": start.strip(),
+                    "end_date": end.strip(),
                     "duration_months": _approx_months(start, end),
                 })
                 seen_signatures.add(sig)
@@ -525,8 +525,8 @@ def _extract_roles_universal(text: str) -> List[Dict]:
                     roles.append({
                         "job_title": title,
                         "company": company,
-                        "start_date": _to_iso_date(start.strip(), is_end_date=False),
-                        "end_date": _to_iso_date(end.strip(), is_end_date=True),
+                        "start_date": start.strip(),
+                        "end_date": end.strip(),
                         "duration_months": _approx_months(start, end),
                     })
                     seen_signatures.add(sig)
@@ -542,8 +542,8 @@ def _extract_roles_universal(text: str) -> List[Dict]:
                 roles.append({
                     "job_title": title.strip(),
                     "company": company.strip(),
-                    "start_date": _to_iso_date(start.strip(), is_end_date=False),
-                    "end_date": _to_iso_date(end.strip(), is_end_date=True),
+                    "start_date": start.strip(),
+                    "end_date": end.strip(),
                     "duration_months": _approx_months(start, end),
                 })
                 seen_signatures.add(sig)
@@ -560,8 +560,8 @@ def _extract_roles_universal(text: str) -> List[Dict]:
                 roles.append({
                     "job_title": title,
                     "company": company,
-                    "start_date": _to_iso_date(start.strip(), is_end_date=False),
-                    "end_date": _to_iso_date(end.strip(), is_end_date=True),
+                    "start_date": start.strip(),
+                    "end_date": end.strip(),
                     "duration_months": _approx_months(start, end),
                 })
                 seen_signatures.add(sig)
@@ -587,8 +587,8 @@ def _extract_roles_universal(text: str) -> List[Dict]:
                         roles.append({
                             "job_title": title,
                             "company": company.strip(),
-                            "start_date": _to_iso_date(start.strip(), is_end_date=False),
-                            "end_date": _to_iso_date(end.strip(), is_end_date=True),
+                            "start_date": start.strip(),
+                            "end_date": end.strip(),
                             "duration_months": _approx_months(start, end),
                         })
                         seen_signatures.add(sig)
@@ -661,70 +661,6 @@ def _month_to_int(month_str: str) -> int:
         "november": 11, "december": 12,
     }
     return months.get(month_str.strip().lower()[:4], 1)
-
-
-def _to_iso_date(date_str: str, is_end_date: bool = False) -> str:
-    """
-    Normalize a date string to ISO format YYYY-MM-DD so downstream
-    code (build_experience_summary, datetime.fromisoformat) can parse it.
-
-    Examples:
-        "Jul 2021"     -> "2021-07-01"
-        "2021"         -> "2021-01-01" (or 2021-12-31 if is_end_date)
-        "Present"      -> today's ISO date
-        "Dec 2024"     -> "2024-12-01"
-        "2021-07-01"   -> "2021-07-01" (already ISO; passthrough)
-    """
-    if not date_str:
-        return ""
-    s = str(date_str).strip()
-    if not s:
-        return ""
-
-    # Already ISO format YYYY-MM-DD?
-    if re.match(r'^\d{4}-\d{2}-\d{2}$', s):
-        return s
-
-    # Present / current
-    if s.lower() in {"present", "current", "till date", "ongoing"}:
-        from datetime import date
-        return date.today().isoformat()
-
-    # Match "Mon YYYY" or "MonthName YYYY"
-    m = re.match(r'^([A-Za-z]+)\s+(\d{4})$', s)
-    if m:
-        month_str, year = m.groups()
-        month = _month_to_int(month_str)
-        return f"{int(year):04d}-{month:02d}-01"
-
-    # Just YYYY
-    m = re.match(r'^(\d{4})$', s)
-    if m:
-        year = int(m.group(1))
-        if is_end_date:
-            return f"{year:04d}-12-31"
-        return f"{year:04d}-01-01"
-
-    # YYYY-MM
-    m = re.match(r'^(\d{4})-(\d{1,2})$', s)
-    if m:
-        year, month = m.groups()
-        return f"{int(year):04d}-{int(month):02d}-01"
-
-    # MM/YYYY or M/YYYY
-    m = re.match(r'^(\d{1,2})/(\d{4})$', s)
-    if m:
-        month, year = m.groups()
-        return f"{int(year):04d}-{int(month):02d}-01"
-
-    # MM-YYYY
-    m = re.match(r'^(\d{1,2})-(\d{4})$', s)
-    if m:
-        month, year = m.groups()
-        return f"{int(year):04d}-{int(month):02d}-01"
-
-    # Couldn't parse — return empty string (safer than passing junk to fromisoformat)
-    return ""
 
 
 def _total_months_from_roles(roles: List[Dict]) -> int:

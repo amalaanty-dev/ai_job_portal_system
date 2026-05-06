@@ -127,52 +127,16 @@ def _inject_section_breaks(text: str) -> str:
     """
     Insert newlines around section header phrases so they appear on their own line.
 
-    BUGFIX: Only inject breaks for phrases that appear as TRUE headers — i.e.,
-    in ALL CAPS or Title Case at the start/end of a line. Lowercase occurrences
-    inside duty text (e.g. "knowledge graph projects.") are NOT matched.
-
     BUGFIX: Sort longer phrases first so 'machine learning projects' is matched
     before 'projects', preventing 'MACHINE LEARNING' from leaking into 'skills'.
     """
     phrases_sorted = sorted(_SAFE_BREAK_PHRASES, key=len, reverse=True)
-    escaped_phrases = '|'.join(re.escape(p) for p in phrases_sorted)
-
-    # Only match a header phrase if it's:
-    #   1. ALL UPPERCASE — "PROJECTS", "MACHINE LEARNING PROJECTS"
-    #      OR
-    #   2. Title Case standalone on its own line — "Machine Learning Projects"
-    # AND the entire match must look like a header line (not buried in prose).
-
     pattern = (
-        r'(?:^|\n)'                        # start of line (no lookbehind)
-        r'\s*'                             # optional leading whitespace
-        r'(' + escaped_phrases + r')'      # the phrase (case-INSENSITIVE)
-        r'(?=\s*[:\-]?\s*(?:\n|$))'        # followed by optional separator + end of line
+        r'(?i)(?<!\w)('
+        + '|'.join(re.escape(p) for p in phrases_sorted)
+        + r')(?!\w)'
     )
-
-    def _replace_full(match):
-        full = match.group(0)
-        phrase = match.group(1)
-        if phrase.isupper() or _is_title_case_phrase(phrase):
-            return '\n' + phrase + '\n'
-        return full  # return original (don't modify)
-
-    return re.sub(pattern, _replace_full, text, flags=re.IGNORECASE | re.MULTILINE)
-
-
-def _is_title_case_phrase(phrase: str) -> bool:
-    """Check if every word in the phrase starts with uppercase."""
-    words = phrase.split()
-    if not words:
-        return False
-    # Allow short connector words to be lowercase
-    connectors = {'and', 'of', 'the', 'a', 'an', 'in', '&', 'for'}
-    for w in words:
-        if w.lower() in connectors:
-            continue
-        if not w[0].isupper():
-            return False
-    return True
+    return re.sub(pattern, r'\n\1\n', text)
 
 
 def _detect_section(line: str) -> str:
